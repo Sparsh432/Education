@@ -1,0 +1,108 @@
+{
+    "chapters": [
+        {
+            "name": "May",
+            "questions": [
+                { "question": "Which team won the IPL 2024??", "answer": "Kolkata Knight Riders (KKR)" },
+                { "question": "Who was named the Most Valuable Player of IPL 2024?", "answer": "Sunil Narine (KKR)" },
+                { "question": "Who was named the Emerging Player of the Season in IPL 2024?", "answer": "Nitish Kumar Reddy (SRH)" },
+                { "question": "Which stadium won the Pitch and Ground Award for IPL 2024?", "answer": "Rajiv Gandhi International Stadium, Hyderabad." },
+                { "question": "Who won the 2024 Tata Consultancy Services World 10K Bengaluru in the international elite men's category?", "answer": "Peter Mwaniki from Kenya." },
+                { "question": "Who won the 2024 Tata Consultancy Services World 10K Bengaluru in the international elite women's category?", "answer": "Lilian Kasait from Kenya." },
+                { "question": "Which cricket team did Amul become the Lead Arm sponsor for during the T20 World Cup in June 2024?", "answer": "USA and South Africa cricket teams." },
+                { "question": "Who won the 2024 Goldman Environmental Prize from India?", "answer": "Alok Shukla." },
+                { "question": "What is the Goldman Environmental Prize also known as?", "answer": "The Green Nobel Prize" },
+                { "question": "Name one of the winners of the 2024 Goldman Environmental Prize from Europe.", "answer": "Teresa Vicente from Spain." },
+                { "question": "Who received the Pandit Lacchu Maharaj Award 2024?", "answer": "Pandit Rajendra Gangani." },
+                { "question": "Which company launched a co-branded RuPay credit card with IndusInd Bank in May 2024?", "answer": "Poonawalla Fincorp." },
+                { "question": "Who was appointed as the new CEO of Narcl in May 2024?", "answer": "P. Santhosh." },
+                { "question": "Who was appointed as the new brand ambassador of Muthoot Pappachan Group in May 2024?", "answer": "Shah Rukh Khan." },
+                { "question": "Who was approved as the Chairman of ICICI Prudential Board by IRDAI in May 2024?", "answer": "Sandeep Batra" },
+                { "question": "Who was appointed as the Chairman of the Staff Selection Commission (SSC) in May 2024?", "answer": "Rakesh Ranjan." },
+                { "question": "Who was elected as the new Director-General of the World Organisation for Animal Health (WOAH) in May 2024?", "answer": "Dr. Emmanuelle Soubeyran." },
+                { "question": "By what percentage did the Indian economy grow in Q4 FY24 according to SBI Research Report?", "answer": "7.4%" },
+                { "question": "What was the overall growth rate of the Indian economy in FY24 according to SBI Research Report?", "answer": "8%" },
+                { "question": "Who was appointed as the new CEO of Sony India in May 2024?", "answer": "Gaurav Banerjee." },
+                { "question": "Which Indian city will host the 2025 BWF World Junior Badminton Championships?", "answer": "Guwahati" },
+                { "question": "Who imposed a five-year ban on West Indies cricketer Devon Thomas for anti-corruption breaches in May 2024?", "answer": "International Cricket Council (ICC)." },
+                { "question": "What is India's position on the World Press Freedom Index 2024?", "answer": "159" },
+                { "question": "Which company launched the Simulation Centre of Excellence for Airbus in Bengaluru in May 2024?", "answer": "L&T Technology Services" },
+                { "question": "When is World Press Freedom Day celebrated?", "answer": "May 3" },
+                { "question": "Who was elected as the Chairman of NAFED in May 2024?", "answer": "Jetha Ahir." },
+                { "question": "Which notable personality associated with Indian classical music passed away in May 2024?", "answer": "Ustad Rashid Khan" },
+                { "question": "Which team received the Fair Play Award in IPL 2024?", "answer": "Sunrisers Hyderabad (SRH)" },
+                { "question": "Who is the first woman to achieve the net worth of $100 billion?", "answer": "Bettencourt Meyers" },
+                { "question": "Who is the richest person in South America?", "answer": "Carlos Slim" }
+            ]
+        },
+        {
+            "name": "April",
+            "questions": [
+                { "question": "Who were named the Players of the Year in the 2023 Hockey India Awards?", "answer": " Hardik Singh (Men's) and Salima Tete (Women's)" },
+                { "question": "When will the revived Hockey India League (HIL) return?", "answer": "January 2025" },
+                { "question": "Who is the only Indian in the top 10 of Forbes World's Billionaires List 2024?", "answer": "Mukesh Ambani" },
+                { "question": "Who is the youngest Indian billionaire on the Forbes list?", "answer": "Nikhil Kamath" },
+                { "question": "What is the current policy repo rate as per the RBI's April 2024 announcement?", "answer": "6.5%" },
+                { "question": "What is the projected Real GDP growth for FY25 according to the RBI?", "answer": "7%" },
+                { "question": "How many individuals were included in the 2024 Young Global Leaders list by the WEF?", "answer": "Nearly 90" },
+                { "question": "Name one Indian included in the WEF 2024 Young Global Leaders list.", "answer": "Bhumi Pednekar" },
+                { "question": "Where is the World Economic Forum headquartered?", "answer": "Cologny, Switzerland" },
+                { "question": "Which country has the highest number of unicorns according to the Hurun Global Unicorn Index 2024?", "answer": "USA (703)" },
+                { "question": "How many unicorns does India have according to the Hurun Global Unicorn Index 2024?", "answer": "67" },
+                { "question": "When did the Jallianwala Bagh Massacre occur?", "answer": "April 13, 1919." },
+                { "question": "Who ordered the firing on the unarmed gathering at Jallianwala Bagh?", "answer": "General Dyer" },
+                { "question": "Which countries top the World Cybercrime Index?", "answer": "Russia and Ukraine" },
+                { "question": "Name one of the researchers involved in developing the World Cybercrime Index.", "answer": "Miranda Bruce" },
+                { "question": "Which award did P.R. Sreejesh receive at the Hockey India Awards 2023?", "answer": "P.R. Sreejesh" },
+                { "question": "Who is the Chief Executive Officer of Nyka Fashion included in the WEF 2024 Young Global Leaders list?", "answer": "Adwaita Nayar" },
+                { "question": "What is the Standing Deposit Facility (SDF) rate according to the RBI's April 2024 announcement?", "answer": "6.25%" },
+                { "question": "Which Indian received the Major Dhyan Chand Lifetime Achievement Award at the Hockey India Awards 2023?", "answer": "Ashok Kumar" },
+                { "question": "What was the total flow of resources to the commercial sector in FY24 according to the RBI?", "answer": "31.2 Lakh Crore" },
+                { "question": "Who is the founder and CEO of Dexterity Global included in the WEF 2024 Young Global Leaders list?", "answer": "Sarad Vivek Sagar" },
+                { "question": "What is the fixed reverse repo rate as per the RBI's April 2024 announcement?", "answer": "3.35%" },
+                { "question": "Who is the Director of Jubilant Group included in the WEF 2024 Young Global Leaders list?", "answer": "Arjun Bharatia" },
+                { "question": "What is the Cash Reserve Ratio (CRR) as per the RBI's April 2024 announcement?", "answer": "4.5%" },
+                { "question": "Who is the Indian entrepreneur and co-founder of BharatPe included in the WEF 2024 Young Global Leaders list?", "answer": "Shashvat Nakrani" },
+                { "question": "What is the Statutory Liquidity Ratio (SLR) as per the RBI's April 2024 announcement?", "answer": "18%" },
+                { "question": "What is the net worth of Bernard Arnault & family who topped Forbes World's Billionaires List 2024?", "answer": "$211 billion" }
+                
+            ]
+        },
+        {
+            "name": "March",
+            "questions": [
+                { "question": "Who presented the first-ever National Creators Award in 2024?", "answer": " PM Narendra Modi" },
+                { "question": "How many categories are included in the National Creators Award?", "answer": "20" },
+                { "question": "Who won the Best Creator for Social Change award at the National Creators Award?", "answer": "Jaya Kishori" },
+                { "question": "Which actor won the Best Actor award at the Oscars 2024 for his role in 'Oppenheimer'?", "answer": "Cillian Murphy" },
+                { "question": "Who inaugurated the 125-foot bronze statue of Lachit Borphukan in Jorhat, Assam?", "answer": " PM Narendra Modi" },
+                { "question": "What significant infrastructure project did Prime Minister Narendra Modi inaugurate in Gurgaon?", "answer": "Dwaraka Expressway" },
+                { "question": "What did Union Home Minister Amit Shah inaugurate in Delhi as part of the 'Dilli Gramodaya Abhiyan'?", "answer": "Piped Natural Gas (PNG) facilities in 41 villages and various development projects in 178 villages ." },
+                { "question": "Who unveiled India's fastest and indigenously developed IP/MPLS router in Bengaluru?", "answer": "Union Minister Ashwini Vaishnaw" },
+                { "question": "How many airport projects did Prime Minister Narendra Modi inaugurate in Uttar Pradesh's Azamgarh?", "answer": "15" },
+                { "question": "Who celebrated its 19th Foundation Day at the Jacaranda Hall, Indian Habitat Centre, New Delhi?", "answer": "The National Commission for Protection of Child Rights (NCPCR)" },
+                { "question": "Who will inaugurate the digital exhibition 'Subhash Abhinandan' in New Delhi on March 11th?", "answer": "Arjun Ram Meghwal, Minister of State for Parliamentary Affairs and Culture" },
+                { "question": "What campaign did the Ministry of Women and Child Development organize from March 9 to March 23, 2024?", "answer": "Poshan Pakhwada." },
+                { "question": "What was the value of the projects inaugurated by Prime Minister Narendra Modi in Madhya Pradesh under the Swadesh Darshan 2.0 scheme?", "answer": "Rs 118 crore 72 lakh" },
+                { "question": "What is the Sela Tunnel project's significance?", "answer": "providing all-weather connectivity at an altitude of 13,000 feet" },
+                { "question": "Who were honored with the prestigious 'Diana Memorial Award' on 14 March 2024?", "answer": "Uday Bhatia and Manasi Gupta" },
+                { "question": "Which Carnatic musician was chosen as the Sangita Kalanidhi awardee for 2024?", "answer": "Thodur Madabusi Krishna" },
+                { "question": "Who won the 33rd Saraswati Samman for the year 2023?", "answer": "Prabha Varma (verse : Roudra Sathwikam)" },
+                { "question": "Who received the prestigious Maharashtra Gaurav Award for contributions to Bharata Natyam?", "answer": "Dr. Uma Rele" },
+                { "question": "Who became the first non-Bhutanese to receive the 'Order of the Druk Gyalpo'?", "answer": " PM Narendra Modi" },
+                { "question": "Which organization was honored with the Aviation Week Laureates Award for its achievements in the Chandrayaan-3 mission?", "answer": "ISRO" },
+                { "question": "Who were awarded the first “Global Inequality Research Award” for their contributions to understanding global inequalities?", "answer": "Bina Agarwal and James Boyce" },
+                { "question": "What is the budget allocated for the IndiaAI mission approved by the Indian Cabinet?", "answer": "Rs. 10,371.92 crore" },
+                { "question": "What does the NAMASTE Scheme aim to eliminate, and which ministries are involved?", "answer": "The NAMASTE Scheme aims to eliminate manual engagement of sanitation workers in hazardous cleaning operations and is a joint initiative by the Ministry of Social Justice and Empowerment and the Ministry of Housing and Urban Affairs ." },
+                { "question": "Which scheme launched by Prime Minister Narendra Modi provides financial assistance to women in Chhattisgarh?", "answer": "Mahtari Vandan Yojana" },
+                { "question": "What did the National Archives of India commemorate with the digital exhibition “Subhash Abhinandan”?", "answer": "Life of Subhash Chandra Bose" },
+                { "question": "Who is the Best International Creator according to the National Creators Award 2024?", "answer": "Carlos Calderon was named the Best International Creator" },
+                { "question": "What is the budget for the Revamped Pharmaceuticals Technology Upgradation Assistance Scheme?", "answer": "Rs 400 crore" },   
+                { "question": "What significant facility was inaugurated in Pune by Prime Minister Narendra Modi?", "answer": "Command Hospital (Southern Command) in Pune ." },
+                { "question": "કેમ છો ?", "answer": "Command Hospital (Southern Command) in Pune ." }
+                
+
+            ]
+        }
+    ]
+}
