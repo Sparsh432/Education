@@ -1,0 +1,1253 @@
+{
+    "chapters": [
+        {
+            "name": "1. Understanding Diversity",
+            "questions": [
+                {
+                    "question": "Why are the three children's drawings different?",
+                    "options": ["Because they are of different ages", "Because each one has a unique drawing style", "Because they used different colors", "Because they drew at different times"],
+                    "answer": 1
+                },
+                {
+                    "question": "What does the text suggest about making friends with someone different?",
+                    "options": ["It is impossible to make friends with someone different", "It can be difficult but possible", "It is easy to make friends with someone different", "You should only make friends with similar people"],
+                    "answer": 1
+                },
+                {
+                    "question": "What language does Samir Ek speak more fluently?",
+                    "options": ["Hindi", "English", "Urdu", "French"],
+                    "answer": 1
+                },
+                {
+                    "question": "What was Samir Do's initial reaction when Samir Ek asked for the Hindi paper?",
+                    "options": ["He smiled", "He laughed", "His mouth fell open", "He ignored him"],
+                    "answer": 2
+                },
+                {
+                    "question": "What does the word 'subject' sound like to Samir Do?",
+                    "options": ["Something to study", "To be ruled by someone else", "A hobby", "A school activity"],
+                    "answer": 1
+                },
+                {
+                    "question": "Why did Samir Do stop appearing at the crossing?",
+                    "options": ["He moved to another city", "He started going to school", "There were riots in Meerut", "He found a new job"],
+                    "answer": 2
+                },
+                {
+                    "question": "What does the term 'inequality' refer to in the text?",
+                    "options": ["Difference in cultural backgrounds", "Difference in language", "Lack of resources and opportunities", "Difference in drawing styles"],
+                    "answer": 2
+                },
+                {
+                    "question": "What system is mentioned as an example of inequality?",
+                    "options": ["Education system", "Caste system", "Economic system", "Political system"],
+                    "answer": 1
+                },
+                {
+                    "question": "What is one way Samir Ek and Samir Do are different?",
+                    "options": ["They have different names", "They speak different languages", "They go to different schools", "They have different hobbies"],
+                    "answer": 1
+                },
+                {
+                    "question": "How do storytellers get their ideas according to the text?",
+                    "options": ["From their imagination", "From real life experiences", "From books", "All of the above"],
+                    "answer": 3
+                },
+                {
+                    "question": "What does diversity add to our lives?",
+                    "options": ["Uniformity", "Similarity", "Variety and richness", "Confusion"],
+                    "answer": 2
+                },
+                {
+                    "question": "What is the primary theme of the story of Samir Ek and Samir Do?",
+                    "options": ["Friendship despite differences", "Importance of education", "Cultural festivals", "Economic disparity"],
+                    "answer": 0
+                },
+                {
+                    "question": "Why does Samir Ek find it incredible that both he and the newspaper boy are named Samir?",
+                    "options": ["Because they look so different", "Because it is a rare name", "Because they have different religious backgrounds", "Because they both sell newspapers"],
+                    "answer": 0
+                },
+                {
+                    "question": "What did Samir Do ask Samir Ek to explain?",
+                    "options": ["The name Samir", "The meaning of subject", "His school", "His bicycle"],
+                    "answer": 1
+                },
+                {
+                    "question": "How does the text describe inequality?",
+                    "options": ["As a natural difference", "As a lack of resources and opportunities", "As a positive trait", "As a result of language differences"],
+                    "answer": 1
+                },
+                {
+                    "question": "What example does the text give to explain cultural diversity?",
+                    "options": ["Celebrating different festivals", "Wearing similar clothes", "Eating the same food", "Playing the same games"],
+                    "answer": 0
+                },
+                {
+                    "question": "What do the two Samirs have in common?",
+                    "options": ["Their religious background", "Their name", "Their job", "Their school"],
+                    "answer": 1
+                },
+                {
+                    "question": "According to the text, what is an aspect of diversity?",
+                    "options": ["Economic status", "Cultural and religious backgrounds", "Physical appearance", "Educational level"],
+                    "answer": 1
+                },
+                {
+                    "question": "What does the story of the two Samirs illustrate about communication?",
+                    "options": ["It is only possible between similar people", "Effort is needed to communicate despite differences", "It is best avoided between different cultures", "It should be limited to written forms"],
+                    "answer": 1
+                },
+                {
+                    "question": "What question does the text ask about making friends?",
+                    "options": ["Is it important to have friends?", "Can you make friends with someone very different from you?", "Should you only have friends from your own culture?", "How many friends do you have?"],
+                    "answer": 1
+                },
+                {
+                    "question": "How did people travel more than two hundred years ago?",
+                    "options": ["In ships, on horses, on camels, or on foot", "By train, aeroplane, bus, or car", "By bicycles and motorcycles", "By hot air balloons"],
+                    "answer": 0
+                },
+                {
+                    "question": "Why did people leave their homes two hundred years ago?",
+                    "options": ["To find educational opportunities", "To escape natural disasters", "To find new lands and trade", "To explore outer space"],
+                    "answer": 2
+                },
+                {
+                    "question": "What is Ladakh known for?",
+                    "options": ["Coconut plantations", "Spice cultivation", "Fishing industry", "Pashmina wool"],
+                    "answer": 3
+                },
+                {
+                    "question": "What geographical feature is Kerala known for?",
+                    "options": ["Spices and coastal location", "Desert climate", "High altitude mountains", "Dense forests"],
+                    "answer": 0
+                },
+                {
+                    "question": "Which religions are practiced in Kerala?",
+                    "options": ["Only Hinduism and Buddhism", "Judaism, Islam, Christianity, Hinduism, and Buddhism", "Only Christianity and Islam", "Only Judaism and Hinduism"],
+                    "answer": 1
+                },
+                {
+                    "question": "What influenced the culture of Ladakh and Kerala?",
+                    "options": ["Chinese and Arab traders", "Only local traditions", "Western colonization", "African traders"],
+                    "answer": 0
+                },
+                {
+                    "question": "What was Ladakh’s significance in trade?",
+                    "options": ["It was a center for the silk industry", "It produced large quantities of spices", "It had a major port", "It was a good trade route with many passes"],
+                    "answer": 3
+                },
+                {
+                    "question": "What did the people in Ladakh primarily rely on for drinking water?",
+                    "options": ["Rivers", "Rainwater", "Melting snow", "Underground wells"],
+                    "answer": 2
+                },
+                {
+                    "question": "What is a significant aspect of diversity in India?",
+                    "options": ["Different languages, foods, festivals, and religions", "Uniform language and culture", "One type of cuisine", "Single religion practice"],
+                    "answer": 0
+                },
+                {
+                    "question": "What brought different cultural influences to Kerala?",
+                    "options": ["Colonial rulers", "Traders and travelers from various parts of the world", "Internal migration", "Natural resources"],
+                    "answer": 1
+                },
+                {
+                    "question": "How did geography influence the culture of Kerala?",
+                    "options": ["Cultivation of spices due to fertile land and climate", "Mining activities", "Industrial development", "Isolation from other regions"],
+                    "answer": 0
+                },
+                {
+                    "question": "What was a common result of historical and geographical factors in India?",
+                    "options": ["Diverse cultural practices", "Uniform cultural practices", "Isolation from other cultures", "Decline in trade"],
+                    "answer": 0
+                },
+                {
+                    "question": "How did people in cities often obtain their food and goods?",
+                    "options": ["Through barter system", "By growing their own vegetables", "From the market", "From government supplies"],
+                    "answer": 2
+                },
+                {
+                    "question": "What does the term 'unity in diversity' mean in the context of India?",
+                    "options": ["Being united despite cultural differences", "Uniformity in all cultural practices", "Segregation based on cultural practices", "Cultural isolation"],
+                    "answer": 0
+                },
+                {
+                    "question": "What does the chapter mention as a source of India's strength?",
+                    "options": ["Its uniformity", "Its diversity", "Its isolation", "Its colonial history"],
+                    "answer": 1
+                },
+                {
+                    "question": "What did the British think they could do to continue ruling India?",
+                    "options": ["Divide Indians because they were so different", "Unify Indians", "Isolate Indians", "Convert Indians to Christianity"],
+                    "answer": 0
+                },
+                {
+                    "question": "What was the significance of the song after the Jallianwala Bagh massacre?",
+                    "options": ["It honored the memory of those who died", "It celebrated a festival", "It was a victory song", "It was a traditional lullaby"],
+                    "answer": 0
+                },
+                {
+                    "question": "Who composed India's national anthem?",
+                    "options": ["Subhash Chandra Bose", "Jawaharlal Nehru", "Mahatma Gandhi", "Rabindranath Tagore"],
+                    "answer": 3
+                },
+                {
+                    "question": "What did Jawaharlal Nehru describe as 'unity in diversity'?",
+                    "options": ["India's industrial development", "India's uniform language policy", "India's wide tolerance of belief and custom", "India's geographical features"],
+                    "answer": 2
+                },
+                {
+                    "question": "What geographical area does Ladakh belong to?",
+                    "options": ["The east of Jammu and Kashmir", "The south-west of India", "The central plateau", "The coastal region"],
+                    "answer": 0
+                }
+
+            ]
+        },
+        {
+            "name": "2. Diversity and Discrimination",
+            "questions": [
+                {
+                    "question": "How many major religions in the world are practiced in India?",
+                    "options": ["Five", "Six", "Seven", "Eight"],
+                    "answer": 3
+                },
+                {
+                    "question": "Approximately how many languages are spoken as mother tongues in India?",
+                    "options": ["Over 100", "Over 500", "Over 1000", "Over 1600"],
+                    "answer": 3
+                },
+                {
+                    "question": "Why is diversity in India not always celebrated?",
+                    "options": ["Because of lack of awareness", "Because people feel safe with those who are similar to them", "Because of economic differences", "Because of political reasons"],
+                    "answer": 1
+                },
+                {
+                    "question": "What does 'prejudice' mean?",
+                    "options": ["To judge other people positively", "To judge other people neutrally", "To judge other people negatively", "To judge other people fairly"],
+                    "answer": 2
+                },
+                {
+                    "question": "What happens when we think that only one particular way is the best and right way to do things?",
+                    "options": ["We end up respecting others", "We end up understanding others", "We end up not respecting others", "We end up helping others"],
+                    "answer": 2
+                },
+                {
+                    "question": "What is a common stereotype about boys?",
+                    "options": ["They are soft and gentle", "They don't cry", "They are well-behaved", "They are weak"],
+                    "answer": 1
+                },
+                {
+                    "question": "What is the impact of stereotypes on individuals?",
+                    "options": ["They help people understand each other", "They create positive images", "They prevent us from seeing each person as unique", "They encourage diversity"],
+                    "answer": 2
+                },
+                {
+                    "question": "What does the term 'Dalit' mean?",
+                    "options": ["Broken", "Untouchable", "Superior", "Equal"],
+                    "answer": 0
+                },
+                {
+                    "question": "Who is considered the father of the Indian Constitution?",
+                    "options": ["Mahatma Gandhi", "Jawaharlal Nehru", "Dr Bhimrao Ambedkar", "Sardar Patel"],
+                    "answer": 2
+                },
+                {
+                    "question": "What was Dr Bhimrao Ambedkar's first experience of caste-based discrimination?",
+                    "options": ["When he was not allowed in a temple", "When he was denied water from a well", "When he was not provided a bullock-cart ride", "When he was not allowed to enter school"],
+                    "answer": 2
+                },
+                {
+                    "question": "What did Dr Ambedkar encourage Dalits to do?",
+                    "options": ["Join politics", "Start businesses", "Send their children to school and college", "Migrate to cities"],
+                    "answer": 2
+                },
+                {
+                    "question": "What did Dr Ambedkar do later in life in his search for a religion that treated all members equally?",
+                    "options": ["Converted to Christianity", "Converted to Buddhism", "Converted to Islam", "Converted to Jainism"],
+                    "answer": 1
+                },
+                {
+                    "question": "What is a prejudice?",
+                    "options": ["A fair opinion about others", "A neutral opinion about others", "A positive opinion about others", "A negative opinion about others"],
+                    "answer": 3
+                },
+                {
+                    "question": "How can prejudices affect our behavior towards others?",
+                    "options": ["By making us more empathetic", "By making us indifferent", "By making us respectful", "By making us act in ways that hurt them"],
+                    "answer": 3
+                },
+                {
+                    "question": "Which of the following is a common stereotype about urban people?",
+                    "options": ["They are hardworking", "They are family-oriented", "They are money-minded", "They love nature"],
+                    "answer": 2
+                },
+                {
+                    "question": "What is the term used now instead of 'disabled'?",
+                    "options": ["Handicapped", "Differently-abled", "Special needs", "Impaired"],
+                    "answer": 2
+                },
+                {
+                    "question": "What is the main difference between diversity and inequality?",
+                    "options": ["Diversity is about social differences, inequality is about economic differences", "Diversity is about economic differences, inequality is about social differences", "Diversity is about religious differences, inequality is about cultural differences", "Diversity is about geographical differences, inequality is about language differences"],
+                    "answer": 0
+                },
+                {
+                    "question": "What does discrimination result from?",
+                    "options": ["Economic equality", "Acting on prejudices or stereotypes", "Cultural diversity", "Religious freedom"],
+                    "answer": 1
+                },
+                {
+                    "question": "What did Dr Ambedkar fight for?",
+                    "options": ["Economic reforms", "Religious dominance", "Rights of the Dalit community", "Political independence"],
+                    "answer": 2
+                },
+                {
+                    "question": "Which of the following is NOT an example of discrimination?",
+                    "options": ["Preventing people from taking part in activities", "Stopping people from taking up jobs", "Allowing everyone to drink tea in the same cups", "Preventing people from living in certain neighborhoods"],
+                    "answer": 2
+                },
+                {
+                    "question": "Why did the stationmaster leave Dr Ambedkar and his siblings stranded?",
+                    "options": ["Because they revealed they were Mahars", "Because they were not well-dressed", "Because they had no money", "Because they were Brahmin children"],
+                    "answer": 0
+                },
+                {
+                    "question": "What did the bullock-cart men refuse to do for Dr Ambedkar and his siblings?",
+                    "options": ["Give them food", "Give them shelter", "Give them a ride", "Give them water"],
+                    "answer": 2
+                },
+                {
+                    "question": "What did Dr Ambedkar believe Dalits must fight against?",
+                    "options": ["Political systems", "Economic systems", "Religious systems", "Caste system"],
+                    "answer": 3
+                },
+                {
+                    "question": "What kind of jobs did Dr Ambedkar urge Dalits to take on?",
+                    "options": ["Corporate jobs", "Agricultural jobs", "Government jobs", "International jobs"],
+                    "answer": 2
+                },
+                {
+                    "question": "What aspect of diversity can be a source of discrimination?",
+                    "options": ["Economic differences", "Religious differences", "Geographical differences", "Political differences"],
+                    "answer": 1
+                },
+                {
+                    "question": "Which groups of people fought for equality during the struggle for freedom from British rule?",
+                    "options": ["Dalits, women, tribals, and peasants", "Children, elderly, and disabled", "Men, soldiers, and traders", "Farmers, artists, and teachers"],
+                    "answer": 0
+                },
+                {
+                    "question": "What did Dalits organize themselves to gain entry into?",
+                    "options": ["Schools", "Government offices", "Temples", "Markets"],
+                    "answer": 2
+                },
+                {
+                    "question": "What right did women demand during the struggle for freedom?",
+                    "options": ["Right to vote", "Right to education", "Right to work", "Right to property"],
+                    "answer": 1
+                },
+                {
+                    "question": "What was one of the main goals set out in the Constitution of India?",
+                    "options": ["Economic prosperity for all", "Military strength", "Equality of all persons", "Cultural dominance"],
+                    "answer": 2
+                },
+                {
+                    "question": "What practice was legally abolished by the Indian Constitution?",
+                    "options": ["Child labor", "Untouchability", "Slavery", "Forced marriages"],
+                    "answer": 1
+                },
+                {
+                    "question": "What type of country did India become after independence?",
+                    "options": ["Religious", "Military", "Secular", "Economic"],
+                    "answer": 2
+                },
+                {
+                    "question": "Who was one of the leaders that fought for the rights of Dalits?",
+                    "options": ["Mahatma Gandhi", "Jawaharlal Nehru", "Dr Bhimrao Ambedkar", "Sardar Patel"],
+                    "answer": 2
+                },
+                {
+                    "question": "What did the writers of the Constitution feel was a significant element in ensuring equality?",
+                    "options": ["Economic growth", "Respect for diversity", "Technological advancement", "Military power"],
+                    "answer": 1
+                },
+                {
+                    "question": "What freedom is given to people of different religions in India?",
+                    "options": ["Freedom to celebrate their festivals", "Freedom to follow their religion without fear of discrimination", "Freedom to impose their religion on others", "Freedom to ignore other religions"],
+                    "answer": 1
+                },
+                {
+                    "question": "What does the Constitution place on the government regarding the right to equality?",
+                    "options": ["Responsibility to ignore it", "Responsibility to take specific steps to realize it", "Responsibility to limit it", "Responsibility to prioritize other rights"],
+                    "answer": 1
+                },
+                {
+                    "question": "What does the Constitution state about language, religion, and festivals?",
+                    "options": ["One language, religion, and festival should become compulsory for all", "All languages, religions, and festivals should be abolished", "No one language, religion, or festival should become compulsory for all", "Only traditional languages, religions, and festivals should be followed"],
+                    "answer": 2
+                },
+                {
+                    "question": "Why is equality seen as a key value that unites Indians?",
+                    "options": ["Because it promotes economic growth", "Because it ensures equal rights and opportunities for all", "Because it encourages military strength", "Because it focuses on cultural dominance"],
+                    "answer": 1
+                },
+                {
+                    "question": "What was one struggle of peasants and tribals during the freedom movement?",
+                    "options": ["Gaining entry into schools", "Releasing themselves from the grasp of the moneylender", "Securing government jobs", "Accessing healthcare"],
+                    "answer": 1
+                },
+                {
+                    "question": "Who wrote the Constitution of India?",
+                    "options": ["Freedom fighters", "British officials", "Political leaders", "Social activists"],
+                    "answer": 2
+                },
+                {
+                    "question": "What is necessary to make equality a reality for all Indians?",
+                    "options": ["People’s struggles and positive actions by the government", "Technological advancements", "Military strength", "Cultural dominance"],
+                    "answer": 0
+                }
+
+            ]
+        },
+        {
+            "name": "3. What is Government?",
+            "questions": [
+                {
+                    "question": "What does every country need to make decisions and get things done?",
+                    "options": ["Government", "Army", "Citizens", "Businesses"],
+                    "answer": 0
+                },
+                {
+                    "question": "What type of decisions might a government make?",
+                    "options": ["Where to build roads and schools", "How to run businesses", "How to manage personal finances", "How to teach children"],
+                    "answer": 0
+                },
+                {
+                    "question": "What social issues does the government take action on?",
+                    "options": ["Organizing sports events", "Helping the poor", "Managing personal relationships", "Creating art exhibitions"],
+                    "answer": 1
+                },
+                {
+                    "question": "What essential services does the government run?",
+                    "options": ["Internet services", "Grocery stores", "Postal and railway services", "Private schools"],
+                    "answer": 2
+                },
+                {
+                    "question": "What is one of the government's responsibilities during natural disasters?",
+                    "options": ["Organizing aid and assistance", "Ignoring the situation", "Closing down services", "Raising taxes"],
+                    "answer": 0
+                },
+                {
+                    "question": "Why is it necessary for governments to make rules?",
+                    "options": ["To promote tourism", "To make friends", "To entertain people", "To control resources and protect territory"],
+                    "answer": 3
+                },
+                {
+                    "question": "At which levels does the government work?",
+                    "options": ["Local, state, and national levels", "Regional, district, and global levels", "City, county, and continental levels", "Urban, rural, and international levels"],
+                    "answer": 0
+                },
+                {
+                    "question": "What must all persons driving a motor vehicle have?",
+                    "options": ["A license", "A passport", "A voter ID", "A credit card"],
+                    "answer": 0
+                },
+                {
+                    "question": "What can people do if they feel a particular law is not being followed?",
+                    "options": ["Create their own laws", "Ignore the law", "Approach the court", "Protest violently"],
+                    "answer": 2
+                },
+                {
+                    "question": "In a democracy, who gives the government the power to make decisions and enforce laws?",
+                    "options": ["The army", "The people", "The business leaders", "The judges"],
+                    "answer": 1
+                },
+                {
+                    "question": "How do people in a democracy give power to the government?",
+                    "options": ["Through donations", "Through protests", "Through elections", "Through inheritance"],
+                    "answer": 2
+                },
+                {
+                    "question": "What is the main feature of a democracy?",
+                    "options": ["People have the power to elect their leaders", "The army controls the government", "Wealthy individuals make decisions", "Monarchs rule the country"],
+                    "answer": 0
+                },
+                {
+                    "question": "What is a representative democracy?",
+                    "options": ["People vote on every decision directly", "Monarchs make all decisions", "The military controls the government", "People choose their representatives through an election process"],
+                    "answer": 3
+                },
+                {
+                    "question": "What does universal adult franchise mean?",
+                    "options": ["All adults in the country are allowed to vote", "Only men can vote", "Only property owners can vote", "Only educated people can vote"],
+                    "answer": 0
+                },
+                {
+                    "question": "What movement strengthened during the First World War for women's right to vote?",
+                    "options": ["Civil rights movement", "Women's liberation movement", "Women's suffrage movement", "Anti-war movement"],
+                    "answer": 2
+                },
+                {
+                    "question": "What did many women do during the First World War that changed perceptions about their capabilities?",
+                    "options": ["Organized and managed different kinds of work", "Stayed at home", "Protested the war", "Traveled abroad"],
+                    "answer": 0
+                },
+                {
+                    "question": "What action did suffragettes take to demand the right to vote?",
+                    "options": ["Boycotted elections", "Chained themselves to railings in public places", "Joined the military", "Started businesses"],
+                    "answer": 1
+                },
+                {
+                    "question": "When did American women get the right to vote?",
+                    "options": ["1920", "1930", "1940", "1950"],
+                    "answer": 0
+                },
+                {
+                    "question": "Who manages disputes or crimes within a country?",
+                    "options": ["Businesses", "Military", "Schools", "Courts"],
+                    "answer": 3
+                },
+                {
+                    "question": "What is a monarchy?",
+                    "options": ["A government where the monarch has the power to make decisions", "A government elected by the people", "A government run by businesses", "A government controlled by the military"],
+                    "answer": 0
+                },
+                {
+                    "question": "What do democratic governments usually allow?",
+                    "options": ["Only property owners to vote", "Only men to vote", "Universal adult franchise", "Only the educated to vote"],
+                    "answer": 2
+                },
+                {
+                    "question": "What was Gandhiji's view on voting rights?",
+                    "options": ["Everyone should have the right to vote, regardless of wealth or literacy", "Only wealthy people should vote", "Only men should vote", "Only educated people should vote"],
+                    "answer": 0
+                },
+                {
+                    "question": "How do governments in a democracy explain their actions?",
+                    "options": ["They consult businesses", "They do not explain their actions", "They consult the military", "They defend their decisions to the people"],
+                    "answer": 3
+                },
+                {
+                    "question": "Who were shocked at the unfairness of voting practices before Indian Independence?",
+                    "options": ["Military leaders", "British officials", "Several people including Gandhiji", "Business owners"],
+                    "answer": 2
+                },
+                {
+                    "question": "What did women manage during the First World War that changed stereotypes about their capabilities?",
+                    "options": ["Different kinds of work", "Only household chores", "Only childcare", "Only teaching"],
+                    "answer": 0
+                }
+
+            ]
+        },
+        {
+            "name": "4. Panchayati Raj",
+            "questions": [
+                {
+                    "question": "Why is everyone rushing to the Gram Sabha in Hardas village?",
+                    "options": ["To attend the first meeting after the election of the new Gram Panchayat", "To celebrate a festival", "To vote in an election", "To attend a wedding"],
+                    "answer": 0
+                },
+                {
+                    "question": "Who is eligible to be a member of the Gram Sabha?",
+                    "options": ["Anyone who is 18 years old or more and has the right to vote", "Anyone who owns land in the village", "Only men over 18", "Only women over 18"],
+                    "answer": 0
+                },
+                {
+                    "question": "Who is the Panchayat President also known as?",
+                    "options": ["Panch", "Sarpanch", "Ward Member", "Secretary"],
+                    "answer": 1
+                },
+                {
+                    "question": "What was the first plan presented by the Panchayat President and members in the Gram Sabha?",
+                    "options": ["Repairing the road that connects the village to the main highway", "Building a new school", "Planting more trees", "Organizing a festival"],
+                    "answer": 0
+                },
+                {
+                    "question": "What is the main issue discussed after the road repair plan in the Gram Sabha?",
+                    "options": ["Education", "Electricity supply", "Water and water shortages", "Healthcare"],
+                    "answer": 2
+                },
+                {
+                    "question": "Where do the women of Hardas village have to go to fetch water?",
+                    "options": ["A local pond", "A nearby well", "A neighboring village", "Suru river, 3 km away"],
+                    "answer": 3
+                },
+                {
+                    "question": "What solution did one of the members suggest to solve the water problem?",
+                    "options": ["Piping water from the Suru and making an overhead tank", "Digging new wells", "Building a dam", "Transporting water by trucks"],
+                    "answer": 0
+                },
+                {
+                    "question": "What permanent solution did Tijia suggest for the water problem?",
+                    "options": ["Using bottled water", "Watershed development", "Transporting water by trains", "Constructing a new well"],
+                    "answer": 1
+                },
+                {
+                    "question": "What was the final decision on solving the water problem in Hardas village?",
+                    "options": ["Approach the Block Development Officer for more information on watershed development", "Piping water from Suru", "Digging new handpumps", "Building a new dam"],
+                    "answer": 0
+                },
+                {
+                    "question": "What was the next item on the agenda after discussing the water problem?",
+                    "options": ["Finalizing the list of people below the poverty line (BPL)", "Building a new school", "Organizing a village fair", "Constructing new roads"],
+                    "answer": 0
+                },
+                {
+                    "question": "Why did Saroj get up during the Gram Sabha meeting?",
+                    "options": ["To suggest including Om Prakash's name in the BPL list", "To protest against the Sarpanch", "To organize a village festival", "To ask for new roads"],
+                    "answer": 0
+                },
+                {
+                    "question": "Who is responsible for calling the meeting of the Gram Sabha and Gram Panchayat?",
+                    "options": ["The Panch", "The Sarpanch", "The Ward Member", "The Secretary"],
+                    "answer": 3
+                },
+                {
+                    "question": "What is one of the main tasks of the Gram Panchayat?",
+                    "options": ["Collecting taxes", "Organizing cultural events", "Implementing development programmes", "Conducting elections"],
+                    "answer": 2
+                },
+                {
+                    "question": "What did the Hardas Gram Panchayat decide to do about the short-term water problem?",
+                    "options": ["Deepen two handpumps and clean one well", "Build an overhead tank", "Construct a new dam", "Transport water by trucks"],
+                    "answer": 0
+                },
+                {
+                    "question": "What are the sources of funds for the Panchayat?",
+                    "options": ["Collection of taxes on houses, market places, and government scheme funds", "Donations from citizens", "Loans from banks", "International aid"],
+                    "answer": 0
+                },
+                {
+                    "question": "Who appoints the Secretary of the Gram Panchayat?",
+                    "options": ["The Ward Members", "The Sarpanch", "The Gram Sabha", "The government"],
+                    "answer": 3
+                },
+                {
+                    "question": "What is the role of the Gram Sabha in the Gram Panchayat?",
+                    "options": ["To prevent misuse of money and favoritism", "To collect taxes", "To appoint the Sarpanch", "To organize festivals"],
+                    "answer": 0
+                },
+                {
+                    "question": "How often is the Gram Panchayat elected?",
+                    "options": ["Every three years", "Every five years", "Every ten years", "Every two years"],
+                    "answer": 1
+                },
+                {
+                    "question": "Who is the Gram Panchayat answerable to?",
+                    "options": ["The Gram Sabha", "The District Collector", "The State Government", "The Central Government"],
+                    "answer": 0
+                },
+                {
+                    "question": "What is the second level of the Panchayati Raj system called?",
+                    "options": ["Gram Sabha", "Zila Parishad", "Janpad Panchayat or Panchayat Samiti", "Village Council"],
+                    "answer": 2
+                },
+                {
+                    "question": "What is the third level of the Panchayati Raj system called?",
+                    "options": ["Janpad Panchayat", "District Panchayat or Zila Parishad", "Gram Sabha", "Village Council"],
+                    "answer": 1
+                },
+                {
+                    "question": "What is the main task of the Zila Parishad?",
+                    "options": ["Making developmental plans at the district level", "Conducting elections", "Collecting taxes", "Organizing cultural events"],
+                    "answer": 0
+                },
+                {
+                    "question": "How does the Zila Parishad regulate money distribution?",
+                    "options": ["By imposing taxes", "Through local banks", "By collecting donations", "With the help of Panchayat Samitis"],
+                    "answer": 3
+                },
+                {
+                    "question": "What did Anwar suggest to solve the water problem?",
+                    "options": ["Transporting water by trucks", "Building a new dam", "Watershed development", "Digging new wells"],
+                    "answer": 2
+                },
+                {
+                    "question": "Who keeps a record of the proceedings in the Gram Sabha and Gram Panchayat?",
+                    "options": ["The Sarpanch", "The Secretary", "The Ward Member", "The Panch"],
+                    "answer": 1
+                }
+
+            ]
+        },
+        {
+            "name": "5. Rural Administration",
+            "questions": [
+                {
+                    "question": "What does Mohan's family own?",
+                    "options": ["A large estate", "A small agricultural field", "A grocery store", "A textile mill"],
+                    "answer": 1
+                },
+                {
+                    "question": "Who is Mohan's neighbor?",
+                    "options": ["Raghu", "Sohan", "Mohan's uncle", "The Sarpanch"],
+                    "answer": 0
+                },
+                {
+                    "question": "What separates Mohan's and Raghu's fields?",
+                    "options": ["A river", "A fence", "A bund", "A road"],
+                    "answer": 2
+                },
+                {
+                    "question": "What did Raghu do to the bund?",
+                    "options": ["Removed it", "Extended it", "Shifted it by a few feet", "Built a wall over it"],
+                    "answer": 2
+                },
+                {
+                    "question": "Why was Mohan frightened to confront Raghu?",
+                    "options": ["Raghu had a fierce dog", "Raghu's family owned many fields", "Raghu was much stronger", "Raghu was the village head"],
+                    "answer": 1
+                },
+                {
+                    "question": "Who was the Sarpanch of the village?",
+                    "options": ["Mohan", "Mohan's uncle", "Raghu's uncle", "Raghu"],
+                    "answer": 2
+                },
+                {
+                    "question": "What happened when Mohan went to Raghu’s house?",
+                    "options": ["They resolved the issue peacefully", "Raghu denied moving the bund", "Raghu admitted his mistake", "Raghu was not at home"],
+                    "answer": 1
+                },
+                {
+                    "question": "What did Raghu and his helper do to Mohan?",
+                    "options": ["Helped him", "Ignored him", "Shouted at and beat him", "Called the police"],
+                    "answer": 2
+                },
+                {
+                    "question": "Who suggested that Mohan go to the local police station?",
+                    "options": ["His friend from the post-office", "His wife", "His neighbor", "The Sarpanch"],
+                    "answer": 0
+                },
+                {
+                    "question": "What were some neighbors doubtful about?",
+                    "options": ["If they should go to the police station", "If Mohan was really injured", "If Raghu was guilty", "If Mohan should return home"],
+                    "answer": 0
+                },
+                {
+                    "question": "Why did Mohan decide to go to the local police station instead of the main station in town?",
+                    "options": ["It was cheaper", "It was closer", "Their village was under the local station's jurisdiction", "The main station was closed"],
+                    "answer": 2
+                },
+                {
+                    "question": "Who is responsible for enquiring, investigating, and taking action on cases within an area?",
+                    "options": ["The Sarpanch", "The Patwari", "The Tehsildar", "The police of the local station"],
+                    "answer": 3
+                },
+                {
+                    "question": "Who did Mohan approach at the police station?",
+                    "options": ["The constable", "The head constable", "The Station House Officer (S.H.O.)", "The District Collector"],
+                    "answer": 2
+                },
+                {
+                    "question": "How did the S.H.O. initially respond to Mohan's complaint?",
+                    "options": ["With sympathy", "With indifference", "By immediately registering the complaint", "By offering medical help"],
+                    "answer": 1
+                },
+                {
+                    "question": "What convinced the S.H.O. to finally register Mohan’s complaint?",
+                    "options": ["Mohan's injuries", "The neighbors' strong arguments", "A bribe", "Raghu's confession"],
+                    "answer": 1
+                },
+                {
+                    "question": "Who is responsible for measuring land and keeping land records?",
+                    "options": ["The Patwari", "The Tehsildar", "The Sarpanch", "The District Collector"],
+                    "answer": 0
+                },
+                {
+                    "question": "What tool is sometimes used by the Patwari to measure agricultural fields?",
+                    "options": ["A tape measure", "A ruler", "A long chain", "A GPS device"],
+                    "answer": 2
+                },
+                {
+                    "question": "What other responsibility does the Patwari have besides measuring land?",
+                    "options": ["Collecting land revenue", "Hearing disputes", "Arresting criminals", "Issuing caste certificates"],
+                    "answer": 0
+                },
+                {
+                    "question": "Who supervises the work of the Patwaris?",
+                    "options": ["The District Collector", "The Sarpanch", "The revenue officers or tehsildars", "The police"],
+                    "answer": 2
+                },
+                {
+                    "question": "What is the role of the Tehsildar?",
+                    "options": ["Supervising Patwaris", "Hearing disputes", "Ensuring proper land records", "All of the above"],
+                    "answer": 3
+                },
+                {
+                    "question": "What change was brought by the Hindu Succession Amendment Act, 2005?",
+                    "options": ["Only sons inherit land", "Women also get an equal share in agricultural land", "Land disputes are settled in town", "Patwaris can issue caste certificates"],
+                    "answer": 1
+                },
+                {
+                    "question": "Who benefits from the Hindu Succession Amendment Act, 2005?",
+                    "options": ["Only men", "Only women", "Sons, daughters, and their mothers", "The government"],
+                    "answer": 2
+                },
+                {
+                    "question": "What does the Tehsildar ensure besides hearing disputes?",
+                    "options": ["Proper maintenance of land records", "Issuing driving licenses", "Supervising police work", "Arresting criminals"],
+                    "answer": 0
+                },
+                {
+                    "question": "Where are land disputes heard?",
+                    "options": ["At the police station", "At the Tehsildar’s office", "At the Sarpanch’s house", "At the District Collector’s office"],
+                    "answer": 1
+                },
+                {
+                    "question": "Why is it important for the Patwari to regularly update records?",
+                    "options": ["To ensure proper tax collection", "To keep track of crop changes", "To inform the government", "All of the above"],
+                    "answer": 3
+                }
+
+            ]
+        },
+        {
+            "name": "6. Urban Administration",
+            "questions": [
+                {
+                    "question": "What were Mala and her friends playing on a lazy Sunday afternoon?",
+                    "options": ["Football", "Cricket", "Basketball", "Badminton"],
+                    "answer": 1
+                },
+                {
+                    "question": "What did Rehana hit that caused a problem?",
+                    "options": ["A window", "A car", "A street light", "A door"],
+                    "answer": 2
+                },
+                {
+                    "question": "Who did Rehana's friends think they should pay for the broken street light?",
+                    "options": ["The Sarpanch", "The Municipal Corporation", "The local police", "The street vendor"],
+                    "answer": 1
+                },
+                {
+                    "question": "Who suggested asking Yasmin Khala about the street light?",
+                    "options": ["Shankar", "Jehangir", "Rehana's mother", "Mala"],
+                    "answer": 2
+                },
+                {
+                    "question": "Where had Yasmin Khala retired from?",
+                    "options": ["The police department", "The Municipal Corporation", "The education department", "The post office"],
+                    "answer": 1
+                },
+                {
+                    "question": "What is responsible for replacing street lights according to Yasmin Khala?",
+                    "options": ["The local police", "The electricity board", "The Municipal Corporation", "The city council"],
+                    "answer": 2
+                },
+                {
+                    "question": "What other responsibilities does the Municipal Corporation have besides replacing street lights?",
+                    "options": ["Maintaining parks", "Garbage collection", "Running schools and hospitals", "All of the above"],
+                    "answer": 3
+                },
+                {
+                    "question": "What did Mala notice the Municipal Corporation doing in the city?",
+                    "options": ["Cleaning the streets", "Putting up signs about malaria", "Building a new park", "Repairing roads"],
+                    "answer": 1
+                },
+                {
+                    "question": "What is the Municipal Corporation called in smaller towns?",
+                    "options": ["Municipal Committee", "City Council", "Municipal Board", "Municipal Council"],
+                    "answer": 3
+                },
+                {
+                    "question": "Who makes decisions about where a park or new hospital should go in a city?",
+                    "options": ["The Mayor", "The Ward Councillors", "The Municipal Commissioner", "The City Engineer"],
+                    "answer": 1
+                },
+                {
+                    "question": "Who supervises the work of the Municipal Corporation staff?",
+                    "options": ["The Mayor", "The Ward Councillors", "The Municipal Commissioner", "The City Engineer"],
+                    "answer": 2
+                },
+                {
+                    "question": "How are Ward Councillors selected?",
+                    "options": ["Appointed by the Mayor", "Elected by the people", "Appointed by the Municipal Commissioner", "Nominated by the Governor"],
+                    "answer": 1
+                },
+                {
+                    "question": "What do Ward Councillors do?",
+                    "options": ["Implement decisions", "Debate and decide on city issues", "Collect taxes", "Repair roads"],
+                    "answer": 1
+                },
+                {
+                    "question": "Who implements the decisions made by the Ward Councillors?",
+                    "options": ["The Mayor", "The Municipal Commissioner and administrative staff", "The City Engineer", "The Ward Councillors themselves"],
+                    "answer": 1
+                },
+                {
+                    "question": "How is the budget for city work decided?",
+                    "options": ["By the Mayor alone", "By the Municipal Commissioner", "By the Ward Councillors collectively", "By the citizens through a vote"],
+                    "answer": 2
+                },
+                {
+                    "question": "What departments are part of the Municipal Corporation?",
+                    "options": ["Water, garbage collection, gardens, roads", "Police, fire, medical", "Education, tourism, transport", "Agriculture, fisheries, mining"],
+                    "answer": 0
+                },
+                {
+                    "question": "What was Yasmin Khala's job in the Municipal Corporation?",
+                    "options": ["Ward Councillor", "Sanitation worker", "Accounts office", "City Engineer"],
+                    "answer": 2
+                },
+                {
+                    "question": "What problem did Gangabai address with the Ward Councillor?",
+                    "options": ["Broken street lights", "Uncollected garbage", "Water shortage", "Noise pollution"],
+                    "answer": 1
+                },
+                {
+                    "question": "How did Gangabai and the community protest?",
+                    "options": ["They went on strike", "They wrote letters", "They shouted slogans in front of the Ward Councillor's house", "They blocked the streets"],
+                    "answer": 2
+                },
+                {
+                    "question": "What did the Ward Councillor do to address the community's complaint?",
+                    "options": ["Ignored them", "Promised to fix it alone", "Went with them to meet the Commissioner", "Gave them money"],
+                    "answer": 2
+                },
+                {
+                    "question": "How does the Municipal Corporation get its money?",
+                    "options": ["Donations", "Taxes", "Loans", "International aid"],
+                    "answer": 1
+                },
+                {
+                    "question": "What percentage of the Municipal Corporation's money comes from property taxes?",
+                    "options": ["10-15%", "25-30%", "50-55%", "75-80%"],
+                    "answer": 1
+                },
+                {
+                    "question": "What did the Municipal Corporation suggest to help keep streets clean?",
+                    "options": ["Hiring more workers", "Using two dustbins at home", "Reducing taxes", "Fining people for littering"],
+                    "answer": 1
+                },
+                {
+                    "question": "What problem did Surat face in 1994?",
+                    "options": ["Floods", "Plague scare", "Earthquake", "Drought"],
+                    "answer": 1
+                },
+                {
+                    "question": "What is Sub-Contracting?",
+                    "options": ["Government workers doing extra work", "Hiring private contractors to do government work", "Citizens volunteering for city work", "Outsourcing work to international companies"],
+                    "answer": 1
+                }
+
+            ]
+        },
+        {
+            "name": "7. Rural Livelihood",
+            "questions": [
+                {
+                    "question": "What kind of non-farm work is done in Kalpattu village?",
+                    "options": ["Making baskets and utensils", "Fishing", "Terrace farming", "Weaving clothes"],
+                    "answer": 0
+                },
+                {
+                    "question": "What kind of services do people in Kalpattu village provide?",
+                    "options": ["Blacksmiths and nurses", "Boat making", "Mining", "Silk weaving"],
+                    "answer": 0
+                },
+                {
+                    "question": "What is the main crop grown in Kalpattu?",
+                    "options": ["Wheat", "Paddy", "Maize", "Barley"],
+                    "answer": 1
+                },
+                {
+                    "question": "How much does Ramalingam pay Thulasi per day for working in the paddy fields?",
+                    "options": ["Rs 20", "Rs 30", "Rs 40", "Rs 50"],
+                    "answer": 2
+                },
+                {
+                    "question": "What kind of shop does Ramalingam's family own besides the rice mill?",
+                    "options": ["Grocery shop", "Cloth shop", "Tea shop", "Shop selling seeds and pesticides"],
+                    "answer": 3
+                },
+                {
+                    "question": "What work does Thulasi's husband Raman do when there is no work on the farm?",
+                    "options": ["Fishing", "Construction work", "Loading sand or stone", "Weaving baskets"],
+                    "answer": 2
+                },
+                {
+                    "question": "How do Sekar and other small farmers manage to do all the work on their fields?",
+                    "options": ["Hire laborers", "Work collectively", "Use machinery", "Employ family members"],
+                    "answer": 1
+                },
+                {
+                    "question": "What do Sekar and other small farmers have to do to pay back their loans?",
+                    "options": ["Sell their land", "Sell paddy to traders", "Borrow more money", "Work in cities"],
+                    "answer": 1
+                },
+                {
+                    "question": "What additional source of income does Sekar's family have?",
+                    "options": ["Selling milk", "Weaving cloth", "Fishing", "Collecting firewood"],
+                    "answer": 0
+                },
+                {
+                    "question": "What major problem do farmers face if their crops fail due to poor quality seeds or lack of rain?",
+                    "options": ["Pest attacks", "Debt", "No market for produce", "Shortage of labor"],
+                    "answer": 1
+                },
+                {
+                    "question": "What type of cultivation is practiced in Chizami village in Nagaland?",
+                    "options": ["Terrace cultivation", "Slash and burn", "Irrigation farming", "Hydroponics"],
+                    "answer": 0
+                },
+                {
+                    "question": "What do the people of Chizami village do collectively?",
+                    "options": ["Plant rice", "Collect firewood", "Clean weeds", "Harvest crops"],
+                    "answer": 2
+                },
+                {
+                    "question": "What type of livelihood do people in Pudupet village depend on?",
+                    "options": ["Farming", "Fishing", "Mining", "Terrace farming"],
+                    "answer": 1
+                },
+                {
+                    "question": "During what time do fishermen in Pudupet village return with their catch?",
+                    "options": ["Early morning", "Afternoon", "Evening", "Night"],
+                    "answer": 0
+                },
+                {
+                    "question": "What do the women who buy fish in Pudupet village do with it?",
+                    "options": ["Eat it", "Sell in nearby villages", "Export it", "Use for farming"],
+                    "answer": 1
+                },
+                {
+                    "question": "Why can't fishermen go to sea during the monsoon season?",
+                    "options": ["High waves", "Fish breeding season", "Boat repairs", "Strong winds"],
+                    "answer": 1
+                },
+                {
+                    "question": "What did Aruna and her family suffer from last year?",
+                    "options": ["Drought", "Tsunami", "Cyclone", "Earthquake"],
+                    "answer": 1
+                },
+                {
+                    "question": "What is a common source of additional income for families in rural areas?",
+                    "options": ["Collecting mahua and tendu leaves", "Construction work", "Factory jobs", "Silk weaving"],
+                    "answer": 0
+                },
+                {
+                    "question": "What percentage of rural families in India are agricultural labourer families?",
+                    "options": ["20%", "40%", "60%", "80%"],
+                    "answer": 1
+                },
+                {
+                    "question": "How many farmers in India belong to the small farmers group?",
+                    "options": ["40%", "50%", "70%", "80%"],
+                    "answer": 3
+                },
+                {
+                    "question": "What is a common issue faced by farmers who borrow money?",
+                    "options": ["High interest rates", "Good quality seeds", "Surplus crops", "Easy repayment"],
+                    "answer": 0
+                },
+                {
+                    "question": "What kind of shop is commonly found in the main street of Kalpattu?",
+                    "options": ["Pharmacy", "Grocery shop", "Hardware shop", "Electronics shop"],
+                    "answer": 1
+                },
+                {
+                    "question": "What is sold in the teashops in Kalpattu in the evening?",
+                    "options": ["Idli and dosai", "Bonda and vadai", "Upama and pongal", "Porridge and dosa"],
+                    "answer": 1
+                },
+                {
+                    "question": "What is the main source of livelihood for people in coastal areas near Kalpattu?",
+                    "options": ["Farming", "Fishing", "Craft making", "Weaving"],
+                    "answer": 1
+                },
+                {
+                    "question": "What do the women in Thulasi's village collect from the forest?",
+                    "options": ["Bamboo", "Medicinal herbs", "Firewood", "Fruits"],
+                    "answer": 2
+                }
+
+            ]
+        },
+        {
+            "name": "8. Urban Livelihood",
+            "questions": [
+                {
+                    "question": "What was the vegetable vendor busy doing in the morning?",
+                    "options": ["Arranging tomatoes, carrots, and cucumbers", "Selling newspapers", "Pushing a cart with plastic bottles", "Repairing shoes"],
+                    "answer": 0
+                },
+                {
+                    "question": "What did they buy from the flower stall?",
+                    "options": ["A bouquet", "A red rose and a yellow rose", "A bunch of lilies", "A garland"],
+                    "answer": 1
+                },
+                {
+                    "question": "Who was selling newspapers on the pavement opposite?",
+                    "options": ["A vegetable vendor", "A cobbler", "A barber", "A person with a small crowd around him"],
+                    "answer": 3
+                },
+                {
+                    "question": "Where did the cobbler sit?",
+                    "options": ["In a shop", "Under a tree", "Near the bus stop", "At a street corner"],
+                    "answer": 1
+                },
+                {
+                    "question": "What did the roadside barber already have?",
+                    "options": ["A haircut customer", "An early-morning shave customer", "A pedicure customer", "A manicure customer"],
+                    "answer": 1
+                },
+                {
+                    "question": "What did the woman with the cart sell?",
+                    "options": ["Vegetables", "Flowers", "Plastic bottles, boxes, hairpins, clips", "Newspapers"],
+                    "answer": 3
+                },
+                {
+                    "question": "Where did Bachchu Manjhi come from?",
+                    "options": ["Ahmedabad", "Delhi", "Bihar", "Mumbai"],
+                    "answer": 2
+                },
+                {
+                    "question": "What was Bachchu Manjhi's previous occupation?",
+                    "options": ["Cobbler", "Barber", "Vegetable vendor", "Mason"],
+                    "answer": 3
+                },
+                {
+                    "question": "How does Bachchu Manjhi pay for his cycle rickshaw?",
+                    "options": ["In cash", "In instalments", "With a loan", "By renting"],
+                    "answer": 1
+                },
+                {
+                    "question": "How much does Bachchu Manjhi earn per day?",
+                    "options": ["Rs. 100-150", "Rs. 150-200", "Rs. 200-300", "Rs. 300-400"],
+                    "answer": 2
+                },
+                {
+                    "question": "How often does Bachchu Manjhi visit his village?",
+                    "options": ["Once a year", "Twice a year", "Two or three times a year", "Every month"],
+                    "answer": 2
+                },
+                {
+                    "question": "What percentage of workers in Ahmedabad work on the street?",
+                    "options": ["10%", "12%", "15%", "20%"],
+                    "answer": 1
+                },
+                {
+                    "question": "What is the primary concern of the government regarding street vendors?",
+                    "options": ["Traffic obstruction", "Pollution", "Security", "Hygiene"],
+                    "answer": 0
+                },
+                {
+                    "question": "What solution is suggested for street vendors to avoid obstructing traffic?",
+                    "options": ["Banning street vendors", "Hawking zones", "Increasing fines", "Providing permanent shops"],
+                    "answer": 1
+                },
+                {
+                    "question": "Why did they visit the dentist's clinic?",
+                    "options": ["To get a tooth extraction", "For a routine check-up", "To fill a cavity", "For a tooth cleaning"],
+                    "answer": 2
+                },
+                {
+                    "question": "Where do Harpreet and Vandana buy most of their materials?",
+                    "options": ["Delhi and Noida", "Mumbai, Ahmedabad, Ludhiana, and Tripur", "Chennai and Kolkata", "Bangalore and Pune"],
+                    "answer": 1
+                },
+                {
+                    "question": "What kind of shop do Harpreet and Vandana own?",
+                    "options": ["A flower shop", "A vegetable stall", "A garment showroom", "A bookshop"],
+                    "answer": 2
+                },
+                {
+                    "question": "Where do they advertise their showroom?",
+                    "options": ["Newspapers, cinema theatres, television and radio", "Billboards and pamphlets", "Online and social media", "Public transport"],
+                    "answer": 0
+                },
+                {
+                    "question": "What is a 'labour chowk'?",
+                    "options": ["A market area", "A place where daily wage labourers wait for work", "A bus stop", "A food stall area"],
+                    "answer": 1
+                },
+                {
+                    "question": "What kind of work does Nirmala do?",
+                    "options": ["Tailor in an export garment unit", "Cook in a restaurant", "Clerk in an office", "Cashier in a supermarket"],
+                    "answer": 0
+                },
+                {
+                    "question": "During which months does Nirmala have to work long hours?",
+                    "options": ["January to March", "February to May", "December to April", "November to February"],
+                    "answer": 2
+                },
+                {
+                    "question": "What happens to Nirmala's job after June?",
+                    "options": ["She gets a promotion", "Her working hours are reduced", "She is asked to leave", "She goes on vacation"],
+                    "answer": 2
+                },
+                {
+                    "question": "What is a Call Centre?",
+                    "options": ["A place where people make products", "A centralised office that deals with consumer problems and questions", "A market area", "A government office"],
+                    "answer": 1
+                },
+                {
+                    "question": "What does Sudha supervise in her job?",
+                    "options": ["Factory workers", "Daily wage labourers", "Salespersons", "Marketing executives"],
+                    "answer": 2
+                },
+                {
+                    "question": "What benefits does Sudha get as a permanent worker?",
+                    "options": ["Medical facilities, holidays, and savings for old age", "Travel allowances", "Housing facilities", "Daily bonuses"],
+                    "answer": 0
+                },
+                {
+                    "question": "What did the cobbler take out of a small tin box?",
+                    "options": ["Vegetables", "Flowers", "Tools and materials", "Newspapers"],
+                    "answer": 2
+                },
+                {
+                    "question": "Where did the roadside barber begin his work?",
+                    "options": ["In the market", "On a cycle trolley", "Under a tree", "In a factory"],
+                    "answer": 2
+                },
+                {
+                    "question": "What did Bachchu Manjhi work as in his village before coming to the city?",
+                    "options": ["Vegetable vendor", "Cobbler", "Mason", "Barber"],
+                    "answer": 2
+                },
+                {
+                    "question": "How much does Bachchu Manjhi earn daily as a cycle-rickshaw puller?",
+                    "options": ["Rs. 100-150", "Rs. 200-300", "Rs. 300-400", "Rs. 400-500"],
+                    "answer": 1
+                },
+                {
+                    "question": "What percentage of workers in Ahmedabad city work on the street?",
+                    "options": ["5%", "8%", "12%", "15%"],
+                    "answer": 2
+                },
+                {
+                    "question": "What are the structures used by street vendors to set up their shops?",
+                    "options": ["Permanent buildings", "Rented rooms", "Temporary structures", "Office spaces"],
+                    "answer": 2
+                },
+                {
+                    "question": "What is the main challenge faced by street vendors regarding their shops?",
+                    "options": ["High rent", "Permanent structures", "Police dismantling their shops", "Lack of customers"],
+                    "answer": 2
+                },
+                {
+                    "question": "Who helps Harpreet and Vandana in their showroom?",
+                    "options": ["Their parents", "Their friends", "Their children", "Their employees"],
+                    "answer": 3
+                },
+                {
+                    "question": "Where do Harpreet and Vandana buy most of their materials?",
+                    "options": ["Mumbai, Ahmedabad, Ludhiana, Tripur", "Delhi, Chennai, Kolkata, Bengaluru", "Hyderabad, Pune, Jaipur, Surat", "Lucknow, Kanpur, Bhopal, Indore"],
+                    "answer": 0
+                },
+                {
+                    "question": "What is Nirmala's job in the garment factory?",
+                    "options": ["Manager", "Salesperson", "Tailor", "Designer"],
+                    "answer": 2
+                }
+
+            ]
+        }
+
+    ]
+}

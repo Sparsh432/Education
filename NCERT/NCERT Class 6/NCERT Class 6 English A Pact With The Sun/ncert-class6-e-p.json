@@ -1,0 +1,15 @@
+{
+    "chapters": [
+        {
+            "name": "1. Who did Patrick's homework?",
+            "questions": [
+                {
+                    "question": "What did Patrick prefer to do instead of homework?",
+                    "options": ["Play hockey and basketball", "Read books", "Watch TV", "Play with his cat"],
+                    "answer": 0
+                }
+                  
+            ]
+        }
+    ]
+}

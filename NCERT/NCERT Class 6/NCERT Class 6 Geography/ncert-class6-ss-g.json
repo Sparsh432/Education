@@ -1,0 +1,1526 @@
+{
+    "chapters": [
+        {
+            "name": "1. The Earth in the Solar System",
+            "questions": [
+                {
+                    "question": "What are the tiny shining objects in the sky called?",
+                    "options": ["Planets", "Stars", "Moons", "Asteroids"],
+                    "answer": 1
+                },
+                {
+                    "question": "What is the term for the night when the moon is completely visible?",
+                    "options": ["New moon night", "Half moon night", "Full moon night", "Quarter moon night"],
+                    "answer": 2
+                },
+                {
+                    "question": "Why can't we see the stars during the daytime?",
+                    "options": ["They are not shining", "The bright light of the sun hides them", "They are behind the clouds", "They are too far away"],
+                    "answer": 1
+                },
+                {
+                    "question": "What is the North Star also known as?",
+                    "options": ["Sirius", "Alpha Centauri", "Betelgeuse", "Pole Star"],
+                    "answer": 3
+                },
+                {
+                    "question": "Which constellation is also called the Big Bear?",
+                    "options": ["Orion", "Ursa Major", "Cassiopeia", "Andromeda"],
+                    "answer": 1
+                },
+                {
+                    "question": "Which constellation includes the Saptarishi?",
+                    "options": ["Orion", "Ursa Major", "Cassiopeia", "Andromeda"],
+                    "answer": 1
+                },
+                {
+                    "question": "What are celestial bodies that do not have their own heat and light called?",
+                    "options": ["Stars", "Meteoroids", "Asteroids", "Planets"],
+                    "answer": 3
+                },
+                {
+                    "question": "From what Greek word does 'planet' originate?",
+                    "options": ["Planetes", "Planetai", "Planitum", "Platina"],
+                    "answer": 1
+                },
+                {
+                    "question": "Which celestial body is a companion of Earth and moves around it?",
+                    "options": ["Sun", "Mars", "Moon", "Venus"],
+                    "answer": 2
+                },
+                {
+                    "question": "Which planet is known as Earth's twin?",
+                    "options": ["Mars", "Jupiter", "Venus", "Saturn"],
+                    "answer": 2
+                },
+                {
+                    "question": "How many planets are in the solar system?",
+                    "options": ["7", "8", "9", "10"],
+                    "answer": 1
+                },
+                {
+                    "question": "Which planet has the shortest orbit around the sun?",
+                    "options": ["Venus", "Earth", "Mercury", "Mars"],
+                    "answer": 2
+                },
+                {
+                    "question": "What is the fifth largest planet in the solar system?",
+                    "options": ["Earth", "Venus", "Mars", "Jupiter"],
+                    "answer": 0
+                },
+                {
+                    "question": "What term describes Earth's shape?",
+                    "options": ["Spheroid", "Geoid", "Helioid", "Planetoid"],
+                    "answer": 1
+                },
+                {
+                    "question": "Why is Earth called the blue planet?",
+                    "options": ["Its atmosphere is blue", "It reflects blue light", "Two-thirds of its surface is covered by water", "It has many blue lakes"],
+                    "answer": 2
+                },
+                {
+                    "question": "What do scientists call the family of the sun?",
+                    "options": ["Solar system", "Planetary system", "Stellar system", "Galaxy"],
+                    "answer": 0
+                },
+                {
+                    "question": "What is the source of heat and light for the Earth?",
+                    "options": ["Moon", "Stars", "Sun", "Planets"],
+                    "answer": 2
+                },
+                {
+                    "question": "Which planet takes 88 days to complete one orbit around the sun?",
+                    "options": ["Mercury", "Venus", "Earth", "Mars"],
+                    "answer": 0
+                },
+                {
+                    "question": "What is the term for small pieces of rocks that move around the sun?",
+                    "options": ["Meteoroids", "Asteroids", "Comets", "Planets"],
+                    "answer": 0
+                },
+                {
+                    "question": "Which planet has rings around it?",
+                    "options": ["Mars", "Jupiter", "Saturn", "Uranus"],
+                    "answer": 2
+                },
+                {
+                    "question": "Which planet has the most moons?",
+                    "options": ["Earth", "Mars", "Jupiter", "Saturn"],
+                    "answer": 2
+                },
+                {
+                    "question": "What are belts of small debris around planets called?",
+                    "options": ["Orbits", "Rings", "Asteroids", "Satellites"],
+                    "answer": 1
+                },
+                {
+                    "question": "Which planet takes 164 years to complete one orbit around the sun?",
+                    "options": ["Neptune", "Uranus", "Saturn", "Jupiter"],
+                    "answer": 0
+                },
+                {
+                    "question": "Which planet has the longest day (spin on axis)?",
+                    "options": ["Mercury", "Venus", "Earth", "Mars"],
+                    "answer": 1
+                },
+                {
+                    "question": "What is the term for a celestial body that moves around a planet?",
+                    "options": ["Planet", "Star", "Satellite", "Asteroid"],
+                    "answer": 2
+                },
+                {
+                    "question": "What is the distance between the Earth and the sun?",
+                    "options": ["150 million km", "300 million km", "384,400 km", "1 million km"],
+                    "answer": 0
+                },
+                {
+                    "question": "What does 'ge' in the word 'geography' mean?",
+                    "options": ["Star", "Earth", "Moon", "Sun"],
+                    "answer": 1
+                },
+                {
+                    "question": "Who was the first man to step on the surface of the moon?",
+                    "options": ["Buzz Aldrin", "Yuri Gagarin", "Neil Armstrong", "Michael Collins"],
+                    "answer": 2
+                },
+                {
+                    "question": "What is the Milky Way galaxy known as in ancient India?",
+                    "options": ["Akash Ganga", "Akash Ratna", "Chandra Ganga", "Surya Path"],
+                    "answer": 0
+                },
+                {
+                    "question": "Which planet is known as the red planet?",
+                    "options": ["Earth", "Mars", "Venus", "Jupiter"],
+                    "answer": 1
+                },
+                {
+                    "question": "Which planet is known for its Great Red Spot?",
+                    "options": ["Earth", "Mars", "Venus", "Jupiter"],
+                    "answer": 3
+                },
+                {
+                    "question": "What do you call a human-made satellite designed to gather information?",
+                    "options": ["Natural satellite", "Artificial satellite", "Asteroid", "Comet"],
+                    "answer": 1
+                },
+                {
+                    "question": "Which planet is the third nearest to the sun?",
+                    "options": ["Earth", "Mars", "Venus", "Jupiter"],
+                    "answer": 0
+                },
+                {
+                    "question": "Which planet is the smallest in the solar system?",
+                    "options": ["Mercury", "Mars", "Venus", "Earth"],
+                    "answer": 0
+                },
+                {
+                    "question": "Which planet is known for having a similar size and shape to Earth?",
+                    "options": ["Mars", "Venus", "Jupiter", "Saturn"],
+                    "answer": 1
+                },
+                {
+                    "question": "How long does it take the moon to complete one spin?",
+                    "options": ["24 hours", "27 days", "30 days", "365 days"],
+                    "answer": 1
+                },
+                {
+                    "question": "What is a cluster of millions of stars called?",
+                    "options": ["Solar system", "Galaxy", "Constellation", "Universe"],
+                    "answer": 1
+                },
+                {
+                    "question": "Which Indian satellite is used for educational purposes?",
+                    "options": ["INSAT", "IRS", "EDUSAT", "PSLV"],
+                    "answer": 2
+                },
+                {
+                    "question": "What is the ultimate source of heat and light for the solar system?",
+                    "options": ["Earth", "Moon", "Stars", "Sun"],
+                    "answer": 3
+                },
+                {
+                    "question": "Which planet has the shortest day (spin on axis)?",
+                    "options": ["Earth", "Mars", "Jupiter", "Saturn"],
+                    "answer": 2
+                }
+            ]
+        },
+        {
+            "name": "2. Globe : Lattitudes and Longitudes",
+            "questions": [
+                {
+                    "question": "What shape is the Earth?",
+                    "options": ["Perfect sphere", "Slightly flattened at the poles", "Cylindrical", "Rectangular"],
+                    "answer": 1
+                },
+                {
+                    "question": "What is a globe?",
+                    "options": ["A true model of the Earth", "A map", "A drawing", "A photograph"],
+                    "answer": 0
+                },
+                {
+                    "question": "Which line divides the Earth into the Northern and Southern Hemispheres?",
+                    "options": ["Prime Meridian", "Equator", "Tropic of Cancer", "Tropic of Capricorn"],
+                    "answer": 1
+                },
+                {
+                    "question": "What is the latitude of the Tropic of Cancer?",
+                    "options": ["23½° S", "66½° S", "23½° N", "90° N"],
+                    "answer": 2
+                },
+                {
+                    "question": "What marks the North Pole?",
+                    "options": ["0° latitude", "23½° N", "66½° N", "90° N"],
+                    "answer": 3
+                },
+                {
+                    "question": "What marks the South Pole?",
+                    "options": ["0° latitude", "23½° S", "66½° S", "90° S"],
+                    "answer": 3
+                },
+                {
+                    "question": "What is the name given to all parallels north of the equator?",
+                    "options": ["South latitudes", "North latitudes", "East latitudes", "West latitudes"],
+                    "answer": 1
+                },
+                {
+                    "question": "What is the name given to all parallels south of the equator?",
+                    "options": ["South latitudes", "North latitudes", "East latitudes", "West latitudes"],
+                    "answer": 0
+                },
+                {
+                    "question": "How is latitude usually indicated?",
+                    "options": ["With letters E or W", "With letters N or S", "With numbers", "With symbols"],
+                    "answer": 1
+                },
+                {
+                    "question": "What is the latitude of Belo Horizonte in Brazil?",
+                    "options": ["20° N", "20° S", "66½° N", "66½° S"],
+                    "answer": 1
+                },
+                {
+                    "question": "What is the latitude of Chandrapur in Maharashtra, India?",
+                    "options": ["20° N", "20° S", "66½° N", "66½° S"],
+                    "answer": 0
+                },
+                {
+                    "question": "Which latitude is known as the Tropic of Capricorn?",
+                    "options": ["23½° N", "23½° S", "66½° N", "66½° S"],
+                    "answer": 1
+                },
+                {
+                    "question": "Which latitude is known as the Arctic Circle?",
+                    "options": ["23½° N", "23½° S", "66½° N", "66½° S"],
+                    "answer": 2
+                },
+                {
+                    "question": "Which latitude is known as the Antarctic Circle?",
+                    "options": ["23½° N", "23½° S", "66½° N", "66½° S"],
+                    "answer": 3
+                },
+                {
+                    "question": "In which zone is the mid-day sun exactly overhead at least once a year?",
+                    "options": ["Torrid Zone", "Temperate Zone", "Frigid Zone", "Arctic Zone"],
+                    "answer": 0
+                },
+                {
+                    "question": "What are the areas bounded by the Tropic of Cancer and the Arctic Circle in the Northern Hemisphere called?",
+                    "options": ["Torrid Zone", "Temperate Zone", "Frigid Zone", "Arctic Zone"],
+                    "answer": 1
+                },
+                {
+                    "question": "What are the areas bounded by the Tropic of Capricorn and the Antarctic Circle in the Southern Hemisphere called?",
+                    "options": ["Torrid Zone", "Temperate Zone", "Frigid Zone", "Antarctic Zone"],
+                    "answer": 1
+                },
+                {
+                    "question": "What are the areas lying between the Arctic Circle and the North Pole called?",
+                    "options": ["Torrid Zone", "Temperate Zone", "Frigid Zone", "Arctic Zone"],
+                    "answer": 2
+                },
+                {
+                    "question": "What is necessary to fix the position of a place on Earth?",
+                    "options": ["Knowing the latitude only", "Knowing the longitude only", "Knowing both latitude and longitude", "Knowing the altitude"],
+                    "answer": 2
+                },
+                {
+                    "question": "What are the lines of reference running from the North Pole to the South Pole called?",
+                    "options": ["Parallels of latitude", "Meridians of longitude", "Equator", "Prime Meridian"],
+                    "answer": 1
+                },
+                {
+                    "question": "How is the distance between meridians of longitude measured?",
+                    "options": ["In degrees of latitude", "In degrees of longitude", "In kilometers", "In miles"],
+                    "answer": 1
+                },
+                {
+                    "question": "Which meridian passes through Greenwich?",
+                    "options": ["Prime Meridian", "180° Meridian", "Equator", "Tropic of Cancer"],
+                    "answer": 0
+                },
+                {
+                    "question": "What value is given to the Prime Meridian?",
+                    "options": ["0° latitude", "0° longitude", "90° latitude", "90° longitude"],
+                    "answer": 1
+                },
+                {
+                    "question": "How is the Earth divided into the Eastern and Western Hemispheres?",
+                    "options": ["By the Equator", "By the Prime Meridian and 180° Meridian", "By the Tropic of Cancer", "By the Arctic Circle"],
+                    "answer": 1
+                },
+                {
+                    "question": "What is the longitude of Dhubri in Assam?",
+                    "options": ["26° N, 90° E", "26° S, 90° W", "20° N, 90° E", "20° S, 90° W"],
+                    "answer": 0
+                },
+                {
+                    "question": "What is the best means of measuring time?",
+                    "options": ["The movement of the sun", "The movement of the moon", "The movement of the Earth and the planets", "The movement of the stars"],
+                    "answer": 3
+                },
+                {
+                    "question": "When the Prime Meridian of Greenwich has the sun at the highest point in the sky, what time is it there?",
+                    "options": ["Midnight", "Noon", "Morning", "Evening"],
+                    "answer": 1
+                },
+                {
+                    "question": "How does the time change for places east of Greenwich?",
+                    "options": ["They are behind Greenwich time", "They are ahead of Greenwich time", "They have the same time as Greenwich", "They have no time difference"],
+                    "answer": 1
+                },
+                {
+                    "question": "How does the time change for places west of Greenwich?",
+                    "options": ["They are behind Greenwich time", "They are ahead of Greenwich time", "They have the same time as Greenwich", "They have no time difference"],
+                    "answer": 0
+                },
+                {
+                    "question": "How many degrees does the Earth rotate in about 24 hours?",
+                    "options": ["360°", "180°", "90°", "45°"],
+                    "answer": 0
+                },
+                {
+                    "question": "How many degrees does the Earth rotate in one hour?",
+                    "options": ["15°", "30°", "45°", "60°"],
+                    "answer": 0
+                },
+                {
+                    "question": "What is the time difference between India and England?",
+                    "options": ["4 hours", "5 hours", "5 hours and 30 minutes", "6 hours"],
+                    "answer": 2
+                },
+                {
+                    "question": "What is the Indian Standard Time (IST) based on?",
+                    "options": ["Prime Meridian", "Greenwich Mean Time", "82°30'E longitude", "180° longitude"],
+                    "answer": 2
+                },
+                {
+                    "question": "Why do some countries have more than one standard time?",
+                    "options": ["Because of their great longitudinal extent", "Because of their great latitudinal extent", "Because of their climate", "Because of their population"],
+                    "answer": 0
+                },
+                {
+                    "question": "How many standard times does Russia have?",
+                    "options": ["5", "8", "11", "14"],
+                    "answer": 2
+                },
+                {
+                    "question": "How many time zones has the Earth been divided into?",
+                    "options": ["12", "24", "36", "48"],
+                    "answer": 1
+                },
+                {
+                    "question": "Each time zone on Earth covers how many degrees of longitude?",
+                    "options": ["10°", "12°", "15°", "18°"],
+                    "answer": 2
+                },
+                {
+                    "question": "What happens to the distance between meridians of longitude as they approach the poles?",
+                    "options": ["It remains the same", "It increases", "It decreases", "It disappears"],
+                    "answer": 2
+                },
+                {
+                    "question": "What is the time difference across 15 degrees of longitude?",
+                    "options": ["1 hour", "2 hours", "3 hours", "4 hours"],
+                    "answer": 0
+                }
+            
+            ]
+        },
+        {
+            "name": "3. Motions of the Earth",
+            "questions": [
+                {
+                    "question": "What are the two types of motions the Earth has?",
+                    "options": ["Summer and Winter", "Orbit and Axis", "Day and Night", "Rotation and Revolution"],
+                    "answer": 3
+                },
+                {
+                    "question": "What is rotation?",
+                    "options": ["Movement of the Earth on its axis", "Movement of the Earth around the sun", "Movement of the moon around the Earth", "Movement of the Earth through the galaxy"],
+                    "answer": 0
+                },
+                {
+                    "question": "What is revolution?",
+                    "options": ["Movement of the Earth on its axis", "Movement of the moon around the Earth", "Movement of the Earth around the sun", "Movement of the sun around the galaxy"],
+                    "answer": 2
+                },
+                {
+                    "question": "What angle does the Earth's axis make with its orbital plane?",
+                    "options": ["45°", "66½°", "90°", "180°"],
+                    "answer": 1
+                },
+                {
+                    "question": "What is the orbital plane?",
+                    "options": ["The plane formed by the Earth's orbit", "The plane formed by the Earth's axis", "The plane formed by the moon's orbit", "The plane formed by the sun's path"],
+                    "answer": 0
+                },
+                {
+                    "question": "Why does only half of the Earth get light from the sun at a time?",
+                    "options": ["Because of the Earth's spherical shape", "Because of the Earth's tilt", "Because of the Earth's speed", "Because of the sun's distance"],
+                    "answer": 0
+                },
+                {
+                    "question": "What is the circle that divides day from night on the globe called?",
+                    "options": ["Prime Meridian", "Equator", "Circle of Illumination", "Tropic of Cancer"],
+                    "answer": 2
+                },
+                {
+                    "question": "How long does it take for the Earth to complete one rotation around its axis?",
+                    "options": ["12 hours", "24 hours", "48 hours", "72 hours"],
+                    "answer": 1
+                },
+                {
+                    "question": "What is the period of rotation known as?",
+                    "options": ["Earthminute", "Earthyear", "Earthhour", "Earthday"],
+                    "answer": 3
+                },
+                {
+                    "question": "What would happen if the Earth did not rotate?",
+                    "options": ["One side would always have day and the other night", "The Earth would move faster", "The Earth would stop revolving", "The seasons would change faster"],
+                    "answer": 0
+                },
+                {
+                    "question": "How long does it take for the Earth to revolve around the sun?",
+                    "options": ["365 days", "365¼ days", "366 days", "366¼ days"],
+                    "answer": 1
+                },
+                {
+                    "question": "What is a leap year?",
+                    "options": ["A year with 366 days", "A year with 365 days", "A year with 364 days", "A year with 363 days"],
+                    "answer": 0
+                },
+                {
+                    "question": "How often does a leap year occur?",
+                    "options": ["Every year", "Every two years", "Every four years", "Every five years"],
+                    "answer": 2
+                },
+                {
+                    "question": "In what shape is the Earth's orbit around the sun?",
+                    "options": ["Circular", "Elliptical", "Square", "Rectangular"],
+                    "answer": 1
+                },
+                {
+                    "question": "What causes the change in seasons?",
+                    "options": ["The Earth's position around the sun", "The Earth's rotation on its axis", "The moon's position around the Earth", "The sun's position in the galaxy"],
+                    "answer": 0
+                },
+                {
+                    "question": "On what date does the Northern Hemisphere experience the Summer Solstice?",
+                    "options": ["21st June", "22nd December", "21st March", "23rd September"],
+                    "answer": 0
+                },
+                {
+                    "question": "On what date does the Southern Hemisphere experience the Winter Solstice?",
+                    "options": ["21st June", "22nd December", "21st March", "23rd September"],
+                    "answer": 1
+                },
+                {
+                    "question": "What happens during the Summer Solstice in the Northern Hemisphere?",
+                    "options": ["Continuous darkness", "The shortest day and the longest night", "Equal day and night", "The longest day and the shortest night"],
+                    "answer": 3
+                },
+                {
+                    "question": "What happens during the Winter Solstice in the Southern Hemisphere?",
+                    "options": ["The longest day and the shortest night", "The shortest day and the longest night", "Equal day and night", "Continuous daylight"],
+                    "answer": 0
+                },
+                {
+                    "question": "What is an equinox?",
+                    "options": ["When day and night are equal", "When the day is longer than the night", "When the night is longer than the day", "When there is continuous daylight"],
+                    "answer": 0
+                },
+                {
+                    "question": "On what dates do equinoxes occur?",
+                    "options": ["21st June and 22nd December", "21st March and 23rd September", "21st March and 22nd December", "21st June and 23rd September"],
+                    "answer": 1
+                },
+                {
+                    "question": "What season occurs in the Northern Hemisphere on 23rd September?",
+                    "options": ["Spring", "Summer", "Autumn", "Winter"],
+                    "answer": 2
+                },
+                {
+                    "question": "What season occurs in the Northern Hemisphere on 21st March?",
+                    "options": ["Spring", "Summer", "Autumn", "Winter"],
+                    "answer": 0
+                },
+                {
+                    "question": "What season occurs in the Southern Hemisphere on 23rd September?",
+                    "options": ["Spring", "Summer", "Autumn", "Winter"],
+                    "answer": 0
+                },
+                {
+                    "question": "What season occurs in the Southern Hemisphere on 21st March?",
+                    "options": ["Spring", "Summer", "Autumn", "Winter"],
+                    "answer": 2
+                },
+                {
+                    "question": "Why does the Northern Hemisphere experience summer in June?",
+                    "options": ["It is tilted away from the sun", "It is tilted towards the sun", "It is closer to the sun", "It is farther from the sun"],
+                    "answer": 1
+                },
+                {
+                    "question": "Why does the Southern Hemisphere experience winter in June?",
+                    "options": ["It is tilted away from the sun", "It is tilted towards the sun", "It is closer to the sun", "It is farther from the sun"],
+                    "answer": 0
+                },
+                {
+                    "question": "Who stated that 'the Earth is round and rotates on its own axis'?",
+                    "options": ["Newton", "Galileo", "Copernicus", "Aryabhata"],
+                    "answer": 3
+                },
+                {
+                    "question": "How many days are there in a leap year?",
+                    "options": ["365", "364", "366", "367"],
+                    "answer": 2
+                },
+                {
+                    "question": "What is the angle between the Earth's axis and its orbital plane?",
+                    "options": ["45°", "66½°", "90°", "180°"],
+                    "answer": 1
+                },
+                {
+                    "question": "How long does the Earth take to complete one revolution around the sun?",
+                    "options": ["24 hours", "365¼ days", "30 days", "29½ days"],
+                    "answer": 1
+                }
+            
+            ]
+        },
+        {
+            "name": "4. Maps",
+            "questions": [
+                {
+                    "question": "What is a globe useful for?",
+                    "options": ["Studying the earth as a whole", "Studying a part of the earth", "Finding specific information", "Showing detailed maps"],
+                    "answer": 0
+                },
+                {
+                    "question": "What is a map?",
+                    "options": ["A spherical representation of the earth", "A representation of the earth’s surface on a flat surface", "A three-dimensional model of the earth", "A photo of the earth from space"],
+                    "answer": 1
+                },
+                {
+                    "question": "What is an atlas?",
+                    "options": ["A globe", "A single map", "A collection of maps", "A type of thematic map"],
+                    "answer": 2
+                },
+                {
+                    "question": "What are physical maps?",
+                    "options": ["Maps showing natural features like mountains and rivers", "Maps showing political boundaries", "Maps showing specific information", "Maps showing large areas"],
+                    "answer": 0
+                },
+                {
+                    "question": "What do political maps show?",
+                    "options": ["Scales and distances", "Natural features", "Specific information", "Cities, towns, and villages"],
+                    "answer": 3
+                },
+                {
+                    "question": "What are thematic maps?",
+                    "options": ["Maps showing natural features", "Maps focusing on specific information like road maps and rainfall maps", "Maps showing political boundaries", "Maps showing small areas"],
+                    "answer": 1
+                },
+                {
+                    "question": "What are the three components of maps?",
+                    "options": ["Cardinal points, intermediate directions, and compass", "Scale, legend, and title", "Latitude, longitude, and altitude", "Distance, direction, and symbol"],
+                    "answer": 3
+                },
+                {
+                    "question": "What is a map scale?",
+                    "options": ["The ratio between the actual distance on the ground and the distance shown on the map", "A device used to measure distances", "A map showing a large area", "A map showing a small area"],
+                    "answer": 0
+                },
+                {
+                    "question": "What is a small scale map?",
+                    "options": ["A map showing a large area with less detail", "A map showing a small area with more detail", "A map without a scale", "A rough drawing based on memory"],
+                    "answer": 0
+                },
+                {
+                    "question": "What is a large scale map?",
+                    "options": ["A map showing a large area with less detail", "A map showing a small area with more detail", "A map without a scale", "A map focusing on specific information"],
+                    "answer": 1
+                },
+                {
+                    "question": "What does the arrow marked with 'N' on a map indicate?",
+                    "options": ["East direction", "North direction", "South direction", "West direction"],
+                    "answer": 1
+                },
+                {
+                    "question": "What are the four cardinal points?",
+                    "options": ["Up, Down, Left, Right", "North-East, South-East, South-West, North-West", "North, South, East, West", "North, South, North-East, South-West"],
+                    "answer": 2
+                },
+                {
+                    "question": "What are the intermediate directions?",
+                    "options": ["North-East, South-East, South-West, North-West", "North, South, East, West", "Up, Down, Left, Right", "North, South, North-East, South-West"],
+                    "answer": 0
+                },
+                {
+                    "question": "What is a compass used for?",
+                    "options": ["Finding the main directions", "Measuring distances", "Drawing maps", "Calculating scales"],
+                    "answer": 0
+                },
+                {
+                    "question": "What are conventional symbols?",
+                    "options": ["Symbols universally accepted for representing features on a map", "Symbols used for specific maps", "Symbols representing natural features", "Symbols used only in atlases"],
+                    "answer": 0
+                },
+                {
+                    "question": "What color is generally used to show water bodies on a map?",
+                    "options": ["Brown", "Blue", "Yellow", "Green"],
+                    "answer": 1
+                },
+                {
+                    "question": "What color is generally used to show mountains on a map?",
+                    "options": ["Yellow", "Blue", "Brown", "Green"],
+                    "answer": 2
+                },
+                {
+                    "question": "What color is generally used to show plateaus on a map?",
+                    "options": ["Green", "Blue", "Brown", "Yellow"],
+                    "answer": 3
+                },
+                {
+                    "question": "What color is generally used to show plains on a map?",
+                    "options": ["Blue", "Green", "Brown", "Yellow"],
+                    "answer": 1
+                },
+                {
+                    "question": "What is a sketch?",
+                    "options": ["A rough drawing based on memory and spot observation", "A detailed map with a scale", "A large scale map", "A collection of maps"],
+                    "answer": 0
+                },
+                {
+                    "question": "What is a plan?",
+                    "options": ["A map showing a large area", "A rough drawing based on memory", "A drawing of a small area on a large scale", "A thematic map"],
+                    "answer": 2
+                },
+                {
+                    "question": "Why are maps more useful than globes for studying small areas?",
+                    "options": ["Because they can show detailed information about small areas", "Because they are three-dimensional", "Because they are spherical", "Because they can be used to represent the entire earth"],
+                    "answer": 0
+                },
+                {
+                    "question": "How can the distance between places on a map be calculated?",
+                    "options": ["Using intermediate directions", "Using a compass", "Using cardinal points", "Using the scale of the map"],
+                    "answer": 3
+                },
+                {
+                    "question": "What is the north line on a map?",
+                    "options": ["The arrow marked with the letter 'N'", "The scale of the map", "The compass direction", "The boundary line"],
+                    "answer": 0
+                },
+                {
+                    "question": "What is the purpose of using symbols on maps?",
+                    "options": ["To make maps colorful", "To represent features in a limited space", "To show distances", "To indicate directions"],
+                    "answer": 1
+                },
+                {
+                    "question": "What is a thematic map?",
+                    "options": ["A map showing political boundaries", "A map showing natural features", "A map focusing on specific information", "A map without a scale"],
+                    "answer": 2
+                },
+                {
+                    "question": "How are maps helpful even if you don't know the language of an area?",
+                    "options": ["Because they show detailed information", "Because they are colorful", "Because they are large in size", "Because they use universal symbols"],
+                    "answer": 3
+                },
+                {
+                    "question": "What is the international agreement regarding the use of symbols on maps?",
+                    "options": ["Thematic symbols", "Conventional symbols", "Political symbols", "Physical symbols"],
+                    "answer": 1
+                },
+                {
+                    "question": "What does the scale 1 cm = 5 km on a map mean?",
+                    "options": ["1 cm on the map represents 5 km on the ground", "5 cm on the map represents 1 km on the ground", "1 km on the map represents 5 cm on the ground", "5 km on the map represents 1 cm on the ground"],
+                    "answer": 0
+                },
+                {
+                    "question": "What type of map would you use to find the distribution of forests?",
+                    "options": ["Thematic map", "Physical map", "Political map", "Small scale map"],
+                    "answer": 0
+                }
+            
+            ]
+        },
+        {
+            "name": "5. Major domains of the Earth",
+            "questions": [
+                {
+                    "question": "Which of the following is the solid portion of the earth?",
+                    "options": ["Atmosphere", "Hydrosphere", "Lithosphere", "Biosphere"],
+                    "answer": 2
+                },
+                {
+                    "question": "Which layer of the earth's environment contains oxygen, nitrogen, and other gases?",
+                    "options": ["Lithosphere", "Hydrosphere", "Biosphere", "Atmosphere"],
+                    "answer": 3
+                },
+                {
+                    "question": "What percentage of the Earth's surface is covered with water?",
+                    "options": ["29%", "71%", "50%", "97%"],
+                    "answer": 1
+                },
+                {
+                    "question": "Which continent is the largest in terms of land area?",
+                    "options": ["Africa", "Europe", "Asia", "Australia"],
+                    "answer": 2
+                },
+                {
+                    "question": "Which ocean is the largest and covers one-third of the Earth's surface?",
+                    "options": ["Indian Ocean", "Atlantic Ocean", "Pacific Ocean", "Arctic Ocean"],
+                    "answer": 2
+                },
+                {
+                    "question": "What is the height of Mount Everest above sea level?",
+                    "options": ["7,848 meters", "8,848 meters", "10,022 meters", "11,022 meters"],
+                    "answer": 1
+                },
+                {
+                    "question": "Which is the world's longest river?",
+                    "options": ["Amazon", "Nile", "Ganges", "Mississippi"],
+                    "answer": 1
+                },
+                {
+                    "question": "What is the depth of the Mariana Trench?",
+                    "options": ["8,848 meters", "10,022 meters", "11,022 meters", "12,022 meters"],
+                    "answer": 2
+                },
+                {
+                    "question": "Which continent is also known as the 'island continent'?",
+                    "options": ["Asia", "Europe", "Australia", "Antarctica"],
+                    "answer": 2
+                },
+                {
+                    "question": "Which continent is permanently covered with thick ice sheets?",
+                    "options": ["Asia", "Europe", "Australia", "Antarctica"],
+                    "answer": 3
+                },
+                {
+                    "question": "What is the narrow zone where land, water, and air meet called?",
+                    "options": ["Lithosphere", "Hydrosphere", "Atmosphere", "Biosphere"],
+                    "answer": 3
+                },
+                {
+                    "question": "Which of the following is not a component of the hydrosphere?",
+                    "options": ["Oceans", "Rivers", "Mountains", "Lakes"],
+                    "answer": 2
+                },
+                {
+                    "question": "Which gas makes up 78% of the Earth's atmosphere?",
+                    "options": ["Oxygen", "Nitrogen", "Carbon dioxide", "Argon"],
+                    "answer": 1
+                },
+                {
+                    "question": "Which layer of the atmosphere is closest to the Earth’s surface?",
+                    "options": ["Stratosphere", "Mesosphere", "Thermosphere", "Troposphere"],
+                    "answer": 3
+                },
+                {
+                    "question": "What is the main function of the atmosphere?",
+                    "options": ["To provide soil nutrients", "To supply water", "To protect from harmful sun rays", "To support ocean currents"],
+                    "answer": 2
+                },
+                {
+                    "question": "Which continent has no permanent human settlements?",
+                    "options": ["Asia", "Europe", "Australia", "Antarctica"],
+                    "answer": 3
+                },
+                {
+                    "question": "Who were the first men to climb Mt. Everest?",
+                    "options": ["Edmund Hillary and Tenzing Norgay", "Junko Tabei and Bachendri Pal", "Marco Polo and Christopher Columbus", "Roald Amundsen and Robert Scott"],
+                    "answer": 0
+                },
+                {
+                    "question": "Which ocean is named after a country?",
+                    "options": ["Pacific Ocean", "Atlantic Ocean", "Indian Ocean", "Arctic Ocean"],
+                    "answer": 2
+                },
+                {
+                    "question": "Which gas in the atmosphere is essential for the growth of plants?",
+                    "options": ["Oxygen", "Nitrogen", "Carbon dioxide", "Argon"],
+                    "answer": 2
+                },
+                {
+                    "question": "What is the primary reason for global warming?",
+                    "options": ["Decrease in oxygen levels", "Increase in nitrogen levels", "Increase in carbon dioxide levels", "Decrease in argon levels"],
+                    "answer": 2
+                },
+                {
+                    "question": "What is the shape of the Atlantic Ocean?",
+                    "options": ["Circular", "Triangular", "S-shaped", "Rectangular"],
+                    "answer": 2
+                },
+                {
+                    "question": "Which layer of the atmosphere contains the ozone layer?",
+                    "options": ["Troposphere", "Stratosphere", "Mesosphere", "Thermosphere"],
+                    "answer": 1
+                },
+                {
+                    "question": "Which continent is known for the Sahara Desert?",
+                    "options": ["Asia", "Europe", "Africa", "Australia"],
+                    "answer": 2
+                },
+                {
+                    "question": "What connects North America and South America?",
+                    "options": ["Isthmus of Suez", "Isthmus of Panama", "Isthmus of Gibraltar", "Isthmus of Bering"],
+                    "answer": 1
+                },
+                {
+                    "question": "Which continent is the smallest by land area?",
+                    "options": ["Asia", "Europe", "Australia", "Antarctica"],
+                    "answer": 2
+                },
+                {
+                    "question": "Which is the world's largest river by volume?",
+                    "options": ["Amazon", "Nile", "Ganges", "Mississippi"],
+                    "answer": 0
+                },
+                {
+                    "question": "Which continent has the world's longest mountain range?",
+                    "options": ["Asia", "Europe", "South America", "North America"],
+                    "answer": 2
+                },
+                {
+                    "question": "Which ocean surrounds the South Pole?",
+                    "options": ["Pacific Ocean", "Atlantic Ocean", "Southern Ocean", "Arctic Ocean"],
+                    "answer": 2
+                },
+                {
+                    "question": "Which continent is known for having no permanent human settlements and is covered with thick ice sheets?",
+                    "options": ["Asia", "Europe", "Australia", "Antarctica"],
+                    "answer": 3
+                },
+                {
+                    "question": "What percentage of the Earth's water is found in the oceans?",
+                    "options": ["29%", "71%", "97%", "99%"],
+                    "answer": 2
+                },
+                {
+                    "question": "Which continent is located completely in the Southern Hemisphere and is known as an island continent?",
+                    "options": ["Asia", "Europe", "Australia", "Antarctica"],
+                    "answer": 2
+                },
+                {
+                    "question": "Which ocean is the busiest in terms of commerce?",
+                    "options": ["Pacific Ocean", "Atlantic Ocean", "Indian Ocean", "Arctic Ocean"],
+                    "answer": 1
+                },
+                {
+                    "question": "Which continent is separated from Asia by the Ural Mountains?",
+                    "options": ["Africa", "Europe", "North America", "Australia"],
+                    "answer": 1
+                },
+                {
+                    "question": "Which is the second largest continent in terms of land area?",
+                    "options": ["Asia", "Europe", "Africa", "North America"],
+                    "answer": 2
+                },
+                {
+                    "question": "Which layer of the atmosphere contains the majority of the Earth's weather?",
+                    "options": ["Stratosphere", "Mesosphere", "Thermosphere", "Troposphere"],
+                    "answer": 3
+                },
+                {
+                    "question": "Which ocean is located within the Arctic Circle?",
+                    "options": ["Pacific Ocean", "Atlantic Ocean", "Indian Ocean", "Arctic Ocean"],
+                    "answer": 3
+                },
+                {
+                    "question": "Which continent has research stations named Maitri and Bharati?",
+                    "options": ["Asia", "Europe", "Australia", "Antarctica"],
+                    "answer": 3
+                },
+                {
+                    "question": "What is the ratio of nitrogen in the Earth's atmosphere?",
+                    "options": ["21%", "78%", "1%", "0.03%"],
+                    "answer": 1
+                },
+                {
+                    "question": "Which ocean is almost triangular in shape?",
+                    "options": ["Pacific Ocean", "Atlantic Ocean", "Indian Ocean", "Arctic Ocean"],
+                    "answer": 2
+                },
+                {
+                    "question": "Who was the first woman to reach the summit of Mount Everest?",
+                    "options": ["Bachendri Pal", "Junko Tabei", "Edmund Hillary", "Tenzing Norgay"],
+                    "answer": 1
+                }
+            
+            ]
+        },
+        {
+            "name": "6. Our Country - India",
+            "questions": [
+                {
+                    "question": "Which mountain range bounds India in the north?",
+                    "options": ["Aravali", "Vindhyas", "Himalayas", "Satpuras"],
+                    "answer": 2
+                },
+                {
+                    "question": "What is the southernmost point of the Indian mainland?",
+                    "options": ["Ladakh", "Kanyakumari", "Gujarat", "Arunachal Pradesh"],
+                    "answer": 1
+                },
+                {
+                    "question": "Which ocean lies to the south of India?",
+                    "options": ["Pacific Ocean", "Atlantic Ocean", "Indian Ocean", "Arctic Ocean"],
+                    "answer": 2
+                },
+                {
+                    "question": "What is the total area of India?",
+                    "options": ["3.28 million sq. km", "2.28 million sq. km", "4.28 million sq. km", "5.28 million sq. km"],
+                    "answer": 0
+                },
+                {
+                    "question": "What is the east-west extent of India?",
+                    "options": ["3,200 km", "2,900 km", "3,500 km", "2,700 km"],
+                    "answer": 1
+                },
+                {
+                    "question": "Which desert is located in the western part of India?",
+                    "options": ["Gobi Desert", "Thar Desert", "Sahara Desert", "Kalahari Desert"],
+                    "answer": 1
+                },
+                {
+                    "question": "Which river forms the Sundarbans delta?",
+                    "options": ["Narmada", "Godavari", "Ganga and Brahmaputra", "Krishna"],
+                    "answer": 2
+                },
+                {
+                    "question": "What is the latitude range of mainland India?",
+                    "options": ["8°4'N to 37°6'N", "7°4'N to 36°6'N", "9°4'N to 38°6'N", "6°4'N to 35°6'N"],
+                    "answer": 0
+                },
+                {
+                    "question": "Which ocean is referred to as washing the shores of the Indian peninsula?",
+                    "options": ["Pacific Ocean", "Atlantic Ocean", "Indian Ocean", "Arctic Ocean"],
+                    "answer": 2
+                },
+                {
+                    "question": "What is the longitude range of mainland India?",
+                    "options": ["68°7'E to 97°25'E", "67°7'E to 96°25'E", "69°7'E to 98°25'E", "70°7'E to 99°25'E"],
+                    "answer": 0
+                },
+                {
+                    "question": "How many states does India have?",
+                    "options": ["26", "28", "30", "32"],
+                    "answer": 1
+                },
+                {
+                    "question": "Which state is the national capital of India?",
+                    "options": ["Maharashtra", "Uttar Pradesh", "Delhi", "Karnataka"],
+                    "answer": 2
+                },
+                {
+                    "question": "Which island group lies in the Arabian Sea?",
+                    "options": ["Lakshadweep", "Andaman and Nicobar", "Sri Lanka", "Maldives"],
+                    "answer": 0
+                },
+                {
+                    "question": "Which island group lies to the southeast of the Indian mainland in the Bay of Bengal?",
+                    "options": ["Lakshadweep", "Andaman and Nicobar", "Sri Lanka", "Maldives"],
+                    "answer": 1
+                },
+                {
+                    "question": "Which island country is separated from India by the Palk Strait?",
+                    "options": ["Sri Lanka", "Maldives", "Indonesia", "Bangladesh"],
+                    "answer": 0
+                },
+                {
+                    "question": "Which river is the longest river in India?",
+                    "options": ["Narmada", "Godavari", "Ganga", "Krishna"],
+                    "answer": 2
+                },
+                {
+                    "question": "Which mountain range is known as the 'abode of snow'?",
+                    "options": ["Aravali", "Vindhyas", "Himalayas", "Satpuras"],
+                    "answer": 2
+                },
+                {
+                    "question": "Which river flows through the Great Indian Desert?",
+                    "options": ["Narmada", "Godavari", "Ganga", "None"],
+                    "answer": 3
+                },
+                {
+                    "question": "Which plateau is rich in minerals like coal and iron-ore?",
+                    "options": ["Deccan Plateau", "Malwa Plateau", "Chotanagpur Plateau", "Mysore Plateau"],
+                    "answer": 2
+                },
+                {
+                    "question": "Which meridian is taken as the Indian Standard Time?",
+                    "options": ["82°30'E", "81°30'E", "83°30'E", "80°30'E"],
+                    "answer": 0
+                },
+                {
+                    "question": "Which ocean is the busiest from the point of view of commerce?",
+                    "options": ["Pacific Ocean", "Atlantic Ocean", "Indian Ocean", "Arctic Ocean"],
+                    "answer": 1
+                },
+                {
+                    "question": "What is the shape of the Indian Ocean?",
+                    "options": ["Circular", "Rectangular", "Triangular", "S-shaped"],
+                    "answer": 2
+                },
+                {
+                    "question": "Which river has formed the world's largest delta, the Sundarbans delta?",
+                    "options": ["Narmada", "Godavari", "Ganga and Brahmaputra", "Krishna"],
+                    "answer": 2
+                },
+                {
+                    "question": "What is a peninsula?",
+                    "options": ["A piece of land surrounded by water on all sides", "A piece of land surrounded by water on three sides", "A piece of land surrounded by water on two sides", "A piece of land surrounded by water on one side"],
+                    "answer": 1
+                },
+                {
+                    "question": "Which country shares the longest border with India?",
+                    "options": ["Pakistan", "China", "Bangladesh", "Nepal"],
+                    "answer": 2
+                },
+                {
+                    "question": "Which river flows through the Indian state of Gujarat?",
+                    "options": ["Narmada", "Godavari", "Ganga", "Krishna"],
+                    "answer": 0
+                },
+                {
+                    "question": "Which group of islands was affected by the Tsunami in 2004?",
+                    "options": ["Lakshadweep", "Andaman and Nicobar", "Sri Lanka", "Maldives"],
+                    "answer": 1
+                },
+                {
+                    "question": "What is the southernmost range of the Himalayas?",
+                    "options": ["Himadri", "Himachal", "Shiwalik", "Aravali"],
+                    "answer": 2
+                },
+                {
+                    "question": "Which range borders the Peninsular plateau on the north-west side?",
+                    "options": ["Aravali", "Vindhyas", "Satpuras", "Western Ghats"],
+                    "answer": 0
+                },
+                {
+                    "question": "Which river flows through the Aravali hills?",
+                    "options": ["Narmada", "Godavari", "Ganga", "None"],
+                    "answer": 3
+                },
+                {
+                    "question": "Which mountain range lies to the south of Himadri?",
+                    "options": ["Aravali", "Vindhyas", "Himachal", "Shiwalik"],
+                    "answer": 2
+                },
+                {
+                    "question": "What is the shape of the delta formed by the Ganga and Brahmaputra rivers?",
+                    "options": ["Square", "Circular", "Triangular", "Rectangular"],
+                    "answer": 2
+                },
+                {
+                    "question": "Which country lies to the south of India across the sea?",
+                    "options": ["Pakistan", "China", "Sri Lanka", "Nepal"],
+                    "answer": 2
+                },
+                {
+                    "question": "Which river flows through the Eastern Ghats?",
+                    "options": ["Narmada", "Godavari", "Ganga", "Krishna"],
+                    "answer": 1
+                },
+                {
+                    "question": "Which river flows through the Peninsular plateau?",
+                    "options": ["Narmada", "Ganga", "Brahmaputra", "Indus"],
+                    "answer": 0
+                },
+                {
+                    "question": "Which island group is located off the coast of Kerala?",
+                    "options": ["Andaman and Nicobar", "Lakshadweep", "Sri Lanka", "Maldives"],
+                    "answer": 1
+                },
+                {
+                    "question": "Which mountain range lies to the west of the Peninsular plateau?",
+                    "options": ["Aravali", "Vindhyas", "Satpuras", "Western Ghats"],
+                    "answer": 3
+                },
+                {
+                    "question": "Which river flows through the state of Tamil Nadu?",
+                    "options": ["Narmada", "Godavari", "Krishna", "Kaveri"],
+                    "answer": 3
+                },
+                {
+                    "question": "Which mountain range lies to the east of the Peninsular plateau?",
+                    "options": ["Aravali", "Vindhyas", "Eastern Ghats", "Western Ghats"],
+                    "answer": 2
+                },
+                {
+                    "question": "Which river flows through the state of Maharashtra?",
+                    "options": ["Narmada", "Godavari", "Ganga", "Krishna"],
+                    "answer": 1
+                }
+            
+            ]
+        },
+        {
+            "name": "7. India : Climate, Vegetation and Wildlife",
+            "questions": [
+                {
+                    "question": "What is weather about?",
+                    "options": ["Day to day changes in the atmosphere", "Monthly changes in temperature", "Yearly rainfall patterns", "Decade-long climate trends"],
+                    "answer": 0
+                },
+                {
+                    "question": "During which months does the Cold Weather Season (Winter) occur in India?",
+                    "options": ["March to May", "June to September", "October to November", "December to February"],
+                    "answer": 3
+                },
+                {
+                    "question": "What are 'loo' winds?",
+                    "options": ["Cool winds in winter", "Hot and dry winds in summer", "Moist winds from the ocean", "Winds during the rainy season"],
+                    "answer": 1
+                },
+                {
+                    "question": "Which season is marked by the onset and advance of monsoon?",
+                    "options": ["Winter", "Summer", "Southwest Monsoon Season", "Autumn"],
+                    "answer": 2
+                },
+                {
+                    "question": "During which season do the southern parts of India, particularly Tamil Nadu and Andhra Pradesh, receive rainfall?",
+                    "options": ["Winter", "Summer", "Southwest Monsoon Season", "Season of Retreating Monsoons"],
+                    "answer": 3
+                },
+                {
+                    "question": "What type of climate does India have?",
+                    "options": ["Desert climate", "Tropical climate", "Monsoon climate", "Temperate climate"],
+                    "answer": 3
+                },
+                {
+                    "question": "What does the Arabic word 'mausim' mean?",
+                    "options": ["Weather", "Rain", "Season", "Wind"],
+                    "answer": 2
+                },
+                {
+                    "question": "Which place receives the world’s highest rainfall?",
+                    "options": ["Mumbai", "Kolkata", "Jaisalmer", "Mawsynram"],
+                    "answer": 3
+                },
+                {
+                    "question": "What are the main factors affecting the climate of a place?",
+                    "options": ["Location, altitude, distance from the sea, and relief", "Temperature, humidity, wind speed, and direction", "Rainfall, sunshine, wind direction, and humidity", "None of the above"],
+                    "answer": 0
+                },
+                {
+                    "question": "What is the natural habitat of wild life?",
+                    "options": ["Cities", "Forests", "Deserts", "Mountains"],
+                    "answer": 1
+                },
+                {
+                    "question": "Which animal is our national animal?",
+                    "options": ["Lion", "Elephant", "Tiger", "Peacock"],
+                    "answer": 2
+                },
+                {
+                    "question": "Where are Asiatic lions found?",
+                    "options": ["Kerala", "Gujarat", "Assam", "Karnataka"],
+                    "answer": 1
+                },
+                {
+                    "question": "Which regions do elephants inhabit?",
+                    "options": ["Kerala and Karnataka", "Gujarat and Rajasthan", "Ladakh and Jammu", "Punjab and Haryana"],
+                    "answer": 0
+                },
+                {
+                    "question": "Where are camels and wild asses found?",
+                    "options": ["Himalayas", "Great Indian desert and the Rann of Kuchchh", "Northeast India", "Western Ghats"],
+                    "answer": 1
+                },
+                {
+                    "question": "What is the national bird of India?",
+                    "options": ["Parrot", "Peacock", "Mynah", "Duck"],
+                    "answer": 1
+                },
+                {
+                    "question": "What are some common birds found in India?",
+                    "options": ["Parrots, pigeons, mynah, geese, bulbul and ducks", "Eagles, vultures, hawks, owls and falcons", "Crows, sparrows, ravens, seagulls and starlings", "None of the above"],
+                    "answer": 0
+                },
+                {
+                    "question": "What is the importance of forests?",
+                    "options": ["Provide oxygen and absorb carbon dioxide", "Control soil erosion", "Provide timber, fuel wood, fodder, medicinal plants and herbs", "All of the above"],
+                    "answer": 3
+                },
+                {
+                    "question": "What type of plants are called natural vegetation?",
+                    "options": ["Crops grown by farmers", "Plants in gardens and parks", "Plants that grow on their own without human interference", "None of the above"],
+                    "answer": 2
+                },
+                {
+                    "question": "What is 'Van Mahotsav'?",
+                    "options": ["A festival celebrating monsoon", "A programme to promote planting and protecting trees", "A wildlife conservation project", "None of the above"],
+                    "answer": 1
+                },
+                {
+                    "question": "What is the role of roots of plants in the ecosystem?",
+                    "options": ["Absorb carbon dioxide", "Bind the soil and control erosion", "Produce fruits", "All of the above"],
+                    "answer": 1
+                },
+                {
+                    "question": "What is the Sundarbans delta?",
+                    "options": ["Delta formed by the Ganga and Brahmaputra rivers", "Delta formed by the Narmada and Tapi rivers", "Delta formed by the Godavari and Krishna rivers", "Delta formed by the Mahanadi and Kaveri rivers"],
+                    "answer": 0
+                },
+                {
+                    "question": "Which bird is known as the smallest migratory bird traveling to India?",
+                    "options": ["Pintail Duck", "Curlews", "Flamingo", "Little Stint"],
+                    "answer": 3
+                },
+                {
+                    "question": "What are coral islands?",
+                    "options": ["Islands made of volcanic rock", "Islands formed from the skeletons of marine animals called polyps", "Islands made of sand and clay", "None of the above"],
+                    "answer": 1
+                },
+                {
+                    "question": "Which Indian state receives rainfall during the retreating monsoon season?",
+                    "options": ["Rajasthan", "Gujarat", "Tamil Nadu", "Punjab"],
+                    "answer": 2
+                },
+                {
+                    "question": "What are the seasons recognized in India?",
+                    "options": ["Winter, Summer, Southwest Monsoon, Retreating Monsoon", "Spring, Summer, Autumn, Winter", "Dry, Wet, Cold, Hot", "None of the above"],
+                    "answer": 0
+                },
+                {
+                    "question": "What is the climate of coastal places like Mumbai and Kolkata?",
+                    "options": ["Extremely hot", "Extremely cold", "Moderate", "None of the above"],
+                    "answer": 2
+                },
+                {
+                    "question": "What causes regional differences in the climate of India?",
+                    "options": ["Rainfall distribution", "Soil types", "Vegetation", "Location, altitude, distance from the sea, and relief"],
+                    "answer": 3
+                },
+                {
+                    "question": "What are some major functions performed by forests?",
+                    "options": ["Release oxygen and absorb carbon dioxide", "Control soil erosion", "Provide timber, fuel wood, fodder, medicinal plants and herbs", "All of the above"],
+                    "answer": 3
+                },
+                {
+                    "question": "Which place in India has the highest concentration of population due to fertile land?",
+                    "options": ["Northern Indian plains", "Great Indian desert", "Western Ghats", "Eastern Ghats"],
+                    "answer": 0
+                },
+                {
+                    "question": "What is the primary reason for the varied natural vegetation in India?",
+                    "options": ["Amount of rainfall", "Soil type", "Altitude", "Proximity to the sea"],
+                    "answer": 0
+                },
+                {
+                    "question": "Which region is home to elephants and one-horned rhinoceroses in India?",
+                    "options": ["Kerala and Karnataka", "Gujarat and Rajasthan", "Assam", "Ladakh"],
+                    "answer": 2
+                },
+                {
+                    "question": "What is the purpose of national parks, sanctuaries, and biosphere reserves in India?",
+                    "options": ["To promote tourism", "To protect wildlife and their habitats", "To provide recreational areas for people", "To increase agricultural land"],
+                    "answer": 1
+                },
+                {
+                    "question": "Which project was started by the Indian government to protect tigers?",
+                    "options": ["Project Lion", "Project Elephant", "Project Tiger", "Project Rhino"],
+                    "answer": 2
+                },
+                {
+                    "question": "What is the primary source of rainfall in India?",
+                    "options": ["Western disturbances", "Cyclones", "Monsoon winds", "Local convectional rainfall"],
+                    "answer": 2
+                },
+                {
+                    "question": "What is the effect of the hot and dry winds called 'loo'?",
+                    "options": ["Increase in humidity", "Drop in temperature", "Rise in temperature", "None of the above"],
+                    "answer": 2
+                },
+                {
+                    "question": "Which geographical feature lies to the west of the Western Ghats?",
+                    "options": ["The Eastern Ghats", "The Northern Plains", "The Coastal Plains", "The Himalayas"],
+                    "answer": 2
+                },
+                {
+                    "question": "What is the Sundarbans known for?",
+                    "options": ["Tiger population", "Mangrove forests", "Hill stations", "Desert landscape"],
+                    "answer": 1
+                },
+                {
+                    "question": "Which state in India is known for its desert climate?",
+                    "options": ["Kerala", "Assam", "Rajasthan", "Tamil Nadu"],
+                    "answer": 2
+                },
+                {
+                    "question": "What is the climate of Ladakh like?",
+                    "options": ["Hot and humid", "Cool and wet", "Moderate", "Cold and dry"],
+                    "answer": 3
+                },
+                {
+                    "question": "What do 'retreating monsoons' refer to?",
+                    "options": ["Winds moving from land to sea", "Winds moving from sea to land", "Winds moving within the ocean", "Winds moving in opposite directions"],
+                    "answer": 0
+                },
+                {
+                    "question": "Which season is characterized by cool temperatures and direct sunlight in northern India?",
+                    "options": ["Winter", "Summer", "Monsoon", "Autumn"],
+                    "answer": 0
+                },
+                {
+                    "question": "Which climate type does India predominantly have?",
+                    "options": ["Polar", "Tropical", "Temperate", "Arctic"],
+                    "answer": 1
+                },
+                {
+                    "question": "What is the primary factor determining the type of natural vegetation in a region?",
+                    "options": ["Human interference", "Amount of rainfall", "Soil type", "Altitude"],
+                    "answer": 1
+                },
+                {
+                    "question": "What is the natural habitat of wild animals called?",
+                    "options": ["Zoo", "Sanctuary", "Forest", "Park"],
+                    "answer": 2
+                },
+                {
+                    "question": "What do the roots of plants primarily do?",
+                    "options": ["Absorb carbon dioxide", "Produce oxygen", "Bind the soil", "Attract insects"],
+                    "answer": 2
+                },
+                {
+                    "question": "Which is the smallest migratory bird that travels to India?",
+                    "options": ["Pintail Duck", "Flamingo", "Osprey", "Little Stint"],
+                    "answer": 3
+                },
+                {
+                    "question": "What is the purpose of wildlife sanctuaries and biosphere reserves?",
+                    "options": ["To promote hunting", "To protect habitats and species", "To create picnic spots", "To promote agriculture"],
+                    "answer": 1
+                },
+                {
+                    "question": "Which is the national bird of India?",
+                    "options": ["Peacock", "Parrot", "Mynah", "Duck"],
+                    "answer": 0
+                },
+                {
+                    "question": "Where are Asiatic lions found in India?",
+                    "options": ["Assam", "Gujarat", "Kerala", "Karnataka"],
+                    "answer": 1
+                },
+                {
+                    "question": "Which animal is known for its adaptation to desert conditions?",
+                    "options": ["Elephant", "Camel", "Rhino", "Lion"],
+                    "answer": 1
+                },
+                {
+                    "question": "What is the climate like in coastal areas such as Mumbai and Kolkata?",
+                    "options": ["Hot and dry", "Moderate and humid", "Cold and wet", "Extreme heat"],
+                    "answer": 1
+                },
+                {
+                    "question": "What are the main functions of forests?",
+                    "options": ["To provide oxygen and absorb carbon dioxide", "To control soil erosion", "To provide timber, fuel wood, and medicinal plants", "All of the above"],
+                    "answer": 3
+                },
+                {
+                    "question": "What is the importance of 'Van Mahotsav'?",
+                    "options": ["A festival celebrating animals", "A movement to promote tree planting", "A conservation project for rivers", "A festival for bird watchers"],
+                    "answer": 1
+                },
+                {
+                    "question": "Which region in India has a desert climate?",
+                    "options": ["Western Ghats", "Eastern Ghats", "Himalayas", "Thar Desert"],
+                    "answer": 3
+                },
+                {
+                    "question": "What is the climate of Ladakh known for?",
+                    "options": ["Humid and rainy", "Mild and moderate", "Hot and dry", "Cold and wet"],
+                    "answer": 2
+                },
+                {
+                    "question": "What is the primary source of rainfall in India?",
+                    "options": ["Western disturbances", "Cyclones", "Monsoon winds", "Local convectional rainfall"],
+                    "answer": 2
+                },
+                {
+                    "question": "What is the significance of 'loo' winds in India?",
+                    "options": ["Cooling effect in summer", "Raising temperatures in summer", "Bringing rain in monsoon", "None of the above"],
+                    "answer": 1
+                },
+                {
+                    "question": "Which geographical feature lies to the west of the Western Ghats?",
+                    "options": ["The Eastern Ghats", "The Northern Plains", "The Coastal Plains", "The Himalayas"],
+                    "answer": 2
+                },
+                {
+                    "question": "What is the primary reason for the varied natural vegetation in India?",
+                    "options": ["Amount of rainfall", "Soil type", "Altitude", "Proximity to the sea"],
+                    "answer": 0
+                },
+                {
+                    "question": "Which region is home to elephants and one-horned rhinoceroses in India?",
+                    "options": ["Kerala and Karnataka", "Gujarat and Rajasthan", "Assam", "Ladakh"],
+                    "answer": 2
+                },
+                {
+                    "question": "What is the purpose of national parks, sanctuaries, and biosphere reserves in India?",
+                    "options": ["To promote tourism", "To protect wildlife and their habitats", "To provide recreational areas for people", "To increase agricultural land"],
+                    "answer": 1
+                },
+                {
+                    "question": "Which project was started by the Indian government to protect tigers?",
+                    "options": ["Project Lion", "Project Elephant", "Project Tiger", "Project Rhino"],
+                    "answer": 2
+                },
+                {
+                    "question": "What is the primary source of rainfall in India?",
+                    "options": ["Western disturbances", "Cyclones", "Monsoon winds", "Local convectional rainfall"],
+                    "answer": 2
+                },
+                {
+                    "question": "What is the effect of the hot and dry winds called 'loo'?",
+                    "options": ["Increase in humidity", "Drop in temperature", "Rise in temperature", "None of the above"],
+                    "answer": 2
+                },
+                {
+                    "question": "Which geographical feature lies to the west of the Western Ghats?",
+                    "options": ["The Eastern Ghats", "The Northern Plains", "The Coastal Plains", "The Himalayas"],
+                    "answer": 2
+                },
+                {
+                    "question": "What are coral islands?",
+                    "options": ["Islands made of volcanic rock", "Islands formed from the skeletons of marine animals called polyps", "Islands made of sand and clay", "None of the above"],
+                    "answer": 1
+                },
+                {
+                    "question": "Which Indian state receives rainfall during the retreating monsoon season?",
+                    "options": ["Rajasthan", "Gujarat", "Tamil Nadu", "Punjab"],
+                    "answer": 2
+                },
+                {
+                    "question": "What are the seasons recognized in India?",
+                    "options": ["Winter, Summer, Southwest Monsoon, Retreating Monsoon", "Spring, Summer, Autumn, Winter", "Dry, Wet, Cold, Hot", "None of the above"],
+                    "answer": 0
+                },
+                {
+                    "question": "What is the climate of coastal places like Mumbai and Kolkata?",
+                    "options": ["Extremely hot", "Extremely cold", "Moderate", "None of the above"],
+                    "answer": 2
+                },
+                {
+                    "question": "What causes regional differences in the climate of India?",
+                    "options": ["Rainfall distribution", "Soil types", "Vegetation", "Location, altitude, distance from the sea, and relief"],
+                    "answer": 3
+                },
+                {
+                    "question": "What are some major functions performed by forests?",
+                    "options": ["Release oxygen and absorb carbon dioxide", "Control soil erosion", "Provide timber, fuel wood, fodder, medicinal plants and herbs", "All of the above"],
+                    "answer": 3
+                },
+                {
+                    "question": "Which place in India has the highest concentration of population due to fertile land?",
+                    "options": ["Northern Indian plains", "Great Indian desert", "Western Ghats", "Eastern Ghats"],
+                    "answer": 0
+                },
+                {
+                    "question": "What is the primary reason for the varied natural vegetation in India?",
+                    "options": ["Amount of rainfall", "Soil type", "Altitude", "Proximity to the sea"],
+                    "answer": 0
+                },
+                {
+                    "question": "Which region is home to elephants and one-horned rhinoceroses in India?",
+                    "options": ["Kerala and Karnataka", "Gujarat and Rajasthan", "Assam", "Ladakh"],
+                    "answer": 2
+                },
+                {
+                    "question": "What is the purpose of national parks, sanctuaries, and biosphere reserves in India?",
+                    "options": ["To promote tourism", "To protect wildlife and their habitats", "To provide recreational areas for people", "To increase agricultural land"],
+                    "answer": 1
+                },
+                {
+                    "question": "Which project was started by the Indian government to protect tigers?",
+                    "options": ["Project Lion", "Project Elephant", "Project Tiger", "Project Rhino"],
+                    "answer": 2
+                }
+            
+            ]
+        }
+
+    ]
+}

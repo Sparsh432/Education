@@ -1,0 +1,2272 @@
+{
+    "chapters": [
+        {
+            "name": "1. Introduction : What, Where, How and When?",
+            "questions": [
+                {
+                    "question": "What are some ways to find out what happened yesterday?",
+                    "options": ["Ask somebody who remembers", "Read a newspaper", "Search for manuscripts", "Study inscriptions"],
+                    "answer": 1
+                },
+                {
+                    "question": "Where can we find evidence of what people ate and the clothes they wore long ago?",
+                    "options": ["In old newspapers", "In manuscripts and inscriptions", "In modern books", "In television shows"],
+                    "answer": 1
+                },
+                {
+                    "question": "Where have people lived along for several hundred thousand years?",
+                    "options": ["Along the river Ganga", "Along the river Narmada", "Along the river Indus", "Along the river Son"],
+                    "answer": 1
+                },
+                {
+                    "question": "What were some of the earliest people along the Narmada skilled at?",
+                    "options": ["Building cities", "Gathering food", "Growing crops", "Trading goods"],
+                    "answer": 1
+                },
+                {
+                    "question": "Where did people first begin to grow crops like wheat and barley about 8000 years ago?",
+                    "options": ["Along the river Ganga", "Along the river Narmada", "In the Sulaiman and Kirthar hills", "In the Garo hills"],
+                    "answer": 2
+                },
+                {
+                    "question": "What kind of crops were first grown to the north of the Vindhyas?",
+                    "options": ["Wheat", "Barley", "Rice", "Maize"],
+                    "answer": 2
+                },
+                {
+                    "question": "When did some of the earliest cities flourish on the banks of the Indus and its tributaries?",
+                    "options": ["About 2500 years ago", "About 4700 years ago", "About 3500 years ago", "About 3000 years ago"],
+                    "answer": 1
+                },
+                {
+                    "question": "Which area was known as Magadha in ancient times?",
+                    "options": ["Area to the south of the Ganga", "Area to the north of the Indus", "Area to the west of the Narmada", "Area to the east of the Vindhyas"],
+                    "answer": 0
+                },
+                {
+                    "question": "What made journeys dangerous at times in ancient India?",
+                    "options": ["Thick forests", "High mountains and rivers", "Wild animals", "Lack of maps"],
+                    "answer": 1
+                },
+                {
+                    "question": "Why did merchants travel with caravans or ships?",
+                    "options": ["To escape from natural disasters", "To conquer lands", "To carry valuable goods from place to place", "To offer religious teachings"],
+                    "answer": 2
+                },
+                {
+                    "question": "What led to the sharing of ideas between people in ancient times?",
+                    "options": ["Natural disasters", "Religious teachings", "Journeys and travels", "Wars and battles"],
+                    "answer": 2
+                },
+                {
+                    "question": "What enriched the cultural traditions of the Indian subcontinent?",
+                    "options": ["Wars and conquests", "Trade and commerce", "Movements of people", "Natural disasters"],
+                    "answer": 2
+                },
+                {
+                    "question": "What are the two words often used for our country?",
+                    "options": ["Hindustan and Bharat", "India and Hindustan", "India and Bharat", "Aryavarta and Bharat"],
+                    "answer": 2
+                },
+                {
+                    "question": "From where does the word 'India' come?",
+                    "options": ["From the river Ganga", "From the river Narmada", "From the river Indus", "From the river Yamuna"],
+                    "answer": 2
+                },
+                {
+                    "question": "Who used the name 'Bharata' for the country?",
+                    "options": ["Iranians", "Greeks", "Rigvedic people", "Romans"],
+                    "answer": 2
+                },
+                {
+                    "question": "What were manuscripts usually written on?",
+                    "options": ["Paper", "Palm leaf or birch bark", "Stone or metal", "Animal skin"],
+                    "answer": 1
+                },
+                {
+                    "question": "What subjects did the surviving manuscripts deal with?",
+                    "options": ["Technology and engineering", "Daily life and customs", "Religious beliefs and practices, the lives of kings, medicine and science", "Geography and climate"],
+                    "answer": 2
+                },
+                {
+                    "question": "What languages were many of the manuscripts written in?",
+                    "options": ["Sanskrit, Prakrit, and Tamil", "Hindi, Urdu, and Punjabi", "English, French, and Spanish", "Arabic, Persian, and Turkish"],
+                    "answer": 0
+                },
+                {
+                    "question": "What are inscriptions?",
+                    "options": ["Books written on palm leaves", "Writings on hard surfaces such as stone or metal", "Songs and stories", "Paintings and drawings"],
+                    "answer": 1
+                },
+                {
+                    "question": "Why did kings get their orders inscribed on hard surfaces?",
+                    "options": ["To decorate their palaces", "To make sure people could see, read, and obey them", "To preserve their legacy", "To teach children"],
+                    "answer": 1
+                },
+                {
+                    "question": "What kind of records did kings often keep in inscriptions?",
+                    "options": ["Scientific discoveries", "Religious teachings", "Victories in battle", "Trade agreements"],
+                    "answer": 2
+                },
+                {
+                    "question": "Where did some of the earliest cities develop about 2500 years ago?",
+                    "options": ["Along the sea coasts", "In the Garo hills", "In the Sulaiman and Kirthar hills", "In the Vindhyas"],
+                    "answer": 0
+                },
+                {
+                    "question": "What did people gather for food along the river Narmada?",
+                    "options": ["Fish and meat", "Roots, fruits, and other forest produce", "Crops like wheat and barley", "Milk and honey"],
+                    "answer": 1
+                },
+                {
+                    "question": "What natural features form the frontiers of the Indian subcontinent?",
+                    "options": ["Lakes and rivers", "Hills, mountains, and seas", "Forests and deserts", "Plains and valleys"],
+                    "answer": 1
+                },
+                {
+                    "question": "What kind of cultural traditions were shared by people crossing frontiers?",
+                    "options": ["Trade routes and markets", "New ways of carving stone, composing music, and cooking food", "Languages and scripts", "Government and administration"],
+                    "answer": 1
+                },
+                {
+                    "question": "Who studies objects made and used in the past?",
+                    "options": ["Historians", "Archaeologists", "Scientists", "Anthropologists"],
+                    "answer": 1
+                },
+                {
+                    "question": "What do archaeologists study?",
+                    "options": ["Manuscripts and inscriptions", "Tools, weapons, pots, pans, ornaments, and coins", "Literature and art", "Both A & B"],
+                    "answer": 3
+                },
+                {
+                    "question": "What materials are often studied by archaeologists because they survive for a long time?",
+                    "options": ["Wood", "Cloth", "Stone, bone, baked clay, or metal", "Paper"],
+                    "answer": 2
+                },
+                {
+                    "question": "What do archaeologists look for to find out what people ate in the past?",
+                    "options": ["Manuscripts", "Bones of animals, birds, and fish", "Coins", "Pottery"],
+                    "answer": 1
+                },
+                {
+                    "question": "What kind of plant remains survive far more rarely?",
+                    "options": ["Fresh leaves", "Charred seeds of grain or pieces of wood", "Flowers", "Fruits"],
+                    "answer": 1
+                },
+                {
+                    "question": "What word do historians use to refer to information found from manuscripts, inscriptions, and archaeology?",
+                    "options": ["Data", "Evidence", "Source", "Clue"],
+                    "answer": 2
+                },
+                {
+                    "question": "Why is the word 'pasts' used in plural in the book title 'Our Pasts'?",
+                    "options": ["Because it refers to past events", "To show that the past was different for different groups of people", "Because it is a mistake", "To attract attention"],
+                    "answer": 1
+                },
+                {
+                    "question": "What did kings and queens often keep records of?",
+                    "options": ["Their daily lives", "Their victories in battles", "Their religious beliefs", "Their favorite foods"],
+                    "answer": 1
+                },
+                {
+                    "question": "Why do we know more about kings and battles than ordinary people?",
+                    "options": ["Because kings wrote more books", "Because ordinary people did not keep records", "Because archaeologists prefer studying kings", "Because there were more kings than ordinary people"],
+                    "answer": 1
+                },
+                {
+                    "question": "What does BC stand for?",
+                    "options": ["Before Common", "Before Christ", "Before Current", "Before Calendar"],
+                    "answer": 1
+                },
+                {
+                    "question": "What do the letters CE stand for?",
+                    "options": ["Christian Era", "Current Era", "Common Era", "Century Era"],
+                    "answer": 2
+                },
+                {
+                    "question": "What does AD stand for?",
+                    "options": ["Anno Domini", "After Death", "Anno Deity", "After Dominion"],
+                    "answer": 0
+                },
+                {
+                    "question": "When did India begin using the Christian Era form of dating?",
+                    "options": ["About 100 years ago", "About 200 years ago", "About 300 years ago", "About 400 years ago"],
+                    "answer": 1
+                },
+                {
+                    "question": "What do the letters BP mean?",
+                    "options": ["Before Present", "Before Past", "Before People", "Before Prehistory"],
+                    "answer": 0
+                },
+                {
+                    "question": "What is the starting point for the dates referred to in this book?",
+                    "options": ["2000 years after the birth of Christ", "1000 years after the birth of Christ", "0 year", "2012 year"],
+                    "answer": 0
+                }
+
+            ]
+        },
+        {
+            "name": "2. From hunting gathering to growing food",
+            "questions": [
+                {
+                    "question": "What name is given to the people who lived in the subcontinent as early as two million years ago?",
+                    "options": ["Farmers", "Herders", "Hunter-gatherers", "Traders"],
+                    "answer": 2
+                },
+                {
+                    "question": "Why did hunter-gatherers move from place to place?",
+                    "options": ["To find new homes", "To find new friends", "To search for food", "To explore new lands"],
+                    "answer": 2
+                },
+                {
+                    "question": "What tools did early people use to hunt?",
+                    "options": ["Guns", "Stone tools", "Bows and arrows", "Spears and swords"],
+                    "answer": 1
+                },
+                {
+                    "question": "What did hunter-gatherers primarily gather?",
+                    "options": ["Fruits, roots, nuts, seeds, leaves, stalks and eggs", "Wood and stones", "Water and firewood", "Clothes and shoes"],
+                    "answer": 0
+                },
+                {
+                    "question": "What did archaeologists find to learn about hunter-gatherers?",
+                    "options": ["Books", "Manuscripts", "Stone tools", "Paintings"],
+                    "answer": 2
+                },
+                {
+                    "question": "What were some of the stone tools used for?",
+                    "options": ["Cutting meat and bone", "Building houses", "Writing", "Decorating"],
+                    "answer": 0
+                },
+                {
+                    "question": "What did hunter-gatherers use wood for?",
+                    "options": ["To make weapons", "As firewood", "To build boats", "To create art"],
+                    "answer": 1
+                },
+                {
+                    "question": "What period is referred to as the Palaeolithic?",
+                    "options": ["10,000 years ago", "2 million to 12,000 years ago", "5,000 years ago", "1,000 years ago"],
+                    "answer": 1
+                },
+                {
+                    "question": "What does the term 'Palaeolithic' mean?",
+                    "options": ["New Stone", "Middle Stone", "Old Stone", "Ancient Stone"],
+                    "answer": 2
+                },
+                {
+                    "question": "What are microliths?",
+                    "options": ["Large stone tools", "Tiny stone tools", "Metal tools", "Bone tools"],
+                    "answer": 1
+                },
+                {
+                    "question": "What period came after the Palaeolithic?",
+                    "options": ["Neolithic", "Mesolithic", "Bronze Age", "Iron Age"],
+                    "answer": 1
+                },
+                {
+                    "question": "What significant environmental change occurred around 12,000 years ago?",
+                    "options": ["Ice Age", "Warming climate", "Floods", "Droughts"],
+                    "answer": 1
+                },
+                {
+                    "question": "What did the development of grasslands lead to?",
+                    "options": ["Increase in human population", "Development of cities", "Increase in number of grass-eating animals", "Deforestation"],
+                    "answer": 2
+                },
+                {
+                    "question": "Which animal was the first to be tamed by humans?",
+                    "options": ["Sheep", "Goat", "Dog", "Cat"],
+                    "answer": 2
+                },
+                {
+                    "question": "What activity became important with the warming climate around 12,000 years ago?",
+                    "options": ["Hunting", "Fishing", "Farming", "Trading"],
+                    "answer": 1
+                },
+                {
+                    "question": "What does 'Neolithic' mean?",
+                    "options": ["Old Stone", "New Stone", "Middle Stone", "Bronze"],
+                    "answer": 1
+                },
+                {
+                    "question": "What helped people to start thinking about herding and rearing animals?",
+                    "options": ["Increase in wild animals", "Development of tools", "Knowledge of animal food habits and breeding seasons", "Climatic changes"],
+                    "answer": 2
+                },
+                {
+                    "question": "What were some of the first grains to be collected as food?",
+                    "options": ["Rice, wheat, barley", "Corn, oats, rye", "Millet, sorghum, maize", "Quinoa, buckwheat, amaranth"],
+                    "answer": 0
+                },
+                {
+                    "question": "Why did early people protect their animals?",
+                    "options": ["For religious reasons", "For companionship", "From attacks by other wild animals", "For entertainment"],
+                    "answer": 2
+                },
+                {
+                    "question": "Where have archaeologists found rock paintings?",
+                    "options": ["Madhya Pradesh and southern Uttar Pradesh", "Gujarat and Rajasthan", "Punjab and Haryana", "West Bengal and Odisha"],
+                    "answer": 0
+                },
+                {
+                    "question": "What did the rock paintings by early people depict?",
+                    "options": ["Mountains and hills", "Plants and trees", "Rivers and lakes", "Wild animals"],
+                    "answer": 3
+                },
+                {
+                    "question": "What is another name for the Mesolithic period?",
+                    "options": ["Old Stone Age", "New Stone Age", "Middle Stone Age", "Bronze Age"],
+                    "answer": 2
+                },
+                {
+                    "question": "What were Mesolithic tools known for?",
+                    "options": ["Large size", "Tiny size", "Sharp edges", "Decorative patterns"],
+                    "answer": 1
+                },
+                {
+                    "question": "What do archaeologists call the places where remains of objects were found?",
+                    "options": ["Sites", "Settlements", "Villages", "Towns"],
+                    "answer": 0
+                },
+                {
+                    "question": "What was a major reason for people to move from place to place?",
+                    "options": ["To build new homes", "To find new friends", "To search for water", "To escape predators"],
+                    "answer": 2
+                },
+                {
+                    "question": "What is domestication?",
+                    "options": ["Growing plants and looking after animals", "Building houses and making tools", "Trading goods and services", "Hunting wild animals and gathering fruits"],
+                    "answer": 0
+                },
+                {
+                    "question": "Why do domesticated plants and animals become different from wild ones?",
+                    "options": ["Due to genetic mutations", "Due to selective breeding by people", "Due to environmental changes", "Due to migration patterns"],
+                    "answer": 1
+                },
+                {
+                    "question": "What were some of the earliest plants to be domesticated?",
+                    "options": ["Maize and potatoes", "Oats and rye", "Rice and millet", "Wheat and barley"],
+                    "answer": 3
+                },
+                {
+                    "question": "What were some of the earliest domesticated animals?",
+                    "options": ["Cows and horses", "Dogs and cats", "Sheep and goats", "Pigs and chickens"],
+                    "answer": 2
+                },
+                {
+                    "question": "What did people have to do once they started growing plants?",
+                    "options": ["Move to different places", "Stay in the same place for a long time", "Build large cities", "Travel frequently"],
+                    "answer": 1
+                },
+                {
+                    "question": "How did early people store grain?",
+                    "options": ["In stone jars", "In wooden boxes", "In metal containers", "In large clay pots, baskets, or pits dug into the ground"],
+                    "answer": 3
+                },
+                {
+                    "question": "What are some uses of domesticated animals besides providing food?",
+                    "options": ["Transportation and clothing", "Building and construction", "Entertainment and sports", "Art and decoration"],
+                    "answer": 0
+                },
+                {
+                    "question": "What kind of evidence helps scientists identify early farmers and herders?",
+                    "options": ["Ancient manuscripts", "Burnt grain and animal bones", "Rock paintings", "Stone carvings"],
+                    "answer": 1
+                },
+                {
+                    "question": "What type of houses were found at Burzahom in present-day Kashmir?",
+                    "options": ["Wooden houses", "Stone houses", "Pit-houses dug into the ground", "Brick houses"],
+                    "answer": 2
+                },
+                {
+                    "question": "What type of tools did Neolithic people use?",
+                    "options": ["Polished stone tools and mortars and pestles", "Iron tools and metal weapons", "Wooden tools and bamboo sticks", "Bronze tools and copper utensils"],
+                    "answer": 0
+                },
+                {
+                    "question": "What did people begin using pots for during the Neolithic period?",
+                    "options": ["Trading goods", "Transporting water", "Decorating their homes", "Storing grain and cooking food"],
+                    "answer": 3
+                },
+                {
+                    "question": "What is Mehrgarh known for?",
+                    "options": ["First learning to grow barley and wheat and rear sheep and goats", "Being a major trading hub", "Having the oldest rock paintings", "Developing the first metal tools"],
+                    "answer": 0
+                },
+                {
+                    "question": "What type of structures were found at Mehrgarh?",
+                    "options": ["Round huts", "Square or rectangular houses", "Stone temples", "Wooden forts"],
+                    "answer": 1
+                },
+                {
+                    "question": "What suggests that people at Mehrgarh believed in life after death?",
+                    "options": ["They built large tombs", "They buried the dead with goats", "They performed elaborate rituals", "They painted scenes of the afterlife"],
+                    "answer": 1
+                },
+                {
+                    "question": "What materials did Neolithic people use for weaving cloth?",
+                    "options": ["Silk", "Wool", "Linen", "Cotton"],
+                    "answer": 3
+                }
+
+
+            ]
+        },
+        {
+            "name": "3. In the Earliest Cities",
+            "questions": [
+                {
+                    "question": "How was the site of Harappa first discovered?",
+                    "options": ["By engineers laying railway lines", "By farmers plowing fields", "By archaeologists on an expedition", "By treasure hunters"],
+                    "answer": 0
+                },
+                {
+                    "question": "What was a unique feature of the Great Bath in Mohenjodaro?",
+                    "options": ["It was lined with gold", "It had steps leading down from two sides", "It was made entirely of wood", "It was a temple for worship"],
+                    "answer": 1
+                },
+                {
+                    "question": "Which of the following cities had fire altars?",
+                    "options": ["Harappa and Mohenjodaro", "Kalibangan and Lothal", "Mohenjodaro and Lothal", "Harappa and Kalibangan"],
+                    "answer": 1
+                },
+                {
+                    "question": "What were the walls of Harappan cities made of?",
+                    "options": ["Wood", "Stone", "Baked brick", "Mud"],
+                    "answer": 2
+                },
+                {
+                    "question": "How were Harappan drains typically laid out?",
+                    "options": ["In straight lines with gentle slopes", "Randomly with steep slopes", "In circular patterns", "Above ground"],
+                    "answer": 0
+                },
+                {
+                    "question": "What did the rulers of Harappan cities probably do?",
+                    "options": ["Planned construction of buildings", "Farmed the lands", "Made pottery", "Wrote religious texts"],
+                    "answer": 0
+                },
+                {
+                    "question": "What material was used to make Harappan seals?",
+                    "options": ["Wood", "Metal", "Stone", "Clay"],
+                    "answer": 2
+                },
+                {
+                    "question": "What is faience?",
+                    "options": ["A type of metal", "Artificially produced material glazed with a shiny surface", "Natural stone", "Raw cotton"],
+                    "answer": 1
+                },
+                {
+                    "question": "What was faience used for?",
+                    "options": ["Making tools", "Building houses", "Creating beads, bangles, and tiny vessels", "Writing tablets"],
+                    "answer": 2
+                },
+                {
+                    "question": "Where did the Harappans possibly get copper from?",
+                    "options": ["Rajasthan and Oman", "Karnataka and Gujarat", "Afghanistan and Iran", "Gujarat and Rajasthan"],
+                    "answer": 0
+                },
+                {
+                    "question": "What were some of the materials used by Harappans to make ornaments?",
+                    "options": ["Iron and tin", "Copper and faience", "Gold and silver", "Wood and stone"],
+                    "answer": 2
+                },
+                {
+                    "question": "Which raw material was used to make cloth in the Harappan civilization?",
+                    "options": ["Wool", "Cotton", "Silk", "Linen"],
+                    "answer": 1
+                },
+                {
+                    "question": "What was a common feature in Harappan houses?",
+                    "options": ["One or two storeys high", "Made entirely of wood", "Had no windows", "Built on stilts"],
+                    "answer": 0
+                },
+                {
+                    "question": "What were spindle whorls used for?",
+                    "options": ["Grinding grain", "Weaving cloth", "Spinning thread", "Cooking food"],
+                    "answer": 2
+                },
+                {
+                    "question": "What indicates that Harappan cities were well-planned?",
+                    "options": ["Randomly built houses", "Carefully laid out streets and covered drains", "Scattered settlements", "Houses made of wood"],
+                    "answer": 1
+                },
+                {
+                    "question": "Which animal carvings were common on Harappan seals?",
+                    "options": ["Tigers", "Elephants", "Cows", "Various animals"],
+                    "answer": 3
+                },
+                {
+                    "question": "What is a characteristic of Harappan pottery?",
+                    "options": ["Plain and undecorated", "Black designs", "Made of faience", "Made of wood"],
+                    "answer": 1
+                },
+                {
+                    "question": "What did the archaeologists find in Harappan cities?",
+                    "options": ["Huts made of straw", "Large stone temples", "Stone, shell, and metal objects", "Wooden tools"],
+                    "answer": 2
+                },
+                {
+                    "question": "What did Harappan craftspersons make out of copper and bronze?",
+                    "options": ["Only tools", "Only weapons", "Tools, weapons, ornaments, and vessels", "Only vessels"],
+                    "answer": 2
+                },
+                {
+                    "question": "What is a significant find from Mohenjodaro?",
+                    "options": ["A library of ancient texts", "Actual pieces of cloth", "Large iron deposits", "Silver jewelry"],
+                    "answer": 1
+                },
+                {
+                    "question": "What are specialists in the context of Harappan civilization?",
+                    "options": ["People who ruled the cities", "People who performed all types of work", "People trained to do one kind of work", "People who wrote religious texts"],
+                    "answer": 3
+                },
+                {
+                    "question": "What were some Harappan children’s toys made of?",
+                    "options": ["Wood", "Stone", "Terracotta", "Metal"],
+                    "answer": 2
+                },
+                {
+                    "question": "Which Harappan site had a very special tank called the Great Bath?",
+                    "options": ["Harappa", "Kalibangan", "Mohenjodaro", "Lothal"],
+                    "answer": 2
+                },
+                {
+                    "question": "What kind of objects were faience used to make?",
+                    "options": ["Building materials", "Religious artifacts", "Beads, bangles, earrings, and tiny vessels", "Agricultural tools"],
+                    "answer": 2
+                },
+                {
+                    "question": "How were Harappan bricks laid?",
+                    "options": ["In circular patterns", "Randomly", "In an interlocking pattern", "In straight lines without pattern"],
+                    "answer": 2
+                },
+                {
+                    "question": "Who supplied food to craftspersons, scribes, and rulers in Harappan cities?",
+                    "options": ["City dwellers", "Farmers and herders", "Traders", "Hunters"],
+                    "answer": 1
+                },
+                {
+                    "question": "Which crops were grown by the Harappans?",
+                    "options": ["Wheat, barley, rice, and cotton", "Maize, potatoes, rice, and wheat", "Wheat, barley, pulses, and sesame", "Wheat, rice, millet, and sugarcane"],
+                    "answer": 2
+                },
+                {
+                    "question": "What tool was used by the Harappans to dig the earth for planting seeds?",
+                    "options": ["Hoe", "Plough", "Shovel", "Rake"],
+                    "answer": 1
+                },
+                {
+                    "question": "What kind of animals did the Harappans rear?",
+                    "options": ["Horses and camels", "Cattle, sheep, goat, and buffalo", "Elephants and donkeys", "Pigs and chickens"],
+                    "answer": 1
+                },
+                {
+                    "question": "Where was the city of Dholavira located?",
+                    "options": ["Near the Indus River", "On Khadir Beyt in the Rann of Kutch", "In the Thar Desert", "Beside the Sabarmati River"],
+                    "answer": 1
+                },
+                {
+                    "question": "What was unique about Dholavira compared to other Harappan cities?",
+                    "options": ["It was divided into three parts", "It had no city walls", "It was built entirely of wood", "It had no public spaces"],
+                    "answer": 0
+                },
+                {
+                    "question": "What kind of objects have been found in the city of Lothal?",
+                    "options": ["Gold jewelry", "Large stone statues", "Beads, tools, and seals", "Pottery and weapons"],
+                    "answer": 2
+                },
+                {
+                    "question": "What is a sealing in the context of Harappan civilization?",
+                    "options": ["A type of roof", "An impression of a seal on clay", "A method of preserving food", "A type of decoration"],
+                    "answer": 1
+                },
+                {
+                    "question": "Around how many years ago did a major change occur in Harappan cities?",
+                    "options": ["1400 years ago", "2000 years ago", "3900 years ago", "4700 years ago"],
+                    "answer": 2
+                },
+                {
+                    "question": "What happened to the cities during the major change 3900 years ago?",
+                    "options": ["They expanded rapidly", "They were abandoned", "They were invaded", "They became more prosperous"],
+                    "answer": 1
+                },
+                {
+                    "question": "What is one reason scholars suggest for the decline of Harappan cities?",
+                    "options": ["Rivers dried up", "Invasion by enemies", "Volcanic eruptions", "Earthquakes"],
+                    "answer": 0
+                },
+                {
+                    "question": "What happened to the drainage system in Mohenjodaro during its decline?",
+                    "options": ["It was improved", "It remained the same", "It broke down", "It was replaced with new technology"],
+                    "answer": 2
+                },
+                {
+                    "question": "Where did many people move after the decline of Harappan cities?",
+                    "options": ["To the west", "To newer, smaller settlements to the east and south", "To the north", "To the mountains"],
+                    "answer": 1
+                },
+                {
+                    "question": "What new tool was used by the Harappans for agriculture?",
+                    "options": ["Spade", "Sickle", "Plough", "Hoe"],
+                    "answer": 2
+                },
+                {
+                    "question": "What was the probable use of the large open area in Dholavira?",
+                    "options": ["Residential area", "Marketplace", "Public ceremonies", "Agricultural land"],
+                    "answer": 2
+                }
+
+            ]
+        },
+        {
+            "name": "4. What Books and Burials Tell Us",
+            "questions": [
+                {
+                    "question": "Which is the oldest Veda?",
+                    "options": ["Rigveda", "Samaveda", "Yajurveda", "Atharvaveda"],
+                    "answer": 0
+                },
+                {
+                    "question": "Approximately how many years ago was the Rigveda composed?",
+                    "options": ["2000 years ago", "2500 years ago", "3000 years ago", "3500 years ago"],
+                    "answer": 3
+                },
+                {
+                    "question": "What is a hymn in the Rigveda called?",
+                    "options": ["Sukta", "Mantra", "Stotra", "Shloka"],
+                    "answer": 0
+                },
+                {
+                    "question": "Which god in the Rigveda is known as the god of fire?",
+                    "options": ["Indra", "Agni", "Varuna", "Soma"],
+                    "answer": 1
+                },
+                {
+                    "question": "Who is the warrior god mentioned in the Rigveda?",
+                    "options": ["Agni", "Indra", "Soma", "Varuna"],
+                    "answer": 1
+                },
+                {
+                    "question": "From what was a special drink prepared in the Rigveda?",
+                    "options": ["Honey", "Milk", "Soma plant", "Water"],
+                    "answer": 2
+                },
+                {
+                    "question": "Who composed the hymns in the Rigveda?",
+                    "options": ["Kings", "Priests", "Sages (rishis)", "Warriors"],
+                    "answer": 2
+                },
+                {
+                    "question": "What language is the Rigveda written in?",
+                    "options": ["Modern Sanskrit", "Classical Sanskrit", "Old or Vedic Sanskrit", "Pali"],
+                    "answer": 2
+                },
+                {
+                    "question": "When was the Rigveda first written down?",
+                    "options": ["Several centuries after it was composed", "At the same time it was composed", "100 years after it was composed", "200 years after it was composed"],
+                    "answer": 0
+                },
+                {
+                    "question": "Which of these languages belongs to the Indo-European family?",
+                    "options": ["Tamil", "Assamese", "Telugu", "Malayalam"],
+                    "answer": 1
+                },
+                {
+                    "question": "What is the meaning of the Sanskrit word 'matr' in English?",
+                    "options": ["Father", "Mother", "Brother", "Sister"],
+                    "answer": 1
+                },
+                {
+                    "question": "Which river is NOT named in the Rigveda hymns?",
+                    "options": ["Indus", "Ganga", "Yamuna", "Godavari"],
+                    "answer": 3
+                },
+                {
+                    "question": "What were horses yoked to in the Rigveda?",
+                    "options": ["Ploughs", "Carts", "Chariots", "Carriages"],
+                    "answer": 2
+                },
+                {
+                    "question": "What was the purpose of battles in the Rigveda?",
+                    "options": ["Capturing cattle", "Expanding territory", "Religious rituals", "Trading goods"],
+                    "answer": 0
+                },
+                {
+                    "question": "Who performed various rituals in the Rigveda society?",
+                    "options": ["Rajas", "Craftspersons", "Brahmins", "Warriors"],
+                    "answer": 2
+                },
+                {
+                    "question": "What word is used in the Rigveda to describe the community or people?",
+                    "options": ["Jana", "Samiti", "Sabha", "Grama"],
+                    "answer": 0
+                },
+                {
+                    "question": "Who were often called Dasas or Dasyus in the Rigveda?",
+                    "options": ["Rulers", "Priests", "Enemies", "Friends"],
+                    "answer": 2
+                },
+                {
+                    "question": "What was the feminine form of the term Dasa?",
+                    "options": ["Dasi", "Devata", "Rani", "Brahmini"],
+                    "answer": 0
+                },
+                {
+                    "question": "What family of languages does Sanskrit belong to?",
+                    "options": ["Dravidian", "Indo-European", "Austro-Asiatic", "Tibeto-Burman"],
+                    "answer": 1
+                },
+                {
+                    "question": "What were battles in the Rigveda also fought for besides cattle?",
+                    "options": ["Water", "Gold", "Wood", "Fruits"],
+                    "answer": 0
+                },
+                {
+                    "question": "What did some of the wealth obtained from battles used for?",
+                    "options": ["Building houses", "Trading goods", "Performing yajnas", "Saving for future"],
+                    "answer": 2
+                },
+                {
+                    "question": "Who composed a hymn in the form of a dialogue with the rivers Beas and Sutlej?",
+                    "options": ["Indra", "Agni", "Vishvamitra", "Soma"],
+                    "answer": 3
+                },
+                {
+                    "question": "What is the name of the assembly where people discussed matters of war and peace?",
+                    "options": ["Jana", "Sabha", "Samiti", "Vish"],
+                    "answer": 2
+                },
+                {
+                    "question": "Who did NOT automatically succeed fathers as rajas?",
+                    "options": ["Sons", "Daughters", "Priests", "Warriors"],
+                    "answer": 0
+                },
+                {
+                    "question": "Which language family do Tamil, Telugu, Kannada and Malayalam belong to?",
+                    "options": ["Indo-European", "Dravidian", "Austro-Asiatic", "Tibeto-Burman"],
+                    "answer": 1
+                },
+                {
+                    "question": "What are megaliths?",
+                    "options": ["Large stone structures", "Ancient paintings", "Metal tools", "Old manuscripts"],
+                    "answer": 0
+                },
+                {
+                    "question": "When did the practice of erecting megaliths begin?",
+                    "options": ["2000 years ago", "2500 years ago", "3000 years ago", "3500 years ago"],
+                    "answer": 2
+                },
+                {
+                    "question": "In which regions were megaliths prevalent?",
+                    "options": ["Northern India", "Deccan, south India, north-east, and Kashmir", "Western India", "Eastern India"],
+                    "answer": 1
+                },
+                {
+                    "question": "What were megaliths used for?",
+                    "options": ["Temples", "Burial sites", "Homes", "Markets"],
+                    "answer": 1
+                },
+                {
+                    "question": "What is Black and Red Ware?",
+                    "options": ["Types of metal tools", "Distinctive pots", "Ancient coins", "Stone carvings"],
+                    "answer": 1
+                },
+                {
+                    "question": "What does the presence of more objects in one grave compared to another suggest?",
+                    "options": ["Differences in occupation", "Differences in status", "Differences in religion", "Differences in age"],
+                    "answer": 1
+                },
+                {
+                    "question": "What does the presence of more than one skeleton in a megalith indicate?",
+                    "options": ["Mass burials", "Family burials", "War casualties", "Random burials"],
+                    "answer": 1
+                },
+                {
+                    "question": "What was placed with the dead in the burials at Inamgaon?",
+                    "options": ["Weapons", "Food and water vessels", "Books", "Tools"],
+                    "answer": 1
+                },
+                {
+                    "question": "How was the man buried in a large clay jar at Inamgaon positioned?",
+                    "options": ["Laid out straight", "Cross-legged", "Sitting", "Standing"],
+                    "answer": 1
+                },
+                {
+                    "question": "What indicates that some of the animals found at Inamgaon were used as food?",
+                    "options": ["Bones with cut marks", "Presence of cooking tools", "Traces of food in pots", "Animal traps"],
+                    "answer": 0
+                },
+                {
+                    "question": "What did Charaka state about the number of bones in the human body?",
+                    "options": ["100 bones", "200 bones", "300 bones", "360 bones"],
+                    "answer": 3
+                },
+                {
+                    "question": "What type of book did Charaka write?",
+                    "options": ["A book on astronomy", "A book on medicine", "A book on mathematics", "A book on philosophy"],
+                    "answer": 1
+                },
+                {
+                    "question": "How can archaeologists determine the sex of a skeleton?",
+                    "options": ["By the size of the bones", "By the objects found with the skeleton", "By the bone structure, especially the pelvic area", "By the burial position"],
+                    "answer": 2
+                },
+                {
+                    "question": "What types of food were found at Inamgaon?",
+                    "options": ["Only plant-based food", "Only animal-based food", "Both plant-based and animal-based food", "Only fruits and berries"],
+                    "answer": 2
+                },
+                {
+                    "question": "Which of these animals was NOT found at Inamgaon?",
+                    "options": ["Dog", "Horse", "Elephant", "Mongoose"],
+                    "answer": 2
+                },
+                {
+                    "question": "What fruit was NOT mentioned as being collected at Inamgaon?",
+                    "options": ["Ber", "Amla", "Apple", "Jamun"],
+                    "answer": 2
+                },
+                {
+                    "question": "What distinctive pots were found with the dead in megalithic burials?",
+                    "options": ["Black and White Ware", "Red and White Ware", "Black and Red Ware", "Red and Yellow Ware"],
+                    "answer": 2
+                },
+                {
+                    "question": "Where is Inamgaon located?",
+                    "options": ["On the river Ganga", "On the river Godavari", "On the river Ghod", "On the river Yamuna"],
+                    "answer": 2
+                },
+                {
+                    "question": "How were adults generally buried at Inamgaon?",
+                    "options": ["Laid out straight with head towards the north", "In a sitting position", "In a standing position", "Cross-legged"],
+                    "answer": 0
+                },
+                {
+                    "question": "What did the granary in the house at Inamgaon suggest?",
+                    "options": ["The house belonged to a wealthy person", "The house was used for storage", "The house was a communal property", "The house was abandoned"],
+                    "answer": 1
+                }
+
+            ]
+        },
+        {
+            "name": "5. Kingdom, Kings and Early Republic",
+            "questions": [
+                {
+                    "question": "How did men become rulers around 3000 years ago?",
+                    "options": ["By performing big sacrifices", "By winning wars", "By inheriting the throne", "By being elected"],
+                    "answer": 0
+                },
+                {
+                    "question": "What was the ashvamedha?",
+                    "options": ["A type of pottery", "A horse sacrifice", "A fortified city", "A type of tax"],
+                    "answer": 1
+                },
+                {
+                    "question": "What indicated that a raja who performed the ashvamedha was powerful?",
+                    "options": ["Winning a battle", "Building a fort", "Allowing the horse to pass through other kingdoms", "Receiving gifts from other rajas"],
+                    "answer": 3
+                },
+                {
+                    "question": "Who performed the rituals during the ashvamedha sacrifice?",
+                    "options": ["Warriors", "Priests", "Common people", "Kings"],
+                    "answer": 2
+                },
+                {
+                    "question": "Who were excluded from many rituals?",
+                    "options": ["Vaishyas", "Kshatriyas", "Brahmins", "Shudras"],
+                    "answer": 3
+                },
+                {
+                    "question": "What were the four varnas?",
+                    "options": ["Rajas, Priests, Warriors, Common people", "Brahmins, Kshatriyas, Vaishyas, Shudras", "Farmers, Traders, Soldiers, Artisans", "Kings, Priests, Soldiers, Common people"],
+                    "answer": 1
+                },
+                {
+                    "question": "Who were expected to study and teach the Vedas?",
+                    "options": ["Kshatriyas", "Vaishyas", "Brahmins", "Shudras"],
+                    "answer": 2
+                },
+                {
+                    "question": "Who were expected to fight battles and protect people?",
+                    "options": ["Brahmins", "Vaishyas", "Shudras", "Kshatriyas"],
+                    "answer": 3
+                },
+                {
+                    "question": "What does the word 'janapada' literally mean?",
+                    "options": ["Land of kings", "Land of the people", "Fortified city", "Place of sacrifice"],
+                    "answer": 1
+                },
+                {
+                    "question": "What type of pottery was found at janapada sites?",
+                    "options": ["Black and Red Ware", "Painted Grey Ware", "Earthen pots", "Porcelain"],
+                    "answer": 1
+                },
+                {
+                    "question": "What were mahajanapadas?",
+                    "options": ["Smaller kingdoms", "Large and important janapadas", "Places of worship", "Trading centers"],
+                    "answer": 1
+                },
+                {
+                    "question": "Why were forts built around capital cities of mahajanapadas?",
+                    "options": ["To show wealth and power", "To store grain", "To provide shelter", "To hold festivals"],
+                    "answer": 0
+                },
+                {
+                    "question": "How were the new rajas different from those mentioned in the Rigveda?",
+                    "options": ["They were chosen by the people", "They built huge forts and maintained armies", "They performed small sacrifices", "They relied on trade"],
+                    "answer": 1
+                },
+                {
+                    "question": "What was a key reason for collecting regular taxes in mahajanapadas?",
+                    "options": ["To build temples", "To fund trade expeditions", "To maintain large armies and build forts", "To support religious ceremonies"],
+                    "answer": 2
+                },
+                {
+                    "question": "Which group of people paid taxes on animals and animal produce?",
+                    "options": ["Craftspersons", "Traders", "Herders", "Farmers"],
+                    "answer": 2
+                },
+                {
+                    "question": "What were punch marked coins used for?",
+                    "options": ["Building forts", "Paying soldiers", "Buying goods", "Performing rituals"],
+                    "answer": 1
+                },
+                {
+                    "question": "What kind of crops were grown in janapadas?",
+                    "options": ["Rice, wheat, barley, pulses, sugarcane, sesame, mustard", "Cotton, jute, tea, coffee", "Tobacco, indigo, spices", "Maize, millet, sorghum"],
+                    "answer": 0
+                },
+                {
+                    "question": "What was the role of ordinary people (vish or vaishya) in rituals?",
+                    "options": ["Perform rituals", "Fight battles", "Bring gifts", "Build forts"],
+                    "answer": 2
+                },
+                {
+                    "question": "What did the rajas who organized sacrifices receive from those who attended?",
+                    "options": ["Land", "Armies", "Gifts", "Taxes"],
+                    "answer": 2
+                },
+                {
+                    "question": "Who chanted tales of the raja's glory?",
+                    "options": ["Priests", "The raja's charioteer", "Ordinary people", "Shudras"],
+                    "answer": 1
+                },
+                {
+                    "question": "Where were some important janapadas located?",
+                    "options": ["Delhi, Meerut, Etah", "Kolkata, Mumbai, Chennai", "Bangalore, Hyderabad, Pune", "Jaipur, Udaipur, Jodhpur"],
+                    "answer": 0
+                },
+                {
+                    "question": "What were the two colors of earthen pots made by people in janapadas?",
+                    "options": ["Grey and red", "Black and white", "Blue and green", "Brown and yellow"],
+                    "answer": 0
+                },
+                {
+                    "question": "What did the rulers of mahajanapadas need to collect more resources for?",
+                    "options": ["Performing rituals", "Building huge forts and maintaining big armies", "Trading goods", "Constructing temples"],
+                    "answer": 1
+                },
+                {
+                    "question": "How was the labour for building huge walls around cities provided?",
+                    "options": ["By hiring workers", "By using slaves", "By using thousands of men, women, and children", "By using machines"],
+                    "answer": 2
+                },
+                {
+                    "question": "What was a common feature of the capital cities of mahajanapadas?",
+                    "options": ["They were fortified", "They were built near rivers", "They had large markets", "They had no walls"],
+                    "answer": 0
+                },
+                {
+                    "question": "What was one major change in agriculture around this time?",
+                    "options": ["Use of wooden ploughshares", "Use of iron ploughshares", "Use of bronze tools", "Use of animal labor"],
+                    "answer": 1
+                },
+                {
+                    "question": "What was the benefit of using iron ploughshares?",
+                    "options": ["Increased soil fertility", "Turned over heavy, clayey soil better", "Reduced labor", "Increased soil moisture"],
+                    "answer": 1
+                },
+                {
+                    "question": "What was the second major change in agriculture around this time?",
+                    "options": ["Scattering seeds", "Transplanting paddy", "Using fertilizers", "Crop rotation"],
+                    "answer": 1
+                },
+                {
+                    "question": "What did transplanting paddy lead to?",
+                    "options": ["Decreased production", "Increased production", "No change in production", "Decline in soil quality"],
+                    "answer": 1
+                },
+                {
+                    "question": "Which rivers flowed through Magadha?",
+                    "options": ["Ganga and Yamuna", "Ganga and Son", "Yamuna and Saraswati", "Godavari and Krishna"],
+                    "answer": 1
+                },
+                {
+                    "question": "Why were the rivers in Magadha important?",
+                    "options": ["Only for water supply", "Only for transport", "Only for making the land fertile", "For transport, water supply, and making the land fertile"],
+                    "answer": 3
+                },
+                {
+                    "question": "What resources did the forests in Magadha provide?",
+                    "options": ["Gold and silver", "Elephants and wood", "Iron ore", "None of the above"],
+                    "answer": 1
+                },
+                {
+                    "question": "Who were the two powerful rulers of Magadha?",
+                    "options": ["Ashoka and Chandragupta", "Bimbisara and Ajatasattu", "Harsha and Pulakesin", "Mahapadma Nanda and Bindusara"],
+                    "answer": 1
+                },
+                {
+                    "question": "Who extended control up to the northwest part of the subcontinent?",
+                    "options": ["Bimbisara", "Ajatasattu", "Mahapadma Nanda", "Ashoka"],
+                    "answer": 2
+                },
+                {
+                    "question": "What was the capital of Magadha before it was shifted to Pataliputra?",
+                    "options": ["Rajagriha", "Vaishali", "Ujjain", "Taxila"],
+                    "answer": 0
+                },
+                {
+                    "question": "Who was the ruler from Macedonia that reached up to the banks of the Beas?",
+                    "options": ["Cyrus", "Darius", "Alexander", "Xerxes"],
+                    "answer": 2
+                },
+                {
+                    "question": "What was the form of government in Vajji?",
+                    "options": ["Monarchy", "Republic", "Oligarchy", "Gana or sangha"],
+                    "answer": 3
+                },
+                {
+                    "question": "What was the capital of Vajji?",
+                    "options": ["Rajagriha", "Vaishali", "Pataliputra", "Taxila"],
+                    "answer": 1
+                },
+                {
+                    "question": "Who could not participate in the assemblies of the gana or sangha?",
+                    "options": ["Women, dasas, and kammakaras", "Only women", "Only dasas", "Only kammakaras"],
+                    "answer": 0
+                },
+                {
+                    "question": "Who wanted to attack the Vajjis?",
+                    "options": ["Alexander", "Mahapadma Nanda", "Bimbisara", "Ajatasattu"],
+                    "answer": 3
+                },
+                {
+                    "question": "Who did Ajatasattu send to the Buddha for advice?",
+                    "options": ["Bimbisara", "Vassakara", "Mahapadma Nanda", "Bindusara"],
+                    "answer": 1
+                },
+                {
+                    "question": "What would ensure the prosperity of the Vajjis according to the Buddha?",
+                    "options": ["Holding full and frequent public assemblies", "Building strong forts", "Conquering other kingdoms", "Collecting taxes"],
+                    "answer": 0
+                },
+                {
+                    "question": "What was one of the reasons the Vajjis would continue to prosper?",
+                    "options": ["They had a powerful army", "They had abundant resources", "They met and acted together", "They had a strategic location"],
+                    "answer": 2
+                },
+                {
+                    "question": "What were the local shrines in Vajji called?",
+                    "options": ["Stupas", "Chaityas", "Viharas", "Temples"],
+                    "answer": 1
+                },
+                {
+                    "question": "Who were respected and allowed to enter and leave the country freely in Vajji?",
+                    "options": ["Warriors", "Merchants", "Wise saints", "Farmers"],
+                    "answer": 2
+                }
+
+            ]
+        },
+        {
+            "name": "6. New Questions and Ideas",
+            "questions": [
+                {
+                    "question": "Who was the founder of Buddhism?",
+                    "options": ["Siddhartha", "Mahavira", "Panini", "Satyakama Jabala"],
+                    "answer": 0
+                },
+                {
+                    "question": "What was Siddhartha also known as?",
+                    "options": ["Mahavira", "Panini", "Gautama", "Shankaracharya"],
+                    "answer": 2
+                },
+                {
+                    "question": "Where did the Buddha attain enlightenment?",
+                    "options": ["Sarnath", "Vaishali", "Kusinara", "Bodh Gaya"],
+                    "answer": 3
+                },
+                {
+                    "question": "What did the Buddha teach was the cause of suffering?",
+                    "options": ["Karma", "Tanha", "Yoga", "Mimansa"],
+                    "answer": 1
+                },
+                {
+                    "question": "What language did the Buddha teach in?",
+                    "options": ["Sanskrit", "Pali", "Prakrit", "Brahmi"],
+                    "answer": 2
+                },
+                {
+                    "question": "Where did the Buddha first teach after attaining enlightenment?",
+                    "options": ["Kusinara", "Vaishali", "Sarnath", "Rajgir"],
+                    "answer": 2
+                },
+                {
+                    "question": "Who took Kisagotami to the Buddha?",
+                    "options": ["A kind man", "A sage", "A king", "A minister"],
+                    "answer": 0
+                },
+                {
+                    "question": "What did the Buddha ask Kisagotami to bring?",
+                    "options": ["A pot of water", "A handful of mustard seeds", "A flower", "A lamp"],
+                    "answer": 1
+                },
+                {
+                    "question": "What did the seeds have to come from in the story of Kisagotami?",
+                    "options": ["A rich family", "A royal family", "A family where nobody has died", "A family with children"],
+                    "answer": 2
+                },
+                {
+                    "question": "What does Upanishad literally mean?",
+                    "options": ["Enlightenment", "Teaching", "Approaching and sitting near", "Wisdom"],
+                    "answer": 2
+                },
+                {
+                    "question": "Who was a famous woman thinker mentioned in the Upanishads?",
+                    "options": ["Gargi", "Satyakama Jabala", "Mahapadma Nanda", "Ajatasattu"],
+                    "answer": 0
+                },
+                {
+                    "question": "Who was Satyakama Jabala?",
+                    "options": ["A king", "A woman thinker", "A slave woman's son", "A Buddhist monk"],
+                    "answer": 2
+                },
+                {
+                    "question": "Who accepted Satyakama Jabala as a student?",
+                    "options": ["Gautama", "Panini", "Mahavira", "Buddha"],
+                    "answer": 0
+                },
+                {
+                    "question": "Which famous thinker developed many ideas of the Upanishads later?",
+                    "options": ["Shankaracharya", "Panini", "Kapila", "Patankali"],
+                    "answer": 0
+                },
+                {
+                    "question": "How many schools of Indian philosophy are there?",
+                    "options": ["Three", "Four", "Five", "Six"],
+                    "answer": 3
+                },
+                {
+                    "question": "Who founded the Vaishesika school of philosophy?",
+                    "options": ["Kapila", "Patankali", "Konada", "Jaimini"],
+                    "answer": 2
+                },
+                {
+                    "question": "Which school of philosophy was founded by Kapila?",
+                    "options": ["Yoga", "Samkhya", "Nyaya", "Vaishesika"],
+                    "answer": 1
+                },
+                {
+                    "question": "Who prepared a grammar for Sanskrit?",
+                    "options": ["Panini", "Satyakama Jabala", "Gargi", "Ajatasattu"],
+                    "answer": 0
+                },
+                {
+                    "question": "How many formulae did Panini create for Sanskrit grammar?",
+                    "options": ["1000", "2000", "3000", "4000"],
+                    "answer": 2
+                },
+                {
+                    "question": "Which famous Upanishad contains the dialogue of the wise beggar?",
+                    "options": ["Brihadaranyaka", "Mundaka", "Chhandogya", "Kena"],
+                    "answer": 2
+                },
+                {
+                    "question": "What was the Buddha's original name?",
+                    "options": ["Siddhartha", "Mahavira", "Panini", "Satyakama"],
+                    "answer": 0
+                },
+                {
+                    "question": "What term did the Buddha use to describe constant craving?",
+                    "options": ["Karma", "Tanha", "Atman", "Brahman"],
+                    "answer": 1
+                },
+                {
+                    "question": "What did the Buddha encourage people to do?",
+                    "options": ["Follow rituals", "Seek wealth", "Think for themselves", "Perform sacrifices"],
+                    "answer": 2
+                },
+                {
+                    "question": "Where did the Buddha pass away?",
+                    "options": ["Sarnath", "Vaishali", "Kusinara", "Bodh Gaya"],
+                    "answer": 2
+                },
+                {
+                    "question": "Who is known for arranging the vowels and consonants in a special order?",
+                    "options": ["Gautama", "Panini", "Shankaracharya", "Ajatasattu"],
+                    "answer": 1
+                },
+                {
+                    "question": "Who was the last and 24th tirthankara of the Jainas?",
+                    "options": ["Siddhartha", "Mahavira", "Gautama", "Kapila"],
+                    "answer": 1
+                },
+                {
+                    "question": "What group was Vardhamana Mahavira a part of?",
+                    "options": ["Sakya gana", "Vajji sangha", "Magadha", "Lichchhavis"],
+                    "answer": 4
+                },
+                {
+                    "question": "What is the term for not hurting or killing living beings?",
+                    "options": ["Ahimsa", "Karma", "Tanha", "Dharma"],
+                    "answer": 0
+                },
+                {
+                    "question": "In which language were Mahavira's teachings delivered?",
+                    "options": ["Sanskrit", "Pali", "Prakrit", "Magadhi"],
+                    "answer": 2
+                },
+                {
+                    "question": "Who were known as Jainas?",
+                    "options": ["Followers of Buddha", "Followers of Mahavira", "Followers of Kapila", "Followers of Panini"],
+                    "answer": 1
+                },
+                {
+                    "question": "Where were the teachings of Mahavira written down?",
+                    "options": ["Nalanda", "Mathura", "Taxila", "Valabhi"],
+                    "answer": 3
+                },
+                {
+                    "question": "What was the book that contained the rules of the Buddhist sangha?",
+                    "options": ["Vinaya Pitaka", "Sutta Pitaka", "Abhidhamma Pitaka", "Mahavamsa"],
+                    "answer": 0
+                },
+                {
+                    "question": "What term was used for men and women who joined the sangha?",
+                    "options": ["Bhikkhus and bhikkhunis", "Sramanas and Sramanis", "Monks and nuns", "Sages and seers"],
+                    "answer": 0
+                },
+                {
+                    "question": "What were the temporary shelters for monks during the rainy season called?",
+                    "options": ["Viharas", "Stupas", "Chaityas", "Gardens"],
+                    "answer": 3
+                },
+                {
+                    "question": "What was the new form of Buddhism that developed called?",
+                    "options": ["Theravada Buddhism", "Mahayana Buddhism", "Zen Buddhism", "Tantric Buddhism"],
+                    "answer": 1
+                },
+                {
+                    "question": "Where were statues of the Buddha made?",
+                    "options": ["Nalanda", "Mathura", "Sarnath", "Lumbini"],
+                    "answer": 1
+                },
+                {
+                    "question": "What were persons who had attained enlightenment and remained in the world to teach called?",
+                    "options": ["Bodhisattvas", "Arahants", "Bhikkhus", "Mahaviras"],
+                    "answer": 0
+                },
+                {
+                    "question": "Which form of Buddhism was more popular in Southeast Asia?",
+                    "options": ["Mahayana Buddhism", "Theravada Buddhism", "Zen Buddhism", "Tantric Buddhism"],
+                    "answer": 1
+                },
+                {
+                    "question": "What does 'Ashram' mean?",
+                    "options": ["Monastery", "Stage of life", "Meditation hall", "Enlightenment"],
+                    "answer": 1
+                },
+                {
+                    "question": "Who were the famous Chinese Buddhist pilgrims?",
+                    "options": ["Fa Xian, Xuan Zang, I-Qing", "Panini, Mahavira, Satyakama", "Gautama, Kapila, Patanjali", "Shaunaka, Abhipratarin, Gargi"],
+                    "answer": 0
+                },
+                {
+                    "question": "Where was the most famous Buddhist monastery located?",
+                    "options": ["Mathura", "Taxila", "Nalanda", "Sarnath"],
+                    "answer": 2
+                },
+                {
+                    "question": "Who described the rules of the monastery at Nalanda?",
+                    "options": ["Xuan Zang", "Fa Xian", "I-Qing", "Mahavira"],
+                    "answer": 0
+                },
+                {
+                    "question": "What was the name of the book containing the rules of the Buddhist sangha?",
+                    "options": ["Vinaya Pitaka", "Sutta Pitaka", "Abhidhamma Pitaka", "Mahavamsa"],
+                    "answer": 0
+                },
+                {
+                    "question": "What were the early viharas made of?",
+                    "options": ["Wood", "Brick", "Stone", "Caves"],
+                    "answer": 0
+                },
+                {
+                    "question": "Who had to take permission to join the sangha?",
+                    "options": ["Children", "Slaves", "Debt workers", "All of the above"],
+                    "answer": 3
+                }
+
+            ]
+        },
+        {
+            "name": "7. From a Kingdom to an Empire",
+            "questions": [
+                {
+                    "question": "Where were the lions on our notes and coins originally carved?",
+                    "options": ["Nalanda", "Pataliputra", "Taxila", "Sarnath"],
+                    "answer": 3
+                },
+                {
+                    "question": "Who founded the Mauryan Empire?",
+                    "options": ["Ashoka", "Bindusara", "Chandragupta Maurya", "Chanakya"],
+                    "answer": 2
+                },
+                {
+                    "question": "What book contains many of Chanakya’s ideas?",
+                    "options": ["Vinaya Pitaka", "Arthashastra", "Mahavamsa", "Ramayana"],
+                    "answer": 1
+                },
+                {
+                    "question": "Which city was a gateway to the northwest, including Central Asia?",
+                    "options": ["Pataliputra", "Ujjain", "Taxila", "Sarnath"],
+                    "answer": 2
+                },
+                {
+                    "question": "What was the capital of the Mauryan Empire?",
+                    "options": ["Taxila", "Ujjain", "Pataliputra", "Nalanda"],
+                    "answer": 2
+                },
+                {
+                    "question": "What resource was the northwest important for?",
+                    "options": ["Gold", "Precious stones", "Blankets", "Timber"],
+                    "answer": 2
+                },
+                {
+                    "question": "Which area was known for its gold and precious stones?",
+                    "options": ["Northwest", "South India", "Central India", "West India"],
+                    "answer": 1
+                },
+                {
+                    "question": "Who wrote an account about the Mauryan Empire?",
+                    "options": ["Fa Xian", "Xuan Zang", "I-Qing", "Megasthenes"],
+                    "answer": 3
+                },
+                {
+                    "question": "What did Ashoka use to spread his message to the people?",
+                    "options": ["Books", "Speeches", "Inscriptions", "Letters"],
+                    "answer": 2
+                },
+                {
+                    "question": "What language were most of Ashoka’s inscriptions written in?",
+                    "options": ["Sanskrit", "Pali", "Prakrit", "Magadhi"],
+                    "answer": 2
+                },
+                {
+                    "question": "Where is Kalinga located in modern terms?",
+                    "options": ["West Bengal", "Bihar", "Odisha", "Maharashtra"],
+                    "answer": 2
+                },
+                {
+                    "question": "What made Ashoka decide to stop fighting wars?",
+                    "options": ["A famine", "A plague", "The Kalinga war", "A natural disaster"],
+                    "answer": 2
+                },
+                {
+                    "question": "What did Ashoka believe was better than conquering people through force?",
+                    "options": ["Bribing them", "Ignoring them", "Winning them over through dhamma", "Forming alliances"],
+                    "answer": 2
+                },
+                {
+                    "question": "What is the Prakrit word for the Sanskrit term 'Dharma'?",
+                    "options": ["Karma", "Ahimsa", "Tanha", "Dhamma"],
+                    "answer": 3
+                },
+                {
+                    "question": "How did Ashoka spread his messages to the future generations?",
+                    "options": ["Through books", "Through his ministers", "Through inscriptions", "Through oral traditions"],
+                    "answer": 2
+                },
+                {
+                    "question": "Who were expected to provide elephants, timber, honey and wax to Mauryan officials?",
+                    "options": ["Farmers", "Traders", "Forest people", "Craftspersons"],
+                    "answer": 2
+                },
+                {
+                    "question": "What was collected as and when it was possible, and not on a regular basis?",
+                    "options": ["Tax", "Tribute", "Tithe", "Fee"],
+                    "answer": 1
+                },
+                {
+                    "question": "Who was Ashoka’s grandfather?",
+                    "options": ["Bindusara", "Chandragupta Maurya", "Chanakya", "Seleucus Nicator"],
+                    "answer": 1
+                },
+                {
+                    "question": "What did Megasthenes write about Pataliputra?",
+                    "options": ["It was a small village", "It had 570 towers and 64 gates", "It was a desert city", "It had no walls"],
+                    "answer": 1
+                },
+                {
+                    "question": "Who was the Greek ruler that sent Megasthenes to Chandragupta’s court?",
+                    "options": ["Alexander the Great", "Seleucus Nicator", "Pericles", "Socrates"],
+                    "answer": 1
+                },
+                {
+                    "question": "What did the Mauryas try to control in the vast areas between their centres?",
+                    "options": ["Forests and lakes", "Roads and rivers", "Mountains and valleys", "Seas and oceans"],
+                    "answer": 1
+                },
+                {
+                    "question": "Who often acted as governors in the provinces?",
+                    "options": ["Local leaders", "Royal princes", "Foreign ambassadors", "Tribal chiefs"],
+                    "answer": 1
+                },
+                {
+                    "question": "What did Ashoka’s inscriptions mainly focus on?",
+                    "options": ["Military conquests", "Trade routes", "Teachings of dhamma", "Family genealogy"],
+                    "answer": 2
+                },
+                {
+                    "question": "Who were the three important rulers of the Mauryan dynasty?",
+                    "options": ["Ashoka, Chanakya, Bindusara", "Chandragupta, Ashoka, Chanakya", "Chandragupta, Bindusara, Ashoka", "Ashoka, Bindusara, Seleucus"],
+                    "answer": 2
+                },
+                {
+                    "question": "How were people living in forested regions described in terms of their independence?",
+                    "options": ["Completely independent", "More or less independent", "Under strict control", "Nomadic"],
+                    "answer": 1
+                },
+                {
+                    "question": "What did the Arthashastra emphasize about the north-west and south India?",
+                    "options": ["North-west for timber, south for elephants", "North-west for gold, south for blankets", "North-west for blankets, south for gold", "North-west for spices, south for stones"],
+                    "answer": 2
+                },
+                {
+                    "question": "Who provided Chandragupta Maurya with support to build the Mauryan Empire?",
+                    "options": ["Ashoka", "Bindusara", "Megasthenes", "Chanakya"],
+                    "answer": 3
+                },
+                {
+                    "question": "What was the main difference between an empire and a kingdom according to the text?",
+                    "options": ["Size and resources", "Military strength", "Number of cities", "Language and culture"],
+                    "answer": 0
+                },
+                {
+                    "question": "What did the emperor use to supervise the officials in his empire?",
+                    "options": ["Royal decrees", "Spies", "Armies", "Merchants"],
+                    "answer": 1
+                },
+                {
+                    "question": "What resource was central India known for?",
+                    "options": ["Spices", "Timber", "Gold", "Blankets"],
+                    "answer": 1
+                },
+                {
+                    "question": "What did Ashoka's dhamma not involve?",
+                    "options": ["Worship of a god", "Performance of a sacrifice", "Teaching his subjects", "Both worship of a god and performance of a sacrifice"],
+                    "answer": 3
+                },
+                {
+                    "question": "Who inspired Ashoka's dhamma?",
+                    "options": ["Mahavira", "Buddha", "Chanakya", "Megasthenes"],
+                    "answer": 1
+                },
+                {
+                    "question": "What problems troubled Ashoka?",
+                    "options": ["Animal sacrifices", "Slaves and servants being ill-treated", "Quarrels in families and amongst neighbors", "All of the above"],
+                    "answer": 3
+                },
+                {
+                    "question": "Who were the officials appointed by Ashoka to teach people about dhamma?",
+                    "options": ["Spies", "Governors", "Dhamma mahamattas", "Royal princes"],
+                    "answer": 2
+                },
+                {
+                    "question": "To which countries did Ashoka send messengers to spread ideas about dhamma?",
+                    "options": ["China, Japan, Korea", "Syria, Egypt, Greece", "Persia, Rome, Africa", "Sri Lanka, Nepal, Bhutan"],
+                    "answer": 1
+                },
+                {
+                    "question": "What measures did Ashoka take to provide for the well-being of his subjects?",
+                    "options": ["Built roads and dug wells", "Built rest houses", "Arranged for medical treatment for humans and animals", "All of the above"],
+                    "answer": 3
+                },
+                {
+                    "question": "What was the purpose of Ashoka's inscriptions on rocks and pillars?",
+                    "options": ["To record his conquests", "To instruct officials to read his messages to those who could not read", "To display his wealth", "To commemorate religious festivals"],
+                    "answer": 1
+                },
+                {
+                    "question": "What did Ashoka believe about rituals performed during life events?",
+                    "options": ["They were very useful", "They were not useful", "They were necessary", "They were to be avoided at all costs"],
+                    "answer": 1
+                },
+                {
+                    "question": "What practices did Ashoka encourage instead of rituals?",
+                    "options": ["Being gentle with slaves and servants", "Respecting one's elders", "Treating all creatures with compassion", "All of the above"],
+                    "answer": 3
+                },
+                {
+                    "question": "What was Ashoka's message regarding religions?",
+                    "options": ["One should praise one's own religion", "One should criticize another's religion", "Each one should respect the other’s religion", "One should follow only one religion"],
+                    "answer": 2
+                }
+
+
+            ]
+        },
+        {
+            "name": "8. Villages, Towns and Trade",
+            "questions": [
+                {
+                    "question": "When did the use of iron begin in the subcontinent?",
+                    "options": ["3000 years ago", "2500 years ago", "2000 years ago", "1500 years ago"],
+                    "answer": 0
+                },
+                {
+                    "question": "What tools were found in the megalithic burials?",
+                    "options": ["Bronze tools", "Stone tools", "Iron tools and weapons", "Copper tools"],
+                    "answer": 2
+                },
+                {
+                    "question": "What was the primary purpose of the iron ploughshare?",
+                    "options": ["Clearing forests", "Increasing agricultural production", "Building structures", "Making weapons"],
+                    "answer": 1
+                },
+                {
+                    "question": "What were the irrigation works built during this time?",
+                    "options": ["Underground channels", "Dams and reservoirs", "Aqueducts", "Canals, wells, tanks, and artificial lakes"],
+                    "answer": 3
+                },
+                {
+                    "question": "What were the large landowners in the Tamil region known as?",
+                    "options": ["Vellalar", "Uzhavar", "Kadaisiyar", "Adimai"],
+                    "answer": 0
+                },
+                {
+                    "question": "Who were the ordinary ploughmen in the Tamil region?",
+                    "options": ["Vellalar", "Uzhavar", "Kadaisiyar", "Adimai"],
+                    "answer": 1
+                },
+                {
+                    "question": "What was the village headman in the northern part of the country called?",
+                    "options": ["Grama Bhojaka", "Vellalar", "Grihapati", "Dasa Karmakara"],
+                    "answer": 0
+                },
+                {
+                    "question": "Who were the landless laborers in the Tamil region?",
+                    "options": ["Vellalar", "Uzhavar", "Kadaisiyar and Adimai", "Grihapati"],
+                    "answer": 2
+                },
+                {
+                    "question": "What were the independent farmers in the northern part of the country called?",
+                    "options": ["Grama Bhojaka", "Vellalar", "Grihapatis", "Dasa Karmakara"],
+                    "answer": 2
+                },
+                {
+                    "question": "What were the earliest coins used in the subcontinent called?",
+                    "options": ["Punch-marked coins", "Gold coins", "Silver coins", "Copper coins"],
+                    "answer": 0
+                },
+                {
+                    "question": "Where were punch-marked coins generally found?",
+                    "options": ["Southern part of the subcontinent", "Northern part of the subcontinent", "Eastern part of the subcontinent", "Western part of the subcontinent"],
+                    "answer": 1
+                },
+                {
+                    "question": "What were the large landowners in the Tamil region known as?",
+                    "options": ["Vellalar", "Uzhavar", "Kadaisiyar", "Adimai"],
+                    "answer": 0
+                },
+                {
+                    "question": "Who were the ordinary ploughmen in the Tamil region?",
+                    "options": ["Vellalar", "Uzhavar", "Kadaisiyar", "Adimai"],
+                    "answer": 1
+                },
+                {
+                    "question": "What was the village headman in the northern part of the country called?",
+                    "options": ["Grihapati", "Vellalar", "Grama Bhojaka", "Dasa Karmakara"],
+                    "answer": 2
+                },
+                {
+                    "question": "Who were the landless laborers in the Tamil region?",
+                    "options": ["Vellalar", "Uzhavar", "Kadaisiyar and Adimai", "Grihapati"],
+                    "answer": 2
+                },
+                {
+                    "question": "What were the independent farmers in the northern part of the country called?",
+                    "options": ["Grama Bhojaka", "Vellalar", "Dasa Karmakara", "Grihapatis"],
+                    "answer": 3
+                },
+                {
+                    "question": "What were the earliest coins used in the subcontinent called?",
+                    "options": ["Punch-marked coins", "Gold coins", "Silver coins", "Copper coins"],
+                    "answer": 0
+                },
+                {
+                    "question": "Where were punch-marked coins generally found?",
+                    "options": ["Eastern part of the subcontinent", "Southern part of the subcontinent", "Northern part of the subcontinent", "Western part of the subcontinent"],
+                    "answer": 2
+                },
+                {
+                    "question": "Which city has been an important settlement for more than 2500 years?",
+                    "options": ["Pataliputra", "Mathura", "Taxila", "Ujjain"],
+                    "answer": 1
+                },
+                {
+                    "question": "What was Mathura's significance in ancient times?",
+                    "options": ["Cross roads of major trade routes", "Center for agriculture", "Military base", "None of the above"],
+                    "answer": 0
+                },
+                {
+                    "question": "What type of pottery is known as the Northern Black Polished Ware (NBPW)?",
+                    "options": ["Decorative pottery", "Rough pottery", "Simple pottery", "Extremely fine pottery"],
+                    "answer": 3
+                },
+                {
+                    "question": "Which two cities were famous centers for cloth manufacture?",
+                    "options": ["Varanasi and Madurai", "Pataliputra and Ujjain", "Mathura and Taxila", "Sarnath and Pataliputra"],
+                    "answer": 0
+                },
+                {
+                    "question": "What were the associations of craftspersons and merchants called?",
+                    "options": ["Shrenis", "Grihapatis", "Grama Bhojaka", "Vellalar"],
+                    "answer": 0
+                },
+                {
+                    "question": "What function did shrenis serve besides organizing trade?",
+                    "options": ["Judicial system", "Military", "Banks", "None of the above"],
+                    "answer": 2
+                },
+                {
+                    "question": "What was Arikamedu known for?",
+                    "options": ["Coastal settlement", "Mountain fortress", "Desert oasis", "Forest retreat"],
+                    "answer": 0
+                },
+                {
+                    "question": "What kind of pottery was found in Arikamedu?",
+                    "options": ["African pottery", "Chinese pottery", "Indian pottery", "Mediterranean pottery"],
+                    "answer": 3
+                },
+                {
+                    "question": "What semi-precious items were made in Arikamedu?",
+                    "options": ["Beads", "Rings", "Necklaces", "Bracelets"],
+                    "answer": 0
+                },
+                {
+                    "question": "What script was used to write Tamil on pottery found in Arikamedu?",
+                    "options": ["Sanskrit", "Devanagari", "Brahmi", "Pali"],
+                    "answer": 2
+                },
+                {
+                    "question": "Who were the large landowners in the Tamil region?",
+                    "options": ["Vellalar", "Uzhavar", "Kadaisiyar", "Adimai"],
+                    "answer": 0
+                },
+                {
+                    "question": "Who were the ordinary ploughmen in the Tamil region?",
+                    "options": ["Vellalar", "Uzhavar", "Kadaisiyar", "Adimai"],
+                    "answer": 1
+                },
+                {
+                    "question": "What was the Greek name for Bharuch?",
+                    "options": ["Barygaza", "Bharuka", "Bharata", "Barygata"],
+                    "answer": 0
+                },
+                {
+                    "question": "What imports were brought into Barygaza?",
+                    "options": ["Wine and copper", "Tin and lead", "Cloth and gold", "All of the above"],
+                    "answer": 3
+                },
+                {
+                    "question": "What exports were sent from Barygaza?",
+                    "options": ["Ivory and agate", "Carnelian and cotton", "Silk and perfumes", "All of the above"],
+                    "answer": 3
+                },
+                {
+                    "question": "What did traders carry from South India to Rome?",
+                    "options": ["Spices and gold", "Pepper and precious stones", "Silk and cotton", "Ivory and agate"],
+                    "answer": 1
+                },
+                {
+                    "question": "What was particularly valued in the Roman Empire and known as 'black gold'?",
+                    "options": ["Ivory", "Gold", "Pepper", "Silk"],
+                    "answer": 2
+                },
+                {
+                    "question": "Which poem describes the goods brought into Puhar?",
+                    "options": ["Sangam poems", "Vedic hymns", "Upanishads", "Mahabharata"],
+                    "answer": 0
+                },
+                {
+                    "question": "What is the Tamil word 'muvendar' used for?",
+                    "options": ["Three cities", "Three chiefs", "Three kings", "Three ports"],
+                    "answer": 1
+                },
+                {
+                    "question": "Which port was important for the Cholas?",
+                    "options": ["Puhar or Kaveripattinam", "Madurai", "Barygaza", "Taxila"],
+                    "answer": 0
+                },
+                {
+                    "question": "Who was the most important ruler of the Satavahanas?",
+                    "options": ["Chandragupta Maurya", "Ashoka", "Gautamiputra Shri Satakarni", "Harsha"],
+                    "answer": 2
+                },
+                {
+                    "question": "Which two major centres of power did the Kushanas have?",
+                    "options": ["Peshawar and Mathura", "Pataliputra and Taxila", "Barygaza and Puhar", "Madurai and Kaveripattinam"],
+                    "answer": 0
+                },
+                {
+                    "question": "What were punch-marked coins?",
+                    "options": ["Rectangular coins", "Round coins", "Square coins", "All of the above"],
+                    "answer": 3
+                },
+                {
+                    "question": "What was South India famous for?",
+                    "options": ["Gold", "Spices", "Precious stones", "All of the above"],
+                    "answer": 3
+                },
+                {
+                    "question": "Which region's plants were exported from Barygaza?",
+                    "options": ["The Himalayas", "The Western Ghats", "The Eastern Ghats", "The Deccan Plateau"],
+                    "answer": 0
+                },
+                {
+                    "question": "What goods did the poem about Puhar mention were brought by sea?",
+                    "options": ["Horses", "Pepper", "Gems and gold", "All of the above"],
+                    "answer": 3
+                },
+                {
+                    "question": "Who were the Kushanas?",
+                    "options": ["Rulers of central Asia and north-west India", "Rulers of south India", "Rulers of eastern India", "Rulers of western India"],
+                    "answer": 0
+                }
+                
+            ]
+        },
+        {
+            "name": "9. New Empires and Kingdoms",
+            "questions": [
+                {
+                    "question": "Who composed the prashasti for Samudragupta?",
+                    "options": ["Harishena", "Banabhatta", "Xuan Zang", "Pulakeshin II"],
+                    "answer": 0
+                },
+                {
+                    "question": "Where is Samudragupta's prashasti inscribed?",
+                    "options": ["On the walls of his palace", "On the Ashokan pillar at Allahabad", "On a rock in Kanauj", "In the caves of Ajanta"],
+                    "answer": 1
+                },
+                {
+                    "question": "What does the word 'prashasti' mean?",
+                    "options": ["A prayer", "A biography", "A law", "In praise of"],
+                    "answer": 3
+                },
+                {
+                    "question": "What title did Samudragupta's father, Chandragupta, adopt?",
+                    "options": ["Maha-raja", "Raja", "Maharajadhiraja", "Kavi"],
+                    "answer": 2
+                },
+                {
+                    "question": "How many rulers were uprooted in Aryavarta by Samudragupta?",
+                    "options": ["Nine", "Twelve", "Ten", "Fifteen"],
+                    "answer": 0
+                },
+                {
+                    "question": "Which rulers surrendered to Samudragupta after being defeated and were allowed to rule again?",
+                    "options": ["Rulers of Dakshinapatha", "Rulers of Aryavarta", "Rulers of Bengal", "Rulers of Magadha"],
+                    "answer": 0
+                },
+                {
+                    "question": "Who wrote the Harshacharita?",
+                    "options": ["Harishena", "Banabhatta", "Xuan Zang", "Kalidasa"],
+                    "answer": 1
+                },
+                {
+                    "question": "Which ruler stopped Harsha from crossing the Narmada?",
+                    "options": ["Chandragupta II", "Samudragupta", "Pulakeshin II", "Harishena"],
+                    "answer": 2
+                },
+                {
+                    "question": "What was Samudragupta known for besides being a warrior?",
+                    "options": ["Playing the veena", "Writing poetry", "Building temples", "All of the above"],
+                    "answer": 3
+                },
+                {
+                    "question": "Who were the rulers marked in purple on the map?",
+                    "options": ["Inner circle of neighboring states", "Rulers of Aryavarta", "Rulers of Dakshinapatha", "Outlying areas"],
+                    "answer": 0
+                },
+                {
+                    "question": "Who was Harsha's court poet?",
+                    "options": ["Harishena", "Banabhatta", "Xuan Zang", "Kalidasa"],
+                    "answer": 1
+                },
+                {
+                    "question": "What title did Samudragupta's great grandfather and grandfather hold?",
+                    "options": ["Maha-raja", "Maharajadhiraja", "Raja", "Kavi"],
+                    "answer": 0
+                },
+                {
+                    "question": "What was the era beginning in 58 BCE associated with?",
+                    "options": ["Founding of the Gupta dynasty", "Birth of Samudragupta", "Victory over the Shakas by Chandragupta II", "Writing of the Harshacharita"],
+                    "answer": 2
+                },
+                {
+                    "question": "What was the capital of the Pandyas?",
+                    "options": ["Madurai", "Puhar", "Kannauj", "Magadha"],
+                    "answer": 0
+                },
+                {
+                    "question": "Who wrote about his time at Harsha's court?",
+                    "options": ["Harishena", "Xuan Zang", "Kalidasa", "Pulakeshin II"],
+                    "answer": 1
+                },
+                {
+                    "question": "What is a genealogies?",
+                    "options": ["Lists of ancestors", "Lists of kings", "Lists of battles", "Lists of prashastis"],
+                    "answer": 0
+                },
+                {
+                    "question": "What was Harsha not the eldest son of?",
+                    "options": ["His father", "His uncle", "His brother", "His mother"],
+                    "answer": 0
+                },
+                {
+                    "question": "What did Samudragupta's prashasti describe him as?",
+                    "options": ["Equal to the gods", "The best of poets", "A learned king", "All of the above"],
+                    "answer": 3
+                },
+                {
+                    "question": "Which area was shaded in green on the map?",
+                    "options": ["Aryavarta", "Dakshinapatha", "Bengal", "Kannauj"],
+                    "answer": 0
+                },
+                {
+                    "question": "Who ruled over central Asia and north-west India around 2000 years ago?",
+                    "options": ["Shakas", "Kushanas", "Satavahanas", "Guptas"],
+                    "answer": 1
+                },
+                {
+                    "question": "What was the capital of the Cholas?",
+                    "options": ["Puhar or Kaveripattinam", "Madurai", "Kannauj", "Magadha"],
+                    "answer": 0
+                },
+                {
+                    "question": "Who mentioned Samudragupta's great grandfather, grandfather, father and mother in his prashasti?",
+                    "options": ["Xuan Zang", "Banabhatta", "Harishena", "Pulakeshin II"],
+                    "answer": 2
+                },
+                {
+                    "question": "What is Samudragupta praised as in his prashasti?",
+                    "options": ["A warrior", "A learned king", "The best of poets", "All of the above"],
+                    "answer": 3
+                },
+                {
+                    "question": "Who is known as Vikramaditya?",
+                    "options": ["Chandragupta II", "Samudragupta", "Pulakeshin II", "Banabhatta"],
+                    "answer": 0
+                },
+                {
+                    "question": "What kind of marks covered Samudragupta's body?",
+                    "options": ["Marks of hundreds of scars from weapons", "Marks of tattoos", "Marks of birthmarks", "Marks of paint"],
+                    "answer": 0
+                },
+                {
+                    "question": "Who was the best-known Chalukya ruler?",
+                    "options": ["Kalidasa", "Harsha", "Pulakeshin II", "Fa Xian"],
+                    "answer": 2
+                },
+                {
+                    "question": "Which dynasty did the Pallavas frequently raid?",
+                    "options": ["Guptas", "Chalukyas", "Rashtrakutas", "Cholas"],
+                    "answer": 1
+                },
+                {
+                    "question": "What was the capital of the Pallavas?",
+                    "options": ["Ujjain", "Aihole", "Pataliputra", "Kanchipuram"],
+                    "answer": 3
+                },
+                {
+                    "question": "Which river deltas did the Pallava kingdom extend to?",
+                    "options": ["Kaveri", "Ganges", "Narmada", "Krishna"],
+                    "answer": 0
+                },
+                {
+                    "question": "Who composed Pulakeshin II's prashasti?",
+                    "options": ["Ravikirti", "Harishena", "Banabhatta", "Kalidasa"],
+                    "answer": 0
+                },
+                {
+                    "question": "Where was the Chalukya kingdom centered?",
+                    "options": ["Kaveri Delta", "Raichur Doab", "Ganga Plains", "Vindhya Range"],
+                    "answer": 1
+                },
+                {
+                    "question": "What important development occurred in the administration of these kingdoms?",
+                    "options": ["Construction of canals", "Introduction of democracy", "Abolishment of taxes", "Hereditary administrative posts"],
+                    "answer": 3
+                },
+                {
+                    "question": "Who was the chief judicial officer during this period?",
+                    "options": ["Sarthavaha", "Nagarashreshthi", "Maha-danda-nayaka", "Prathama-kulika"],
+                    "answer": 2
+                },
+                {
+                    "question": "What term was used for military leaders who provided troops to the king?",
+                    "options": ["Samantas", "Nagarashreshthi", "Maha-danda-nayaka", "Kumar-amatya"],
+                    "answer": 0
+                },
+                {
+                    "question": "What was the village assembly found in areas where the landowners were not brahmins called?",
+                    "options": ["Sabha", "Ur", "Nagaram", "Sarthavaha"],
+                    "answer": 1
+                },
+                {
+                    "question": "Which language did Kalidasa use for the king and brahmins in his plays?",
+                    "options": ["Prakrit", "Sanskrit", "Pali", "Tamil"],
+                    "answer": 1
+                },
+                {
+                    "question": "What did the Chinese pilgrim Fa Xian observe about untouchables?",
+                    "options": ["They lived on the outskirts of the city", "They held important administrative posts", "They were wealthy merchants", "They frequently visited the king's court"],
+                    "answer": 0
+                },
+                {
+                    "question": "What was an important religious center with a number of temples during the Chalukya period?",
+                    "options": ["Kanchipuram", "Aihole", "Ujjain", "Pataliputra"],
+                    "answer": 1
+                },
+                {
+                    "question": "Who was Pulakeshin II's court poet?",
+                    "options": ["Ravikirti", "Harishena", "Banabhatta", "Kalidasa"],
+                    "answer": 0
+                },
+                {
+                    "question": "Which dynasty eventually replaced both the Pallavas and Chalukyas?",
+                    "options": ["Rashtrakutas", "Guptas", "Cholas", "Satavahanas"],
+                    "answer": 0
+                },
+                {
+                    "question": "What were the men known as who provided the king with troops?",
+                    "options": ["Prathama-kulika", "Nagarashreshthi", "Samantas", "Maha-danda-nayaka"],
+                    "answer": 2
+                },
+                {
+                    "question": "Which assembly functioned through sub-committees to look after various local operations?",
+                    "options": ["Sabha", "Ur", "Nagaram", "Sarthavaha"],
+                    "answer": 0
+                },
+                {
+                    "question": "Which assembly was an organization of merchants?",
+                    "options": ["Sabha", "Nagaram", "Ur", "Sarthavaha"],
+                    "answer": 1
+                },
+                {
+                    "question": "In Kalidasa's play 'Abhijnana Shakuntalam', who is the king?",
+                    "options": ["Samudragupta", "Harsha", "Pulakeshin II", "Dushyanta"],
+                    "answer": 3
+                },
+                {
+                    "question": "What was a fisherman accused of when he found a precious ring?",
+                    "options": ["Theft", "Murder", "Treason", "Fraud"],
+                    "answer": 0
+                }
+                
+            ]
+        },
+        {
+            "name": "10. Building, Paintings and Books",
+            "questions": [
+                {
+                    "question": "What metal did the Harappans have knowledge of?",
+                    "options": ["Gold", "Bronze", "Silver", "Iron"],
+                    "answer": 1
+                },
+                {
+                    "question": "What metal was produced by mixing copper and tin?",
+                    "options": ["Gold", "Silver", "Bronze", "Iron"],
+                    "answer": 2
+                },
+                {
+                    "question": "During which age did the successors of the Harappans belong?",
+                    "options": ["Bronze Age", "Iron Age", "Stone Age", "Medieval Age"],
+                    "answer": 1
+                },
+                {
+                    "question": "Which dynasty is mentioned in connection with the iron pillar at Mehrauli, Delhi?",
+                    "options": ["Maurya dynasty", "Pallava dynasty", "Chola dynasty", "Gupta dynasty"],
+                    "answer": 3
+                },
+                {
+                    "question": "Who is mentioned in the inscription on the iron pillar at Mehrauli?",
+                    "options": ["Akbar", "Chandra", "Ashoka", "Babur"],
+                    "answer": 1
+                },
+                {
+                    "question": "What is remarkable about the iron pillar at Mehrauli?",
+                    "options": ["Its height", "Its weight", "Its age", "Its rust resistance"],
+                    "answer": 3
+                },
+                {
+                    "question": "What are stupas?",
+                    "options": ["Stone temples", "Buddhist monuments", "Palaces", "Caves"],
+                    "answer": 1
+                },
+                {
+                    "question": "What was generally placed at the centre of a stupa?",
+                    "options": ["A relic casket", "A treasure chest", "A throne", "A statue"],
+                    "answer": 0
+                },
+                {
+                    "question": "Which place is known for its magnificent stupa?",
+                    "options": ["Mahabalipuram", "Aihole", "Sanchi", "Bhitargaon"],
+                    "answer": 2
+                },
+                {
+                    "question": "What were some of the earliest Hindu temples made of?",
+                    "options": ["Gold", "Brick and stone", "Silver", "Wood"],
+                    "answer": 1
+                },
+                {
+                    "question": "What is the name of the room where the chief deity was placed in Hindu temples?",
+                    "options": ["Mandapa", "Shikhara", "Garbhagriha", "Pradakshina"],
+                    "answer": 2
+                },
+                {
+                    "question": "What surrounded the pradakshina patha around stupas?",
+                    "options": ["Stone slabs", "Iron railings", "Gold chains", "Wooden fences"],
+                    "answer": 1
+                },
+                {
+                    "question": "Which temple is carved out of a huge, single piece of stone at Mahabalipuram?",
+                    "options": ["Shore Temple", "Kailasanatha Temple", "Durga Temple", "Pancha Rathas"],
+                    "answer": 0
+                },
+                {
+                    "question": "What was the material used to build the early temple at Bhitargaon?",
+                    "options": ["Gold", "Wood", "Brick and stone", "Silver"],
+                    "answer": 2
+                },
+                {
+                    "question": "Where was a Jaina monastery carved out of rock located?",
+                    "options": ["Mahabalipuram", "Orissa", "Aihole", "Sanchi"],
+                    "answer": 1
+                },
+                {
+                    "question": "What type of iron was produced in ancient India?",
+                    "options": ["Steel", "Wrought iron", "Alloy iron", "Cast iron"],
+                    "answer": 1
+                },
+                {
+                    "question": "What material was used to cover the relic casket in stupas?",
+                    "options": ["Gold", "Silver", "Earth", "Mud"],
+                    "answer": 3
+                },
+                {
+                    "question": "What was the purpose of the pradakshina patha around stupas?",
+                    "options": ["To bury the dead", "To enclose the relic casket", "For circumambulation", "To house monks"],
+                    "answer": 2
+                },
+                {
+                    "question": "Which ruler's name is mentioned in the inscription on the iron pillar at Mehrauli?",
+                    "options": ["Ashoka", "Chandra", "Akbar", "Babur"],
+                    "answer": 1
+                },
+                {
+                    "question": "What is the purpose of the mandapa in Hindu temples?",
+                    "options": ["To house the deity", "To perform rituals", "To assemble people", "To circumambulate"],
+                    "answer": 2
+                },
+                {
+                    "question": "What did stupas contain at their centre?",
+                    "options": ["Treasures", "Relics", "Thrones", "Statues"],
+                    "answer": 1
+                },
+                {
+                    "question": "Which material was commonly used to decorate stupas?",
+                    "options": ["Brick", "Stone slabs", "Gold chains", "Iron railings"],
+                    "answer": 1
+                },
+                {
+                    "question": "Where were some of the earliest Hindu temples built?",
+                    "options": ["Sanchi", "Aihole", "Mahabalipuram", "Bhitargaon"],
+                    "answer": 1
+                },
+                {
+                    "question": "What was the primary material used to build stupas?",
+                    "options": ["Gold", "Stone", "Brick", "Wood"],
+                    "answer": 2
+                },
+                {
+                    "question": "What surrounded the pradakshina patha around stupas?",
+                    "options": ["Iron railings", "Stone slabs", "Gold chains", "Wooden fences"],
+                    "answer": 0
+                },
+                {
+                    "question": "Which temple is known for its monolithic structure at Mahabalipuram?",
+                    "options": ["Shore Temple", "Kailasanatha Temple", "Durga Temple", "Pancha Rathas"],
+                    "answer": 2
+                },
+                {
+                    "question": "What was the primary building material used in the early temple at Bhitargaon?",
+                    "options": ["Brick and stone", "Wood", "Gold", "Silver"],
+                    "answer": 0
+                },
+                {
+                    "question": "Where was a Jaina monastery carved out of rock located?",
+                    "options": ["Mahabalipuram", "Orissa", "Aihole", "Sanchi"],
+                    "answer": 1
+                },
+                {
+                    "question": "What type of iron was produced in ancient India?",
+                    "options": ["Steel", "Wrought iron", "Alloy iron", "Cast iron"],
+                    "answer": 1
+                },
+                {
+                    "question": "What material was used to cover the relic casket in stupas?",
+                    "options": ["Gold", "Silver", "Earth", "Mud"],
+                    "answer": 3
+                },
+                {
+                    "question": "What was the purpose of the pradakshina patha around stupas?",
+                    "options": ["To bury the dead", "To enclose the relic casket", "For circumambulation", "To house monks"],
+                    "answer": 2
+                },
+                {
+                    "question": "Which ruler's name is mentioned in the inscription on the iron pillar at Mehrauli?",
+                    "options": ["Ashoka", "Chandra", "Akbar", "Babur"],
+                    "answer": 1
+                },
+                {
+                    "question": "What is the purpose of the mandapa in Hindu temples?",
+                    "options": ["To house the deity", "To perform rituals", "To assemble people", "To circumambulate"],
+                    "answer": 2
+                },
+                {
+                    "question": "What did stupas contain at their centre?",
+                    "options": ["Treasures", "Relics", "Thrones", "Statues"],
+                    "answer": 1
+                },
+                {
+                    "question": "Which material was commonly used to decorate stupas?",
+                    "options": ["Brick", "Stone slabs", "Gold chains", "Iron railings"],
+                    "answer": 1
+                },
+                {
+                    "question": "Which ancient Indian site is known for its caves decorated with paintings?",
+                    "options": ["Ajanta", "Ellora", "Elephanta", "Badami"],
+                    "answer": 0
+                },
+                {
+                    "question": "What materials were used for making colours in ancient Indian paintings?",
+                    "options": ["Animal fats", "Synthetic dyes", "Plants and minerals", "Petroleum products"],
+                    "answer": 2
+                },
+                {
+                    "question": "Who composed the Tamil epic 'Silappadikaram'?",
+                    "options": ["Sattanar", "Valmiki", "Kalidasa", "Ilango"],
+                    "answer": 3
+                },
+                {
+                    "question": "What is the theme of the Tamil epic 'Silappadikaram'?",
+                    "options": ["Love and betrayal", "War and conquest", "Adventure and exploration", "Wisdom and knowledge"],
+                    "answer": 0
+                },
+                {
+                    "question": "Who is the author of the Sanskrit epic 'Meghaduta'?",
+                    "options": ["Kalidasa", "Valmiki", "Vyasa", "Sattanar"],
+                    "answer": 0
+                },
+                {
+                    "question": "Which scripture contains stories about gods, creation of the world, and details on worship?",
+                    "options": ["Upanishads", "Puranas", "Vedas", "Bhagavad Gita"],
+                    "answer": 1
+                },
+                {
+                    "question": "Who is recognized as the author of the Sanskrit Ramayana?",
+                    "options": ["Valmiki", "Vyasa", "Kalidasa", "Sattanar"],
+                    "answer": 0
+                },
+                {
+                    "question": "What is the main theme of the Ramayana?",
+                    "options": ["Quest for the Holy Grail", "War between Kauravas and Pandavas", "Rescue of Sita from Ravana", "Journey to the West"],
+                    "answer": 2
+                },
+                {
+                    "question": "Who wrote the book 'Aryabhatiyam' which explained the concept of zero?",
+                    "options": ["Bhaskaracharya", "Brahmagupta", "Varahamihira", "Aryabhata"],
+                    "answer": 3
+                },
+                {
+                    "question": "Which mathematician stated that day and night are caused by the rotation of the Earth on its axis?",
+                    "options": ["Aryabhata", "Brahmagupta", "Varahamihira", "Bhaskaracharya"],
+                    "answer": 0
+                },
+                {
+                    "question": "Who invented a special symbol for zero?",
+                    "options": ["Chinese scholars", "Ancient Greeks", "Mathematicians in India", "Roman philosophers"],
+                    "answer": 2
+                },
+                {
+                    "question": "Which ancient Indian system of health science is mentioned in the chapter?",
+                    "options": ["Acupuncture", "Ayurveda", "Herbalism", "Homeopathy"],
+                    "answer": 1
+                },
+                {
+                    "question": "Who wrote the treatise 'Charak Samhita'?",
+                    "options": ["Charaka", "Sushruta", "Aryabhata", "Brahmagupta"],
+                    "answer": 0
+                },
+                {
+                    "question": "What does the term 'Purana' mean?",
+                    "options": ["Old", "New", "Ancient", "Both A & C "],
+                    "answer": 3
+                },
+                {
+                    "question": "Which epic describes a war between cousins for the throne of Hastinapura?",
+                    "options": ["Ramayana", "Mahabharata", "Bhagavad Gita", "Upanishads"],
+                    "answer": 1
+                },
+                {
+                    "question": "Who is the central deity worshipped in Hindu temples?",
+                    "options": ["Various deities like Vishnu, Shiva, and Durga", "Buddha", "Mahavira", "Ganesha"],
+                    "answer": 0
+                },
+                {
+                    "question": "Which ancient Indian site is famous for monolithic temples carved out of single pieces of stone?",
+                    "options": ["Mahabalipuram", "Aihole", "Sanchi", "Ellora"],
+                    "answer": 0
+                },
+                {
+                    "question": "What were the temples at Mahabalipuram primarily made of?",
+                    "options": ["Wood", "Brick", "Stone", "Iron"],
+                    "answer": 2
+                },
+                {
+                    "question": "Which city was destroyed by Kannagi in the Tamil epic 'Silappadikaram'?",
+                    "options": ["Manila", "Madras", "Mumbai", "Madurai"],
+                    "answer": 3
+                },
+                {
+                    "question": "Who is known for the discovery of a way to calculate the circumference of a circle?",
+                    "options": ["Aryabhata", "Brahmagupta", "Varahamihira", "Bhaskaracharya"],
+                    "answer": 0
+                },
+                {
+                    "question": "What was the iron pillar at Mehrauli, Delhi made of?",
+                    "options": ["Steel", "Iron", "Bronze", "Copper"],
+                    "answer": 1
+                }
+                
+            ]
+        }
+
+    ]
+}

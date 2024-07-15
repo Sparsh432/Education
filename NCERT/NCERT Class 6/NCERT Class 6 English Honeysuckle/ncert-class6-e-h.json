@@ -1,0 +1,1165 @@
+{
+    "chapters": [
+        {
+            "name": "1. Who did Patrick's homework?",
+            "questions": [
+                {
+                    "question": "What did Patrick prefer to do instead of homework?",
+                    "options": ["Play hockey and basketball", "Read books", "Watch TV", "Play with his cat"],
+                    "answer": 0
+                },
+                {
+                    "question": "What did Patrick's teachers tell him?",
+                    "options": ["'Keep playing sports'", "'Patrick! Do your homework or you won’t learn a thing.'", "'Play more video games'", "'Don't worry about homework'"],
+                    "answer": 1
+                },
+                {
+                    "question": "What did Patrick find his cat playing with?",
+                    "options": ["A toy mouse", "A little doll", "A ball of yarn", "A tiny man"],
+                    "answer": 3
+                },
+                {
+                    "question": "What did the tiny man promise Patrick?",
+                    "options": ["To give him a toy", "To do all his homework", "To play with the cat", "To teach him magic"],
+                    "answer": 1
+                },
+                {
+                    "question": "How long did Patrick ask the tiny man to do his homework?",
+                    "options": ["7 days", "10 days", "35 days", "40 days"],
+                    "answer": 2
+                },
+                {
+                    "question": "What did the elf need help with while doing homework?",
+                    "options": ["Spelling words", "Understanding maths", "Reading history", "All of the above"],
+                    "answer": 3
+                },
+                {
+                    "question": "What did the elf ask Patrick to get for reading homework?",
+                    "options": ["A thesaurus", "A dictionary", "An encyclopedia", "A textbook"],
+                    "answer": 1
+                },
+                {
+                    "question": "What subjects did the elf struggle with?",
+                    "options": ["Science and English", "Maths and History", "Art and Music", "Geography and PE"],
+                    "answer": 1
+                },
+                {
+                    "question": "Where did Patrick have to go to help the elf with history?",
+                    "options": ["The bookstore", "The library", "The school", "The museum"],
+                    "answer": 1
+                },
+                {
+                    "question": "How did Patrick feel while helping the elf?",
+                    "options": ["Energetic", "Weary", "Excited", "Relaxed"],
+                    "answer": 1
+                },
+                {
+                    "question": "What happened on the last day of school?",
+                    "options": ["The elf ran away", "Patrick's teachers were angry", "Patrick failed his exams", "The elf slipped out the back door"],
+                    "answer": 3
+                },
+                {
+                    "question": "What grades did Patrick get after the elf did his homework?",
+                    "options": ["B's", "C's", "A's", "D's"],
+                    "answer": 2
+                },
+                {
+                    "question": "How did Patrick's classmates react to his grades?",
+                    "options": ["They were amazed", "They were jealous", "They didn't care", "They were angry"],
+                    "answer": 0
+                },
+                {
+                    "question": "What changes did Patrick's parents notice in him?",
+                    "options": ["He was more playful", "He became a model kid", "He was always angry", "He was lazy"],
+                    "answer": 1
+                },
+                {
+                    "question": "What chores did Patrick start doing?",
+                    "options": ["Cooking", "Gardening", "Cleaning his room", "Shopping"],
+                    "answer": 2
+                },
+                {
+                    "question": "What did Patrick still believe at the end of the story?",
+                    "options": ["The elf did all his homework", "He didn't need to do homework", "His teachers were wrong", "The elf would come back"],
+                    "answer": 0
+                },
+                {
+                    "question": "Who actually did Patrick's homework?",
+                    "options": ["The elf", "His cat", "His friends", "Patrick himself"],
+                    "answer": 3
+                },
+                {
+                    "question": "Who is the author of the story?",
+                    "options": ["J.K. Rowling", "Carol Moore", "Roald Dahl", "Dr. Seuss"],
+                    "answer": 1
+                },
+                {
+                    "question": "What did the elf wear?",
+                    "options": ["A modern suit", "A wool shirt with britches and a high tall hat", "A superhero costume", "A tuxedo"],
+                    "answer": 1
+                },
+                {
+                    "question": "What kind of hat did the elf wear?",
+                    "options": ["A baseball cap", "A witch's hat", "A top hat", "A beanie"],
+                    "answer": 1
+                }
+                
+                
+                
+            ]
+        },
+        {
+            "name": "2. How the dog found himself a new master?",
+            "questions": [
+                {
+                    "question": "Why did the dog become unhappy with its life?",
+                    "options": ["He was bored of being free", "He was sick and tired of wandering alone", "He wanted to be the master", "He enjoyed living with humans"],
+                    "answer": 1
+                },
+                {
+                    "question": "What did the dog decide to do?",
+                    "options": ["Become the master of other animals", "Find the strongest master on earth", "Live alone in the forest", "Join a pack of wolves"],
+                    "answer": 1
+                },
+                {
+                    "question": "Who was the first animal the dog met on his journey?",
+                    "options": ["A lion", "A bear", "A wolf", "A cow"],
+                    "answer": 2
+                },
+                {
+                    "question": "Why did the dog leave the wolf?",
+                    "options": ["The wolf was too weak", "The wolf ran away from a bear", "The wolf did not want to be the dog's master", "The dog was frightened by the wolf"],
+                    "answer": 1
+                },
+                {
+                    "question": "Who did the dog choose as his master after the wolf?",
+                    "options": ["A lion", "A bear", "A cow", "A human"],
+                    "answer": 1
+                },
+                {
+                    "question": "Why did the bear run into the forest?",
+                    "options": ["He saw a wolf", "He saw a lion", "He saw a herd of cows", "He saw a human"],
+                    "answer": 1
+                },
+                {
+                    "question": "What did the bear suggest to do after agreeing to be the dog's master?",
+                    "options": ["Find a herd of cows to kill and eat", "Run away into the forest", "Fight the lion", "Find a safer place to live"],
+                    "answer": 0
+                },
+                {
+                    "question": "Why did the dog leave the bear?",
+                    "options": ["The bear was weaker than the lion", "The bear was afraid of humans", "The bear wanted to eat the dog", "The dog found a stronger master"],
+                    "answer": 0
+                },
+                {
+                    "question": "Who did the dog choose as his master after the bear?",
+                    "options": ["A human", "A cow", "A lion", "A wolf"],
+                    "answer": 2
+                },
+                {
+                    "question": "How did the dog feel living with the lion?",
+                    "options": ["He was unhappy", "He had nothing to complain about", "He was scared", "He missed his old life"],
+                    "answer": 1
+                },
+                {
+                    "question": "What frightened the lion while walking with the dog?",
+                    "options": ["A bear", "A wolf", "A human", "A herd of cows"],
+                    "answer": 2
+                },
+                {
+                    "question": "What did the dog decide to do after the lion was frightened?",
+                    "options": ["Stay with the lion", "Run away into the forest", "Find a new master", "Go back to living alone"],
+                    "answer": 2
+                },
+                {
+                    "question": "Who became the dog's master after the lion?",
+                    "options": ["A bear", "A wolf", "A cow", "A human"],
+                    "answer": 3
+                },
+                {
+                    "question": "Why did the dog choose the man as his master?",
+                    "options": ["The man was kind", "The man was stronger than anyone", "The man offered him food", "The man was weaker than the lion"],
+                    "answer": 1
+                },
+                {
+                    "question": "How does the story describe the dog’s relationship with man?",
+                    "options": ["The dog is independent", "The dog is man's most loyal servant", "The dog fears man", "The dog is unhappy"],
+                    "answer": 1
+                },
+                {
+                    "question": "What is the main theme of the story?",
+                    "options": ["Independence", "Loyalty", "Fear", "Strength"],
+                    "answer": 1
+                },
+                {
+                    "question": "How did the dog feel about wandering by himself?",
+                    "options": ["He enjoyed it", "He was tired of it", "He was scared of it", "He missed it"],
+                    "answer": 1
+                },
+                {
+                    "question": "Why did the wolf sniff and run into the bushes?",
+                    "options": ["He smelled a human", "He saw a bear", "He saw a lion", "He smelled food"],
+                    "answer": 1
+                },
+                {
+                    "question": "What was the bear's plan after agreeing to be the dog's master?",
+                    "options": ["To find a safe place", "To find food", "To fight the lion", "To find a human"],
+                    "answer": 1
+                },
+                {
+                    "question": "What did the dog seek in a master?",
+                    "options": ["Kindness", "Strength", "Food", "Companionship"],
+                    "answer": 1
+                },
+                {
+                    "question": "What made the lion back away quietly?",
+                    "options": ["The bear", "A human", "Another lion", "The dog"],
+                    "answer": 1
+                },
+                {
+                    "question": "What was the dog's reaction to the lion's fear?",
+                    "options": ["He comforted the lion", "He decided to find a new master", "He ran away", "He stayed with the lion"],
+                    "answer": 1
+                },
+                {
+                    "question": "How long did the dog serve the lion?",
+                    "options": ["A short time", "A long time", "A few days", "A few months"],
+                    "answer": 1
+                },
+                {
+                    "question": "What did the dog want to avoid by finding a strong master?",
+                    "options": ["Hunger", "Loneliness", "Fear", "Weakness"],
+                    "answer": 2
+                },
+                {
+                    "question": "What has remained unchanged about dogs since the story happened?",
+                    "options": ["Their fear of lions", "Their loyalty to humans", "Their ability to hunt", "Their independence"],
+                    "answer": 1
+                }
+                
+            ]
+        },
+        {
+            "name": "3. Taro's Reward",
+            "questions": [
+                {
+                    "question": "What did Taro do for a living?",
+                    "options": ["Farmer", "Woodcutter", "Fisherman", "Blacksmith"],
+                    "answer": 1
+                },
+                {
+                    "question": "Why was Taro sad despite working hard?",
+                    "options": ["He earned very little money", "He didn't like his job", "He wanted to live in the city", "He had no friends"],
+                    "answer": 0
+                },
+                {
+                    "question": "What did Taro's father wish for on the cold evening?",
+                    "options": ["A blanket", "A cup of saké", "A warm meal", "A new house"],
+                    "answer": 1
+                },
+                {
+                    "question": "What did Taro decide to do to fulfill his father's wish?",
+                    "options": ["Find a better job", "Buy a new jacket", "Move to a warmer place", "Work harder"],
+                    "answer": 3
+                },
+                {
+                    "question": "What did Taro hear while chopping wood?",
+                    "options": ["Birds singing", "Wind blowing", "Rushing water", "People talking"],
+                    "answer": 2
+                },
+                {
+                    "question": "What did Taro find behind the rock?",
+                    "options": ["A beautiful waterfall", "A hidden cave", "A wild animal", "A treasure chest"],
+                    "answer": 0
+                },
+                {
+                    "question": "What did Taro taste when he drank from the waterfall?",
+                    "options": ["Cold water", "Delicious saké", "Sweet juice", "Nothing"],
+                    "answer": 1
+                },
+                {
+                    "question": "How did Taro's father react after drinking the saké?",
+                    "options": ["He felt sleepy", "He stopped shivering and danced", "He felt sick", "He asked for more"],
+                    "answer": 1
+                },
+                {
+                    "question": "What did the neighbour do after tasting the saké?",
+                    "options": ["She thanked Taro", "She asked for more", "She spread the story in the village", "She broke the pitcher"],
+                    "answer": 2
+                },
+                {
+                    "question": "Why did the villagers come to Taro's house?",
+                    "options": ["To congratulate him", "To taste the saké", "To borrow money", "To buy wood"],
+                    "answer": 1
+                },
+                {
+                    "question": "What did Taro do the next morning after the villagers visited?",
+                    "options": ["Went to the forest earlier", "Stayed home", "Visited the village chief", "Went to the market"],
+                    "answer": 0
+                },
+                {
+                    "question": "What did the villagers find at the waterfall the next day?",
+                    "options": ["Delicious saké", "Cold water", "A hidden cave", "A treasure chest"],
+                    "answer": 1
+                },
+                {
+                    "question": "How did the villagers react when they found only water?",
+                    "options": ["They were happy", "They ignored it", "They congratulated Taro", "They felt tricked"],
+                    "answer": 3
+                },
+                {
+                    "question": "What did Taro do when the villagers got angry?",
+                    "options": ["He hid behind a rock", "He confronted them", "He ran home", "He offered them more saké"],
+                    "answer": 0
+                },
+                {
+                    "question": "What did the magic waterfall give to Taro?",
+                    "options": ["Cold water", "Delicious saké", "Gold coins", "Magic powers"],
+                    "answer": 1
+                },
+                {
+                    "question": "What did the magic waterfall give to everyone else?",
+                    "options": ["Delicious saké", "Cold water", "Gold coins", "Magic powers"],
+                    "answer": 1
+                },
+                {
+                    "question": "Who heard about Taro and his magic waterfall?",
+                    "options": ["The village chief", "The neighboring village", "A traveling merchant", "The Emperor of Japan"],
+                    "answer": 3
+                },
+                {
+                    "question": "What did the Emperor of Japan do for Taro?",
+                    "options": ["Rewarded him with gold", "Ignored him", "Punished him", "Made him a village chief"],
+                    "answer": 0
+                },
+                {
+                    "question": "How many pieces of gold did the Emperor give Taro?",
+                    "options": ["Ten", "Twenty", "Thirty", "Forty"],
+                    "answer": 1
+                },
+                {
+                    "question": "What did the Emperor name after Taro?",
+                    "options": ["A mountain", "A river", "A fountain", "A palace"],
+                    "answer": 2
+                },
+                {
+                    "question": "Why did the Emperor name the fountain after Taro?",
+                    "options": ["To encourage hard work", "To honor Taro's kindness", "To make Taro famous", "To reward Taro"],
+                    "answer": 1
+                },
+                {
+                    "question": "Where did Taro live?",
+                    "options": ["In a city", "On a hillside", "By the sea", "In a village"],
+                    "answer": 1
+                },
+                {
+                    "question": "What did Taro’s father do after drinking the saké?",
+                    "options": ["Danced in the middle of the floor", "Fell asleep", "Went to work", "Cried"],
+                    "answer": 0
+                },
+                {
+                    "question": "What did the villagers carry to the waterfall?",
+                    "options": ["Pitchers", "Buckets", "Jars", "All of the above"],
+                    "answer": 3
+                },
+                {
+                    "question": "What lesson did the Emperor want to convey by rewarding Taro?",
+                    "options": ["Hard work pays off", "Kindness to parents is important", "Magic is real", "Saké is valuable"],
+                    "answer": 1
+                }
+                
+                
+            ]
+        },
+        {
+            "name": "4. Kalpana Chawla",
+            "questions": [
+                {
+                    "question": "On what date did the U.S. Space Shuttle Columbia tragedy occur?",
+                    "options": ["16 January 2003", "1 February 2003", "20 February 2003", "10 January 2003"],
+                    "answer": 1
+                },
+                {
+                    "question": "How many astronauts were on board the Columbia?",
+                    "options": ["Five", "Six", "Seven", "Eight"],
+                    "answer": 2
+                },
+                {
+                    "question": "Where was the shuttle when NASA lost contact with it?",
+                    "options": ["Over Texas", "Over Florida", "Over California", "Over New York"],
+                    "answer": 0
+                },
+                {
+                    "question": "What was the speed of Columbia when ground control lost contact?",
+                    "options": ["10,000 km per hour", "15,000 km per hour", "20,000 km per hour", "25,000 km per hour"],
+                    "answer": 2
+                },
+                {
+                    "question": "From which location did Columbia lift off?",
+                    "options": ["Houston Space Center", "Kennedy Space Center", "Cape Canaveral", "Vandenberg Air Force Base"],
+                    "answer": 1
+                },
+                {
+                    "question": "How many experiments did the crew conduct during their mission?",
+                    "options": ["50", "60", "70", "80"],
+                    "answer": 3
+                },
+                {
+                    "question": "What degree did Kalpana Chawla earn after graduating from Tagore School?",
+                    "options": ["Bachelor of Arts", "Bachelor of Science", "Bachelor of Engineering", "Bachelor of Commerce"],
+                    "answer": 1
+                },
+                {
+                    "question": "Where did Kalpana Chawla go for her master’s degree?",
+                    "options": ["United Kingdom", "United States", "Canada", "Australia"],
+                    "answer": 1
+                },
+                {
+                    "question": "In which field did Kalpana Chawla earn her Ph.D.?",
+                    "options": ["Mechanical Engineering", "Civil Engineering", "Electrical Engineering", "Aerospace Engineering"],
+                    "answer": 3
+                },
+                {
+                    "question": "Where was Kalpana Chawla born?",
+                    "options": ["Mumbai", "Delhi", "Karnal", "Chandigarh"],
+                    "answer": 2
+                },
+                {
+                    "question": "What was Kalpana Chawla's husband’s profession?",
+                    "options": ["Engineer", "Doctor", "Flight Instructor", "Scientist"],
+                    "answer": 2
+                },
+                {
+                    "question": "When was Kalpana Chawla selected by NASA for astronaut training?",
+                    "options": ["1990", "1992", "1994", "1996"],
+                    "answer": 2
+                },
+                {
+                    "question": "How long was Kalpana Chawla’s first space mission?",
+                    "options": ["10 days", "12 days", "15 days", "20 days"],
+                    "answer": 2
+                },
+                {
+                    "question": "How many times did Kalpana Chawla orbit the Earth during her first mission?",
+                    "options": ["200 times", "220 times", "250 times", "252 times"],
+                    "answer": 3
+                },
+                {
+                    "question": "What was one of the experiments conducted during Kalpana Chawla’s first mission?",
+                    "options": ["Growing plants", "Studying stars", "Observing marine life", "Testing new fuels"],
+                    "answer": 0
+                },
+                {
+                    "question": "How much did the experiments conducted during Kalpana Chawla’s first mission cost?",
+                    "options": ["36 million dollars", "46 million dollars", "56 million dollars", "66 million dollars"],
+                    "answer": 2
+                },
+                {
+                    "question": "How did the town of Karnal react to the Columbia disaster?",
+                    "options": ["They celebrated", "They stayed glued to their TVs", "They ignored it", "They held a festival"],
+                    "answer": 1
+                },
+                {
+                    "question": "What did a journalist write about Kalpana Chawla?",
+                    "options": ["She was a heroine", "She was an average astronaut", "She was lucky", "She was an ordinary person"],
+                    "answer": 0
+                },
+                {
+                    "question": "In her message to students, what did Kalpana Chawla say about the path from dreams to success?",
+                    "options": ["It does not exist", "It is very difficult", "It does exist", "It is only for the lucky ones"],
+                    "answer": 2
+                },
+                {
+                    "question": "What nationality was Kalpana Chawla's husband?",
+                    "options": ["Indian", "American", "British", "Canadian"],
+                    "answer": 1
+                },
+                {
+                    "question": "Which astronaut crew member was Japanese?",
+                    "options": ["First", "Second", "Third", "Fourth"],
+                    "answer": 2
+                },
+                {
+                    "question": "Which astronaut crew member was Ukranian?",
+                    "options": ["First", "Second", "Third", "Fourth"],
+                    "answer": 3
+                },
+                {
+                    "question": "How many times did Kalpana Chawla orbit the Earth during her first mission?",
+                    "options": ["150 times", "200 times", "252 times", "300 times"],
+                    "answer": 2
+                },
+                {
+                    "question": "Where did Kalpana Chawla's family cheer from as they watched the Columbia lift off?",
+                    "options": ["Houston Space Center", "Kennedy Space Center", "Cape Canaveral", "Vandenberg Air Force Base"],
+                    "answer": 1
+                },
+                {
+                    "question": "What type of airplanes was Kalpana Chawla licensed to fly?",
+                    "options": ["Single-engine", "Multi-engine", "Single-engine seaplanes", "All of the above"],
+                    "answer": 3
+                }
+                
+                
+            ]
+        },
+        {
+            "name": "5. A Different kind of school",
+            "questions": [
+                {
+                    "question": "Who did the narrator first see when arriving at Miss Beam's school?",
+                    "options": ["A boy", "A teacher", "A girl with a bandage on her eyes", "Miss Beam"],
+                    "answer": 2
+                },
+                {
+                    "question": "How old was the girl the narrator first saw?",
+                    "options": ["Ten", "Twelve", "Fourteen", "Sixteen"],
+                    "answer": 1
+                },
+                {
+                    "question": "Who was leading the girl with the bandage on her eyes?",
+                    "options": ["Another girl", "A teacher", "Miss Beam", "A little boy"],
+                    "answer": 3
+                },
+                {
+                    "question": "What did the narrator notice about Miss Beam's appearance?",
+                    "options": ["She was young", "She was middle-aged", "She was very old", "She was a teenager"],
+                    "answer": 1
+                },
+                {
+                    "question": "What subject did Miss Beam's school focus on besides regular academics?",
+                    "options": ["Sports", "Music", "Thoughtfulness", "Science"],
+                    "answer": 2
+                },
+                {
+                    "question": "What did Miss Beam's school aim to teach students about?",
+                    "options": ["Mathematics", "Thoughtfulness and kindness", "History", "Art"],
+                    "answer": 1
+                },
+                {
+                    "question": "What did the narrator see when looking out of the window?",
+                    "options": ["A busy street", "A large garden and playground", "A library", "A sports field"],
+                    "answer": 1
+                },
+                {
+                    "question": "Why did Miss Beam's students have 'blind days'?",
+                    "options": ["To rest their eyes", "To understand misfortune", "To practice concentration", "To play a game"],
+                    "answer": 1
+                },
+                {
+                    "question": "How often did each child at Miss Beam's school experience a 'blind day'?",
+                    "options": ["Every day", "Once a week", "Each term", "Once a year"],
+                    "answer": 2
+                },
+                {
+                    "question": "What did children learn during their 'blind day'?",
+                    "options": ["To rely on their hearing", "To appreciate their sight", "To help each other", "All of the above"],
+                    "answer": 3
+                },
+                {
+                    "question": "How did Miss Beam describe the 'blind day'?",
+                    "options": ["Exciting", "Fun", "The worst", "The easiest"],
+                    "answer": 2
+                },
+                {
+                    "question": "What did the narrator offer to the bandaged girl?",
+                    "options": ["To remove her bandage", "To lead her for a walk", "To give her a toy", "To help with her homework"],
+                    "answer": 1
+                },
+                {
+                    "question": "What did the bandaged girl find the most frightening about being blind?",
+                    "options": ["Not being able to talk", "Not seeing anything", "Not hearing anything", "Not being able to walk"],
+                    "answer": 1
+                },
+                {
+                    "question": "What was the girl's name who was on crutches?",
+                    "options": ["Millie", "Anita", "Sarah", "Jessica"],
+                    "answer": 1
+                },
+                {
+                    "question": "Who was the Head Girl at Miss Beam's school?",
+                    "options": ["Millie", "Anita", "Sarah", "Jessica"],
+                    "answer": 0
+                },
+                {
+                    "question": "What did the narrator discover about himself after describing things to the blindfolded girl?",
+                    "options": ["He was impatient", "He was thoughtful", "He was rude", "He was indifferent"],
+                    "answer": 1
+                },
+                {
+                    "question": "What did Miss Beam's system aim to develop in children?",
+                    "options": ["Academic excellence", "Physical strength", "Thoughtfulness and empathy", "Artistic skills"],
+                    "answer": 2
+                },
+                {
+                    "question": "How did Miss Beam describe the days when children experienced different handicaps?",
+                    "options": ["Miserable", "Enlightening", "Boring", "Painful"],
+                    "answer": 1
+                },
+                {
+                    "question": "What did the bandaged girl think about the other 'bad days' compared to the 'blind day'?",
+                    "options": ["They were easier", "They were harder", "They were the same", "They were irrelevant"],
+                    "answer": 0
+                },
+                {
+                    "question": "What is the name of the gardener mentioned in the story?",
+                    "options": ["Peter", "John", "James", "Tom"],
+                    "answer": 0
+                },
+                {
+                    "question": "How did the bandaged girl feel about her helpers?",
+                    "options": ["Frustrated", "Angry", "Indifferent", "Grateful"],
+                    "answer": 3
+                },
+                {
+                    "question": "What did the bandaged girl learn from her 'blind day' experience?",
+                    "options": ["To appreciate her sight", "To become independent", "To ignore others", "To rely on her strength"],
+                    "answer": 0
+                },
+                {
+                    "question": "What did the narrator realize about describing things to someone else?",
+                    "options": ["It was difficult", "It made things more interesting", "It was boring", "It was unnecessary"],
+                    "answer": 1
+                },
+                {
+                    "question": "How did Miss Beam's system affect the narrator?",
+                    "options": ["It made him thoughtful", "It bored him", "It confused him", "It annoyed him"],
+                    "answer": 0
+                },
+                {
+                    "question": "What was the purpose of the 'lame day' at Miss Beam's school?",
+                    "options": ["To improve physical fitness", "To understand physical disabilities", "To learn new skills", "To rest"],
+                    "answer": 1
+                }
+                
+                
+            ]
+        },
+        {
+            "name": "6. Who I Am",
+            "questions": [
+                {
+                    "question": "What is Radha's favorite activity?",
+                    "options": ["Reading books", "Playing with friends", "Climbing trees", "Swimming"],
+                    "answer": 2
+                },
+                {
+                    "question": "What type of tree does Radha like to climb?",
+                    "options": ["Apple tree", "Mango tree", "Oak tree", "Pine tree"],
+                    "answer": 1
+                },
+                {
+                    "question": "What did Radha and her mother do in the tree?",
+                    "options": ["Talked and ate raw mangoes", "Read books", "Played games", "Slept"],
+                    "answer": 0
+                },
+                {
+                    "question": "How does Radha feel when she is high up in the tree?",
+                    "options": ["Scared", "Excited", "Like she can rule the world", "Bored"],
+                    "answer": 2
+                },
+                {
+                    "question": "What does Nasir want to become when he grows up?",
+                    "options": ["Doctor", "Engineer", "Seed collector", "Teacher"],
+                    "answer": 2
+                },
+                {
+                    "question": "What problem does Nasir want to solve?",
+                    "options": ["How to grow more cotton", "How to preserve seeds", "How to sell cotton", "How to use fertilizers"],
+                    "answer": 1
+                },
+                {
+                    "question": "What does Rohit want to do if he had a huge amount of money?",
+                    "options": ["Buy a car", "Travel", "Build a house", "Start a business"],
+                    "answer": 1
+                },
+                {
+                    "question": "Which place does Rohit want to visit because it looked beautiful in a magazine picture?",
+                    "options": ["New Zealand", "Amazon river", "Lakshadweep", "Konark temple"],
+                    "answer": 0
+                },
+                {
+                    "question": "Where does Rohit want to dive down to see coral?",
+                    "options": ["Konark temple", "Beijing", "Amazon river", "Lakshadweep"],
+                    "answer": 3
+                },
+                {
+                    "question": "What does Serbjit get angry about?",
+                    "options": ["When people don't believe him", "When he gets bad marks", "When he has to do homework", "When he loses a game"],
+                    "answer": 0
+                },
+                {
+                    "question": "What does Serbjit do to calm down when he is angry?",
+                    "options": ["Shout", "Cry", "Count to ten", "Run away"],
+                    "answer": 2
+                },
+                {
+                    "question": "What does Dolma want to be when she grows up?",
+                    "options": ["Doctor", "Engineer", "Prime Minister of India", "Teacher"],
+                    "answer": 2
+                },
+                {
+                    "question": "What do people do when Dolma says she wants to be the Prime Minister?",
+                    "options": ["Support her", "Laugh at her", "Ignore her", "Encourage her"],
+                    "answer": 1
+                },
+                {
+                    "question": "Why does Dolma's teacher trust her?",
+                    "options": ["She is the smartest", "She is the kindest", "She is reliable", "She is the strongest"],
+                    "answer": 2
+                },
+                {
+                    "question": "What does Dolma want to improve when she becomes the Prime Minister?",
+                    "options": ["Sports facilities", "Hospitals, roads, and schools", "Shopping centers", "Entertainment industry"],
+                    "answer": 1
+                },
+                {
+                    "question": "What is Peter's favorite day?",
+                    "options": ["Monday", "Wednesday", "Friday", "Second Sunday of every month"],
+                    "answer": 3
+                },
+                {
+                    "question": "What does Peter's family do on his favorite day?",
+                    "options": ["Go to the park", "Go to the cinema hall", "Visit relatives", "Go shopping"],
+                    "answer": 1
+                },
+                {
+                    "question": "Who gets the cinema tickets in advance in Peter's family?",
+                    "options": ["Peter", "His mother", "His father", "His grandmother"],
+                    "answer": 2
+                },
+                {
+                    "question": "What does Peter's father buy during the interval at the cinema?",
+                    "options": ["Popcorn", "Peanuts", "Ice cream", "Soda"],
+                    "answer": 1
+                },
+                {
+                    "question": "How does Peter feel after the cinema outing with his family?",
+                    "options": ["Sad", "Bored", "Lucky", "Tired"],
+                    "answer": 2
+                },
+                {
+                    "question": "What does Radha's mother tell her about climbing trees?",
+                    "options": ["It is fun", "It is not sensible for girls", "It is good exercise", "It is dangerous"],
+                    "answer": 1
+                },
+                {
+                    "question": "Why does Nasir's father spend a lot of money every year?",
+                    "options": ["To buy fertilizers", "To buy new seeds", "To hire workers", "To sell cotton"],
+                    "answer": 1
+                },
+                {
+                    "question": "What did Nasir's grandfather used to do with seeds many years ago?",
+                    "options": ["Sell them", "Preserve them", "Collect them from his own plants", "Throw them away"],
+                    "answer": 2
+                },
+                {
+                    "question": "What does Rohit actually enjoy seeing?",
+                    "options": ["Old buildings", "Museums", "Nature", "Shopping malls"],
+                    "answer": 2
+                },
+                {
+                    "question": "What kind of places does Rohit want to visit?",
+                    "options": ["Historical sites", "Nature spots", "Amusement parks", "Restaurants"],
+                    "answer": 1
+                }
+                
+                
+            ]
+        },
+        {
+            "name": "7. Fair Play",
+            "questions": [
+                {
+                    "question": "What was the relationship between Jumman Shaikh and Algu Chowdhry?",
+                    "options": ["Brothers", "Neighbors", "Good friends", "Cousins"],
+                    "answer": 2
+                },
+                {
+                    "question": "What did Jumman's aunt transfer to him?",
+                    "options": ["Money", "Land", "Jewelry", "Property"],
+                    "answer": 3
+                },
+                {
+                    "question": "Why did Jumman's aunt want a monthly allowance?",
+                    "options": ["To pay off debts", "To set up a separate kitchen", "To travel", "To buy clothes"],
+                    "answer": 1
+                },
+                {
+                    "question": "Who did Jumman's aunt take her case to?",
+                    "options": ["The police", "The village panchayat", "A lawyer", "The village head"],
+                    "answer": 1
+                },
+                {
+                    "question": "What did Jumman's aunt request from Algu Chowdhry?",
+                    "options": ["To give her money", "To speak the truth in the panchayat", "To help her move", "To forgive Jumman"],
+                    "answer": 1
+                },
+                {
+                    "question": "Where was the panchayat held?",
+                    "options": ["At the village square", "Under an old banyan tree", "At Algu's house", "At Jumman's house"],
+                    "answer": 1
+                },
+                {
+                    "question": "Who did Jumman's aunt nominate as the head Panch?",
+                    "options": ["Algu Chowdhry", "The village head", "Jumman Shaikh", "Her brother"],
+                    "answer": 0
+                },
+                {
+                    "question": "What was the decision of the panchayat regarding Jumman's aunt?",
+                    "options": ["She should leave the village", "She should be given a monthly allowance", "She should stay with Jumman", "She should be given her property back"],
+                    "answer": 1
+                },
+                {
+                    "question": "What did Jumman and his family feel about his aunt over time?",
+                    "options": ["Grateful", "Indifferent", "Respectful", "Affectionate"],
+                    "answer": 1
+                },
+                {
+                    "question": "What happened to the bond of friendship between Jumman and Algu after the panchayat's decision?",
+                    "options": ["It grew stronger", "It remained the same", "It was broken", "It turned into hatred"],
+                    "answer": 2
+                },
+                {
+                    "question": "Why did Algu find himself in a tight spot after the panchayat?",
+                    "options": ["His bullock died", "He lost his job", "He got into debt", "His house caught fire"],
+                    "answer": 0
+                },
+                {
+                    "question": "Who bought the bullock from Algu?",
+                    "options": ["Jumman Shaikh", "Samjhu Sahu", "The village head", "Algu's neighbor"],
+                    "answer": 1
+                },
+                {
+                    "question": "What did Samjhu Sahu refuse to do?",
+                    "options": ["Pay for the bullock", "Return the bullock", "Buy a new bullock", "Talk to Algu"],
+                    "answer": 0
+                },
+                {
+                    "question": "Who did Sahu nominate as the head Panch in Algu's case?",
+                    "options": ["Algu Chowdhry", "The village head", "Jumman Shaikh", "His brother"],
+                    "answer": 2
+                },
+                {
+                    "question": "What was Jumman's realization when he became head Panch?",
+                    "options": ["He wanted revenge", "He missed his friend", "He had a responsibility as a judge", "He should forgive his aunt"],
+                    "answer": 2
+                },
+                {
+                    "question": "What was the panchayat's decision regarding the bullock's price?",
+                    "options": ["Algu should refund the money", "Sahu should pay Algu", "Both should share the loss", "Sahu should return the bullock"],
+                    "answer": 1
+                },
+                {
+                    "question": "What did Algu declare after the panchayat's decision in his case?",
+                    "options": ["Victory to the panchayat", "Revenge on Jumman", "Forgiveness for Sahu", "Sadness for the bullock"],
+                    "answer": 0
+                },
+                {
+                    "question": "What lesson did Jumman learn after serving as head Panch?",
+                    "options": ["A Panch has no friend nor enemy", "Revenge is sweet", "Justice is not important", "Friendship is everything"],
+                    "answer": 0
+                },
+                {
+                    "question": "What did Jumman do after the panchayat's decision in Algu's case?",
+                    "options": ["Left the village", "Apologized to his aunt", "Embraced Algu", "Paid Algu"],
+                    "answer": 2
+                },
+                {
+                    "question": "What did Jumman and Algu do after reconciling?",
+                    "options": ["Became enemies again", "Left the village", "Embraced and wept", "Started a new panchayat"],
+                    "answer": 2
+                },
+                {
+                    "question": "What did Jumman's aunt want to do when she felt unwanted?",
+                    "options": ["Move to another village", "Set up a separate kitchen", "Go back to her property", "Sell her property"],
+                    "answer": 1
+                },
+                {
+                    "question": "What did Jumman shamelessly suggest his aunt should do?",
+                    "options": ["Be patient", "Leave the house", "Sell her property", "Forgive him"],
+                    "answer": 0
+                },
+                {
+                    "question": "How did Algu feel when Sahu nominated Jumman as head Panch?",
+                    "options": ["Happy", "Relieved", "Anxious", "Indifferent"],
+                    "answer": 2
+                },
+                {
+                    "question": "What did Jumman realize about the voice of the Panch?",
+                    "options": ["It can be biased", "It is the voice of God", "It is often wrong", "It is always just"],
+                    "answer": 1
+                },
+                {
+                    "question": "Why did Jumman's aunt go to the panchayat?",
+                    "options": ["To get her property back", "To get a monthly allowance", "To sell her property", "To apologize to Jumman"],
+                    "answer": 1
+                }
+                
+                
+            ]
+        },
+        {
+            "name": "8. The Banyan Tree",
+            "questions": [
+                {
+                    "question": "What is the outcome of the fight between a cobra and a mongoose often seen in India?",
+                    "options": ["The cobra wins", "The mongoose wins", "Both animals retreat", "The fight ends in a draw"],
+                    "answer": 1
+                },
+                {
+                    "question": "Why is the mongoose usually able to win against the cobra?",
+                    "options": ["It is immune to the cobra's venom", "It is faster and quicker in motion", "It is stronger", "It has better eyesight"],
+                    "answer": 1
+                },
+                {
+                    "question": "What does the cobra do to defend itself against the mongoose?",
+                    "options": ["It bites immediately", "It runs away", "It assumes a posture of defense and attempts to strike", "It hides"],
+                    "answer": 2
+                },
+                {
+                    "question": "How does the mongoose finally defeat the cobra?",
+                    "options": ["By poisoning it", "By tiring it out and biting its neck", "By suffocating it", "By scaring it away"],
+                    "answer": 1
+                },
+                {
+                    "question": "What did the author see as a young boy when he was sitting in the old banyan tree?",
+                    "options": ["A fight between a mongoose and a cobra", "A family of squirrels", "A bird's nest", "A group of butterflies"],
+                    "answer": 0
+                },
+                {
+                    "question": "Why was the magnificent old banyan tree considered to belong to the author?",
+                    "options": ["Because he planted it", "Because his grandfather could no longer climb it", "Because it was in his house", "Because he loved it the most"],
+                    "answer": 1
+                },
+                {
+                    "question": "What did the banyan tree's spreading branches form?",
+                    "options": ["A canopy", "A maze", "Twisting passages", "A shelter"],
+                    "answer": 2
+                },
+                {
+                    "question": "Who was the author's first friend in the banyan tree?",
+                    "options": ["A small grey squirrel", "A myna", "A jungle crow", "A butterfly"],
+                    "answer": 0
+                },
+                {
+                    "question": "How did the squirrel react when the author first started bringing him food?",
+                    "options": ["It ran away", "It became friendly", "It ignored the food", "It fought with other squirrels"],
+                    "answer": 1
+                },
+                {
+                    "question": "What did the squirrel start doing when he became comfortable with the author?",
+                    "options": ["Building a nest", "Delving into the author's pockets", "Chasing birds", "Collecting nuts"],
+                    "answer": 1
+                },
+                {
+                    "question": "What type of birds flocked to the banyan tree when it was full of small red figs?",
+                    "options": ["Parrots, myna, and crows", "Sparrows and robins", "Eagles and hawks", "Owls and pigeons"],
+                    "answer": 0
+                },
+                {
+                    "question": "What did the author build halfway up the banyan tree?",
+                    "options": ["A treehouse", "A swing", "A platform", "A ladder"],
+                    "answer": 2
+                },
+                {
+                    "question": "What did the author do on the platform in the banyan tree?",
+                    "options": ["Read books", "Sleep", "Watch TV", "Play games"],
+                    "answer": 0
+                },
+                {
+                    "question": "What did the author witness on one particular afternoon from the banyan tree?",
+                    "options": ["A fight between a mongoose and a cobra", "A family of squirrels playing", "Birds building nests", "A butterfly emerging from a cocoon"],
+                    "answer": 0
+                },
+                {
+                    "question": "What were the cobra and mongoose doing when the author first saw them?",
+                    "options": ["Sleeping", "Eating", "Facing each other in a clearing", "Playing"],
+                    "answer": 2
+                },
+                {
+                    "question": "What was the cobra's first move in the fight?",
+                    "options": ["Running away", "Hissing defiance and spreading its hood", "Biting the mongoose", "Hiding in the bushes"],
+                    "answer": 1
+                },
+                {
+                    "question": "What animals joined the author as spectators to the fight?",
+                    "options": ["A myna and a jungle crow", "A parrot and a squirrel", "A cat and a dog", "A hawk and an eagle"],
+                    "answer": 0
+                },
+                {
+                    "question": "What happened to the crow when it tried to interfere in the fight?",
+                    "options": ["It was ignored", "It was bitten by the cobra", "It flew away safely", "It fought the mongoose"],
+                    "answer": 1
+                },
+                {
+                    "question": "How did the cobra react to the mongoose's movements?",
+                    "options": ["It stayed still", "It struck at the mongoose", "It ran away", "It played dead"],
+                    "answer": 1
+                },
+                {
+                    "question": "What was the final outcome of the fight?",
+                    "options": ["The mongoose killed the cobra", "The cobra killed the mongoose", "Both animals retreated", "The fight ended in a draw"],
+                    "answer": 0
+                },
+                {
+                    "question": "What did the myna do after the fight was over?",
+                    "options": ["Stayed in the cactus", "Flew away with a cry of congratulation", "Fought the mongoose", "Ignored the outcome"],
+                    "answer": 1
+                },
+                {
+                    "question": "Where did the author often sit to watch the world below?",
+                    "options": ["On the ground", "In the banyan tree", "In his house", "By the pond"],
+                    "answer": 1
+                },
+                {
+                    "question": "What did the author use to make his platform in the banyan tree comfortable?",
+                    "options": ["A pillow", "A blanket", "A cushion from the living room", "A mattress"],
+                    "answer": 2
+                },
+                {
+                    "question": "What did the author do when he did not feel like reading?",
+                    "options": ["Took a nap", "Went swimming", "Looked down through the leaves", "Climbed down the tree"],
+                    "answer": 2
+                },
+                {
+                    "question": "What book was part of the author's banyan tree library?",
+                    "options": ["Treasure Island", "Harry Potter", "The Great Gatsby", "The Hobbit"],
+                    "answer": 0
+                }                
+                
+            ]
+        },
+        {
+            "name": "9. Desert Animals",
+            "questions": [
+                {
+                    "question": "How do gerbils cope with the harsh conditions of the desert?",
+                    "options": ["By drinking a lot of water", "By staying in cool underground burrows during the hottest part of the day", "By hunting at night", "By living in groups"],
+                    "answer": 1
+                },
+                {
+                    "question": "What special skill do darkling beetles have?",
+                    "options": ["They can fly long distances", "They can catch drops of moisture on their legs and lift them into the air", "They can change color to blend in", "They can dig deep burrows"],
+                    "answer": 1
+                },
+                {
+                    "question": "What happens to some deserts during the spring?",
+                    "options": ["They get covered in snow", "They are dotted with small bushes", "They are sprinkled with colorful flowers", "They become flooded"],
+                    "answer": 2
+                },
+                {
+                    "question": "How many different kinds of snakes are there around the world?",
+                    "options": ["230", "2300", "23000", "230000"],
+                    "answer": 1
+                },
+                {
+                    "question": "What is a unique characteristic of rattlesnakes?",
+                    "options": ["They are immune to venom", "They are herbivores", "They can fly", "They can hear through vibrations in the ground"],
+                    "answer": 3
+                },
+                {
+                    "question": "What sound does a rattlesnake make when it feels threatened?",
+                    "options": ["Hissing", "Rattling its tail", "Growling", "Whistling"],
+                    "answer": 1
+                },
+                {
+                    "question": "What does the rattlesnake do if its warnings are ignored?",
+                    "options": ["Coils ready to bite", "Runs away", "Plays dead", "Hides in a burrow"],
+                    "answer": 0
+                },
+                {
+                    "question": "What do rattlesnakes primarily feed on?",
+                    "options": ["Insects", "Plants", "Small animals like mice and rats", "Birds"],
+                    "answer": 2
+                },
+                {
+                    "question": "How often do most snakes need to eat?",
+                    "options": ["Once a day", "Once a week", "Once a month", "Once a year"],
+                    "answer": 1
+                },
+                {
+                    "question": "What are mongooses known for?",
+                    "options": ["Their ability to kill snakes without getting hurt", "Their ability to fly", "Their colorful feathers", "Their strong sense of smell"],
+                    "answer": 0
+                },
+                {
+                    "question": "How do mongooses keep in touch while hunting?",
+                    "options": ["By using their sense of smell", "By twittering and calling", "By leaving marks on trees", "By staying close together"],
+                    "answer": 1
+                },
+                {
+                    "question": "What is a common sight in many parts of Africa?",
+                    "options": ["Lions", "Banded mongooses", "Elephants", "Crocodiles"],
+                    "answer": 1
+                },
+                {
+                    "question": "How do mongooses warn one another of danger?",
+                    "options": ["By growling", "By running away", "By using a special alarm call", "By hiding in burrows"],
+                    "answer": 2
+                },
+                {
+                    "question": "How do female mongooses care for their kittens?",
+                    "options": ["They raise them alone", "The whole group raises them in a den", "They leave them in the wild", "They take them to waterholes"],
+                    "answer": 1
+                },
+                {
+                    "question": "What is a characteristic of camels' coats?",
+                    "options": ["Long and shaggy in summer", "Shorter and tidier in winter", "Shorter and tidier in summer", "Long and shaggy in winter"],
+                    "answer": 2
+                },
+                {
+                    "question": "How much water can a thirsty camel drink in ten minutes?",
+                    "options": ["30 gallons", "10 gallons", "5 gallons", "50 gallons"],
+                    "answer": 0
+                },
+                {
+                    "question": "What do camels primarily get their moisture from?",
+                    "options": ["Rain", "Desert plants", "Rivers", "Oases"],
+                    "answer": 1
+                },
+                {
+                    "question": "How long can camels survive without drinking water?",
+                    "options": ["One month", "Six months", "Ten months", "A year"],
+                    "answer": 2
+                },
+                {
+                    "question": "What is the purpose of a camel's humps?",
+                    "options": ["To store water", "To store fat", "To help them run faster", "To attract mates"],
+                    "answer": 1
+                },
+                {
+                    "question": "What happens to a camel's humps when they have nothing to eat for several days?",
+                    "options": ["They grow larger", "They stay the same", "They shrink", "They disappear"],
+                    "answer": 2
+                },
+                {
+                    "question": "What is a unique feature of a camel's mouth?",
+                    "options": ["It can hold a lot of water", "It is so tough that even sharp thorns cannot pierce through", "It can store food", "It is very sensitive"],
+                    "answer": 1
+                },
+                {
+                    "question": "How do camels stay warm in the winter?",
+                    "options": ["They huddle together", "They migrate", "They grow long, shaggy coats", "They dig burrows"],
+                    "answer": 2
+                },
+                {
+                    "question": "How do camels keep cool in the summer?",
+                    "options": ["They stay in the shade", "They have shorter, tidier coats", "They drink a lot of water", "They sleep during the day"],
+                    "answer": 1
+                },
+                {
+                    "question": "What is a group of wild camels usually composed of?",
+                    "options": ["Up to 10 animals", "Up to 20 animals", "Up to 30 animals", "Up to 40 animals"],
+                    "answer": 2
+                },
+                {
+                    "question": "What are the two different kinds of camels?",
+                    "options": ["Bactrian and Dromedary", "African and Asian", "Desert and Forest", "Long-haired and Short-haired"],
+                    "answer": 0
+                }                
+                
+            ]
+        }
+    ]
+}
