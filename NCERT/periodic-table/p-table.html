@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-88XS5CQQ2J"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        gtag('config', 'G-88XS5CQQ2J');
+    </script>
+
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SIN Periodic Table</title>
+    <link rel="stylesheet" href="p-table.css">
+    <link rel="icon" href="../SIN-fevicon.svg">
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Baskervville+SC&family=Wittgenstein:ital,wght@0,400..900;1,400..900&display=swap');
+    </style>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+</head>
+<body>
+    <div class="navbar">
+        <div class="logo"><a href="../index.html"><img src="../SIN-Logo-removebg.svg" alt="Logo"></a></div>
+        <ul class="nav-links">
+            <li><a href="../index.html">Home</a></li>
+            <li><a href="../about.html">About</a></li>
+            <li><a href="../contactus.html">Contact Us</a></li>
+        </ul>
+    </div>
+    
+    <div class="container">
+        <div id="title-container">
+            <h2><u>Periodic Table</u></h2>
+        </div>
+    </div>
+
+	<div class="container">
+        <div class="periodic-table" id="periodic-table"></div> <!-- Dynamic Table -->
+
+        <!-- Element Types List -->
+        <div class="element-types">
+            <h2>Element Types</h2>
+            <ul id="types-list">
+                <!-- Types will be dynamically generated -->
+            </ul>
+            <button id="clear-highlights" onclick="clearHighlights()">Clear Highlights</button>
+        </div>
+
+        <!-- Pop-up dialog box for full details -->
+        <div id="element-dialog" class="element-dialog">
+            <div class="dialog-content">
+                <span class="close" onclick="closeDialog()">&times;</span>
+                <u><h1 id="element-name"></h1></u>
+                <p><b>Atomic Number:</b> <span id="element-atomic-number"></span></p>
+                <p><b>Symbol:</b> <span id="element-symbol"></span></p>
+                <p><b>Atomic Mass:</b> <span id="element-atomic-mass"></span></p>
+                <p><b>Type:</b> <span id="element-type"></span></p>
+                <p><b>Melting Point:</b> <span id="element-melting"></span></p>
+                <p><b>Boiling Point:</b> <span id="element-boiling"></span></p>
+                <p><b>Electron Configuration:</b> <span id="element-electronConfiguration"></span></p>
+                <p><b>Electronegativity:</b> <span id="element-electroNegativity"></span></p>
+                <p><b>Density:</b> <span id="element-density"></span></p>
+                <p><b>State at room Temperature:</b> <span id="element-state"></span></p>
+                <p><b>Ionization Energy:</b> <span id="element-ionization"></span></p>
+                <p><b>Oxidation States:</b> <span id="element-oxidation"></span></p>
+                <p><b>Uses:</b> <span id="element-uses"></span></p>
+                <!-- Add more properties as needed -->
+            </div>
+        </div> 
+    </div>
+
+    <div id="ad-container">
+        <div id="">
+            <!--<img src="SIN-Logo-removebg.svg" height="400" max-width="1000">-->
+        </div>
+    </div>
+    
+    <footer class="footer">
+        <p>&copy; 2024 SIN-Organization. All Rights Reserved</p>
+        <a href="https://www.instagram.com/sinorganization/" target="_blank" class="instagram-link">
+            <i class="fab fa-instagram"></i>
+        </a>
+    </footer>
+    <script defer src="p-table.js"></script>
+</body>
+</html>

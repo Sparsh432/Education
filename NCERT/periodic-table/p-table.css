@@ -1,0 +1,345 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: "Wittgenstein", serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+    background-color: #f4f4f4;
+}
+
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1rem 2rem;
+    background-color: #000;
+    color: #fff;
+}
+
+.logo img {
+    max-width: 100px;
+}
+
+.nav-links {
+    list-style: none;
+    display: flex;
+}
+
+.nav-links li {
+    margin-left: 2rem;
+}
+
+.nav-links a {
+    text-decoration: none;
+    color: #fff;
+    font-weight: bold;
+    transition: color 0.3s;
+}
+
+.nav-links a:hover {
+    color: #bbb;
+}
+
+#title-container{
+	max-width: 600px;
+    margin: 1em auto;
+    margin-bottom: 0;
+	text-align: center;
+	font-weight: bold;
+    border: 1px solid #000;
+    padding: 1em;
+    border-radius: 8px;
+}
+
+.container {
+    margin: 0 auto;
+	padding: 0.5em;
+    text-align: left;
+    position: relative;
+    border-radius: 8px;
+}
+
+.footer {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1rem 2rem;
+    background-color: #000;
+    color: #fff;
+    /*position: fixed;*/
+    bottom: 0;
+    width: 100%;
+    height: 60px; /* Set the same height as the navbar */
+}
+
+.footer p {
+    margin: 0;
+    font-size: 0.8rem; /* Decreased font size */
+}
+
+.footer .instagram-link {
+    color: #fff;
+    text-decoration: none;
+    font-size: 1.5rem;
+    transition: color 0.3s;
+}
+
+.footer .instagram-link:hover {
+    color: #bbb;
+}
+
+/* Periodic Table Grid */
+.periodic-table {
+    display: grid;
+    grid-template-columns: repeat(18, 60px); /* 18 columns for periodic table */
+    grid-auto-rows: 60px;  /* Adjust row height based on the elements */
+    gap: 10px;
+    justify-content: center;
+    margin: 0 auto;
+}
+
+.element {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+    width: 65px;
+    height: 65px;
+    border: 1px solid #ccc;
+    background-color: #e0e0e0;
+    position: relative;
+    cursor: pointer;
+    border-radius: 4px;
+    transition: transform 0.2s, background-color 0.2s;
+    box-sizing: border-box;
+}
+
+.element:hover {
+    transform: scale(1.5);
+    /*background-color: #d1d1d1;*/
+    border: 1px black solid;
+    z-index: 1;
+}
+
+.element span {
+    font-weight: bold;
+    font-size: 10px;
+}
+
+.element.small-text {
+    font-size: 10px;
+    position: absolute;
+    top: 2px;
+    left: 4px;
+}
+
+.element:hover::after {
+    content: attr(data-name) " (" attr(data-symbol) ")";
+    position: absolute;
+    top: -30px;
+    left: 50%;
+    transform: translateX(-50%);
+    background-color: #333;
+    color: #fff;
+    padding: 3px 6px;
+    border-radius: 4px;
+    font-size: 12px;
+    white-space: nowrap;
+    opacity: 0.9;
+}
+
+/* Pop-up dialog box */
+.element-dialog {
+    display: none;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.5);
+    justify-content: center;
+    align-items: center;
+}
+
+.dialog-content {
+    background-color: white;
+    padding: 20px;
+    border-radius: 8px;
+    width: 600px;
+    position: relative;
+    text-align: left;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+}
+
+.dialog-content h2 {
+    margin-top: 0;
+}
+
+.close {
+    position: absolute;
+    top: 10px;
+    right: 15px;
+    font-size: 20px;
+    cursor: pointer;
+}
+
+/* Element Types List */
+.element-types {
+    margin-top: 30px;
+    text-align: center;
+    font-family: "Wittgenstein", serif;
+    font-size: 12px;
+}
+
+.element-types ul {
+    list-style: none;
+    padding: 0;
+    display: inline-flex;
+    flex-wrap: wrap;
+    gap: 10px;
+}
+
+.element-types li {
+    padding: 10px 15px;
+    background-color: #000;
+    color: white;
+    border-radius: 20px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+.element-types li:hover {
+    background-color: #444;
+}
+
+#clear-highlights {
+    margin-left: 10px;
+    margin-top: 20px;
+    padding: 10px 20px;
+    background-color: #6c757d;
+    color: white;
+    border: none;
+    border-radius: 20px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+    font-family: "Wittgenstein", serif;
+    font-size: 12px;
+}
+
+#clear-highlights:hover {
+    background-color: #5a6268;
+}
+
+/* Highlighted Elements */
+.highlighted {
+    background-color: #FFD700 !important; /* Gold color for highlighting */
+    /*border: 2px solid #FFA500;*/
+    color: black;
+    border-color: black;
+}
+
+/* Blacked-out elements */
+.blacked-out {
+    background-color: black !important; /* Force it */
+    color: black !important;
+    border-color: black !important;
+}
+
+/* Element Type Colors */
+.non-metal {
+    background-color: #B0C4DE;
+}
+
+.noble-gas {
+    background-color: #98FB98;
+}
+
+.alkali-metal {
+    background-color: #FF7F50;
+}
+
+.alkaline-earth-metal {
+    background-color: #FFDAB9;
+}
+
+.metalloid {
+    background-color: #d0b2b2;
+}
+
+.halogen {
+    background-color: #FFB6C1;
+}
+
+.post-transition-metal {
+    background-color: #ADD8E6;
+}
+
+.transition-metal {
+    background-color: #abeec9;
+}
+
+.lanthanide {
+    background-color: #E6E6FA;
+}
+
+.actinide {
+    background-color: #FF4500;
+}
+
+.unknown {
+    background-color: #A9A9A9;
+}
+
+#types-list {
+    margin-bottom: 20px;
+}
+
+#types-list button {
+    margin: 5px;
+    padding: 10px;
+    cursor: pointer;
+    height: 40px;
+    transition: background-color;
+}
+
+/* Small text for atomic number and element name */
+.small-text {
+    font-size: 10px;  /* Adjusted font size */
+    color: #333;
+}
+
+/* Larger font for the element symbol */
+.element-symbol {
+    font-size: 18px;
+    font-weight: bold;
+    color: black;
+}
+
+/* Adjust the font size of the element name to fit */
+.element-name {
+    font-size: 8px !important;  /* Small enough to fit inside */
+    color: #555;
+}
+
+.element-empty {
+    width: 50px;  /* Set the width and height to match your element sizes */
+    height: 50px;
+    border: 1px solid transparent;  /* Add a border or make it invisible */
+    background-color: transparent;  /* Ensure it doesn't have a background */
+}
+
+#ad-container {
+    flex: 1;
+    margin: 1em;
+    /* Add styles for the advertisement container */
+}
+
+#ad-container img {
+    width: 100%;
+    padding: 1em;
+}
