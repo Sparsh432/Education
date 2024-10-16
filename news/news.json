@@ -1,0 +1,362 @@
+[
+    {
+        "title": "Army Chief's Japan Visit",
+        "excerpt": "General Upendra Dwivedi embarked on a five-day visit to Japan. This visit emphasizes India's growing military cooperation with Japan, particularly in countering China's increasing influence in the Indo-Pacific region. This is Dwivedi's first foreign visit as Army Chief.",
+        "image": "images/dwivedi.avif",
+        "category": "general"
+    },
+    {
+        "title": "Israel-Gaza Conflict Sparks Protests in India",
+        "excerpt": "Protests erupted in several Indian cities, with groups showing solidarity with Palestinians amidst the ongoing conflict between Israel and Hamas. The protests have drawn large crowds, particularly in New Delhi and Hyderabad, calling for an end to violence in Gaza.",
+        "image": "images/israel-gaza.webp",
+        "category": "general"
+    },
+    {
+        "title": "Supreme Court on Same-Sex Marriage",
+        "excerpt": "The Supreme Court of India ruled that the legalization of same-sex marriage is within the purview of Parliament, declining to take a direct stand on the matter. The court, however, stressed the need for legal protections for LGBTQIA+ couples.",
+        "image": "images/Supreme-Court.webp",
+        "category": "general"
+    },
+    {
+        "title": "Rahul Gandhi Criticizes Modi Government on Inflation",
+        "excerpt": "Congress leader Rahul Gandhi took a strong stand against the Modi government, highlighting rising inflation and accusing the administration of failing to control prices, particularly for essential commodities like food.",
+        "image": "images/raga.avif",
+        "category": "general"
+    },
+    {
+        "title": "Chandrayaan-3 Continues to Excite Scientists",
+        "excerpt": "India’s Chandrayaan-3 mission, launched in August, has continued to provide critical data about the Moon. Scientists are analyzing lunar surface samples collected during the mission, which has boosted ISRO's reputation globally.",
+        "image": "images/chandrayaan.avif",
+        "category": "general"
+    },
+    {
+        "title": "Kerala Assembly Passes Resolution Against 'One Nation, One Poll'",
+        "excerpt": "The Kerala assembly unanimously passed a resolution opposing the 'One Nation, One Poll' proposal, arguing it threatens the federal structure of the country. The resolution highlights concerns that simultaneous elections would weaken regional political diversity.",
+        "image": "images/kerala.jpg",
+        "category": "general"
+    },
+    {
+        "title": "India's Strong Stand at UN on Israel-Gaza Conflict",
+        "excerpt": "India took a firm position during a United Nations debate, urging both Israel and Hamas to cease hostilities and calling for the protection of civilian lives. India emphasized the need for a peaceful resolution to the conflict in the region.",
+        "image": "images/UN.jpg",
+        "category": "general"
+    },
+    {
+        "title": "India-Japan QUAD Naval Exercises",
+        "excerpt": "India and Japan continue their cooperation in the Malabar Exercise, a key naval operation involving the QUAD nations (India, Japan, Australia, and the US). This strengthens strategic ties amid concerns over China's activities in the Indo-Pacific.",
+        "image": "images/india-japan.webp",
+        "category": "general"
+    },
+    {
+        "title": "India's Strong Industrial Output Growth in September",
+        "excerpt": "India’s industrial output surged in September 2024, recording a robust growth rate, driven by increased manufacturing activity and strong performance in core sectors like energy, steel, and infrastructure.",
+        "image": "images/industries.jpg",
+        "category": "general"
+    },
+    {
+        "title": "Government's UPI for Europe Rollout",
+        "excerpt": "India expanded its Unified Payments Interface (UPI) system to several European countries. This will allow Indian travelers and expatriates to use UPI in countries like the UK, France, and Germany for seamless payments, marking a major step in internationalizing UPI.",
+        "image": "images/UPI-Europe.jpg",
+        "category": "general"
+    },
+    {
+        "title": "Goa Implements Strict Guidelines on Casinos",
+        "excerpt": "The Goa government has introduced stricter regulations for casinos to combat illegal activities. New policies focus on curbing money laundering and ensuring responsible gaming, as well as improving the image of Goa’s tourism industry.",
+        "image": "images/casino.jpg",
+        "category": "general"
+    },
+    {
+        "title": "International Airport in Varanasi Receives Boost",
+        "excerpt": "Varanasi's Lal Bahadur Shastri International Airport is set for a major expansion, with new terminals and increased capacity. This project aims to make the airport a key hub for international and domestic flights in North India.",
+        "image": "images/varanasi.jpg",
+        "category": "general"
+    },
+    {
+        "title": "Tamil Nadu to Provide Free Breakfast in Schools",
+        "excerpt": "The Tamil Nadu government launched a new initiative offering free breakfast to students in government schools. This program aims to tackle child malnutrition and improve attendance rates among underprivileged children.",
+        "image": "images/children.jpg",
+        "category": "general"
+    },
+    {
+        "title": "India Achieves Record Wheat Output",
+        "excerpt": "India has achieved a record wheat production for 2024, ensuring robust food security for the country. This comes after a year of favorable weather and successful government interventions to support farmers.",
+        "image": "images/wheat.avif",
+        "category": "general"
+    },
+    {
+        "title": "Bollywood Stars Rally for Gaza Aid",
+        "excerpt": "Several Bollywood celebrities, including Aamir Khan and Priyanka Chopra, joined efforts to raise awareness and funds for humanitarian aid in Gaza. Their involvement has brought more attention to the crisis, particularly among younger Indian audiences.",
+        "image": "images/gaza.webp",
+        "category": "general"
+    },
+    {
+        "title": "India's Women’s Cricket Team Faces Tough Loss",
+        "excerpt": "India's women's team suffered a close defeat to Australia in the T20 World Cup. Despite a strong showing, India couldn't capitalize on key moments, particularly failing to take advantage of loose deliveries, according to captain Harmanpreet Kaur. This loss has sparked discussions about the team's performance and tactics during crucial phases of the game",
+        "image": "images/women-cricket.jpg",
+        "category": "sports"
+    },
+    {
+        "title": "Jasprit Bumrah in Focus for Test Captaincy",
+        "excerpt": "With rumors swirling about Jasprit Bumrah possibly captaining India for the upcoming Test series against Australia, Rohit Sharma clarified that while Bumrah has been a leader within the team, no official decision has been made yet regarding the Perth Test",
+        "image": "images/bumrah.jpg",
+        "category": "sports"
+    },
+    {
+        "title": "Shubman Gill's Fitness in Doubt for Bengaluru Test",
+        "excerpt": "Ahead of India's Test match against New Zealand in Bengaluru, Shubman Gill’s participation is uncertain due to a stiff neck. A final decision on his availability will be made shortly before the toss​",
+        "image": "images/gill.jpg",
+        "category": "sports"
+    },
+    {
+        "title": "Mayank Yadav and Reserves to Join India in Australia",
+        "excerpt": "India’s management is considering taking Mayank Yadav and other reserve players to Australia for the Border-Gavaskar Trophy. Yadav’s recent performance in the Bangladesh series has caught the team’s attention",
+        "image": "images/mayank.webp",
+        "category": "sports"
+    },
+    {
+        "title": "Kamran Ghulam Shines in Pakistan’s Test Match",
+        "excerpt": "Kamran Ghulam, a replacement for Babar Azam, played a pivotal role by scoring a half-century in his debut Test against England, stabilizing Pakistan after a top-order collapse",
+        "image": "images/kamran.jpg",
+        "category": "sports"
+    },
+    {
+        "title": "India's Success in Para Climbing World Cup",
+        "excerpt": "Manikandan Kumar secured a gold medal at the Para Climbing World Cup 2024, adding to India's growing success in para sports. His win has been celebrated as a major achievement in the international climbing scene",
+        "image": "images/manikandan.webp",
+        "category": "sports"
+    },
+    {
+        "title": "Satwik-Chirag Triumph in Badminton",
+        "excerpt": "Indian badminton duo Satwiksairaj Rankireddy and Chirag Shetty continued their impressive run with a commanding performance at the 2024 World Championships. Their success has bolstered India's hopes for further accolades in the sport.",
+        "image": "images/badminton.webp",
+        "category": "sports"
+    },
+    {
+        "title": "Vinesh Phogat's Victory in Haryana Elections",
+        "excerpt": "Star wrestler Vinesh Phogat, known for her achievements in the ring, won her battle off the mat by securing a seat in the Haryana state assembly elections, marking a significant transition from sports to politics",
+        "image": "images/vinesh.jpg",
+        "category": "sports"
+    },
+    {
+        "title": "Saurashtra Captain Praises TNCA Ground",
+        "excerpt": "Jaydev Unadkat, Saurashtra’s captain, hailed the exceptional drainage system at the Tamil Nadu Cricket Association ground, which ensured play could continue despite a rain-soaked previous day during the Ranji Trophy",
+        "image": "images/jaydev.webp",
+        "category": "sports"
+    },
+    {
+        "title": "Obstacles to 2028 Olympics for Zahabiya Merchant",
+        "excerpt": "Indian obstacle course racer Zahabiya Merchant shared her journey and ambitions to compete in the 2028 Olympics in Los Angeles. She detailed her passion for the sport and the challenges she faces in her pursuit",
+        "image": "images/zahabiya.webp",
+        "category": "sports"
+    },
+    {
+        "title": "Sachin Tendulkar Meets Unmukt Chand in the USA",
+        "excerpt": "Former India U-19 World Cup-winning captain Unmukt Chand, now playing in U.S. leagues, recently met cricket legend Sachin Tendulkar in Dallas, with the interaction being widely shared on social media",
+        "image": "images/unmukt.avif",
+        "category": "sports"
+    },
+    {
+        "title": "T20 World Cup 2024 Drama",
+        "excerpt": "In other T20 World Cup news, India's PM Narendra Modi shared the untold stories of the team's 2024 T20 triumph, while Rahul Dravid reportedly declined a hefty bonus post-victory, earning him further admiration",
+        "image": "images/world-cup.jpg",
+        "category": "sports"
+    },
+    {
+        "title": "India’s Paralympic Success Continues",
+        "excerpt": "Tamil Nadu celebrated its Paralympic heroes, rewarding state athletes who brought home medals. These initiatives aim to encourage the growth of para-sports in India​",
+        "image": "images/tamilnadu.jpg",
+        "category": "sports"
+    },
+    {
+        "title": "Nigeria's Football Team Withdraws from Qualifier",
+        "excerpt": "In football, Nigeria's national team withdrew from their Africa Cup of Nations qualifier against Libya after being stranded at an airport for 16 hours. The situation has drawn attention to logistical issues in African football",
+        "image": "images/nigeria.webp",
+        "category": "sports"
+    },
+    {
+        "title": "India's T20 Boost with Big Win Over Sri Lanka",
+        "excerpt": "India’s women's cricket team achieved a much-needed net run rate boost with a dominant victory over Sri Lanka, putting them in a stronger position for the later stages of the Women's T20 World Cup",
+        "image": "images/india-srilanka.webp",
+        "category": "sports"
+    },
+    {
+        "title": "PM Modi Inaugurates India Mobile Congress 2024",
+        "excerpt": "Prime Minister Narendra Modi kicked off the eighth edition of the India Mobile Congress, highlighting India's leadership in digital innovation.",
+        "image": "images/imc.jpg",
+        "category": "technology"
+    },
+    {
+        "title": "WhatsApp Bans 80 Lakh Indian Accounts to Combat Scams",
+        "excerpt": "WhatsApp has banned over 80 lakh Indian accounts to curb rising online scams, part of their ongoing efforts to enhance platform security.",
+        "image": "images/whatsapp.jpeg",
+        "category": "technology"
+    },
+    {
+        "title": "Reliance Jio Launches JioBharat V3 and V4 at IMC 2024",
+        "excerpt": "Reliance Jio unveiled its JioBharat V3 and V4 phones, priced at Rs 1,099, at the India Mobile Congress to target 2G users and expand 4G connectivity.",
+        "image": "images/jiobharat.avif",
+        "category": "technology"
+    },
+    {
+        "title": "OpenAI Unveils Swarm Framework for Multi-Agent AI Systems",
+        "excerpt": "OpenAI has launched Swarm, a new flexible AI-driven framework to support developers in building collaborative multi-agent systems.",
+        "image": "images/swarm.avif",
+        "category": "technology"
+    },
+    {
+        "title": "Pixel 9 Pro Pre-Orders Begin October 17 on Flipkart",
+        "excerpt": "Google’s Pixel 9 Pro will be available for pre-orders in India starting October 17, with a starting price of Rs 1,09,999 for the base model.",
+        "image": "images/pixel9.jpg",
+        "category": "technology"
+    },
+    {
+        "title": "Apple SE 4 Rumored to Retain iPhone 8 Design with Modern Features",
+        "excerpt": "Apple’s iPhone SE 4 is expected to feature the design of iPhone 8 but include enhanced camera features and the latest iPhone technology.",
+        "image": "images/applese4.webp",
+        "category": "technology"
+    },
+    {
+        "title": "Reliance Jio Competes with Elon Musk Over Satellite Spectrum",
+        "excerpt": "Reliance Jio challenges India’s telecom regulator’s decision on satellite broadband spectrum allocation, escalating its rivalry with Elon Musk's Starlink.",
+        "image": "images/jio.webp",
+        "category": "technology"
+    },
+    {
+        "title": "Adobe Launches Firefly AI Video Generator to Compete with OpenAI",
+        "excerpt": "Adobe introduces Firefly, its new AI-powered video generation tool, taking on OpenAI and Meta in the generative AI space.",
+        "image": "images/firefly.jpg",
+        "category": "technology"
+    },
+    {
+        "title": "Vivo X200 Series Debuts in China with MediaTek Dimensity 9400 Chipset",
+        "excerpt": "Vivo has launched its flagship X200 series featuring the latest MediaTek Dimensity 9400 processor and advanced camera and battery improvements.",
+        "image": "images/vivo.webp",
+        "category": "technology"
+    },
+    {
+        "title": "Meta's Chief AI Scientist Calls AI Fearmongering 'Nonsense'",
+        "excerpt": "Yann LeCun, Meta's chief AI scientist, downplays concerns about AI threats, arguing that AI is far from human-level intelligence.",
+        "image": "images/meta.jpg",
+        "category": "technology"
+    },
+    {
+        "title": "Google to Release Four New Products by November 1",
+        "excerpt": "Reports suggest Google will launch four new devices by November 1, with the official announcement expected at the end of October.",
+        "image": "images/google.jpg",
+        "category": "technology"
+    },
+    {
+        "title": "WhatsApp to Implement New Tools to Curb Online Scams",
+        "excerpt": "Following mass account bans, WhatsApp is rolling out additional security features to tackle online scams and protect user safety.",
+        "image": "images/wa.webp",
+        "category": "technology"
+    },
+    {
+        "title": "Google Introduces New Image Editing Tools for Gemini AI",
+        "excerpt": "Google has enhanced its AI-powered Gemini platform with advanced image editing tools, enabling greater customization and creativity for users.",
+        "image": "images/gemini.jpg",
+        "category": "technology"
+    },
+    {
+        "title": "OpenAI's Report Exposes Cybercriminal Use of ChatGPT for Malware",
+        "excerpt": "A new report from OpenAI reveals how cybercriminals are increasingly exploiting ChatGPT’s capabilities to develop and distribute malware.",
+        "image": "images/openai.webp",
+        "category": "technology"
+    },
+    {
+        "title": "Realme GT 6T Launched with Discounts on Amazon India",
+        "excerpt": "Realme has launched the GT 6T with a flat Rs 5000 discount on Amazon India, offering powerful specifications at an affordable price.",
+        "image": "images/realme.jpg",
+        "category": "technology"
+    },
+    {
+        "title": "Sensex Tumbles Over 500 Points Amid Global Market Uncertainty",
+        "excerpt": "Indian stock markets witnessed a significant dip as global uncertainties and geopolitical concerns weighed on investor sentiment. Sensex dropped over 500 points while Nifty struggled to hold above 19,650.",
+        "image": "images/sensex.jpg",
+        "category": "sharemarket"
+    },
+    {
+        "title": "Rupee Hits New Low Against Dollar, Pressures Markets Further",
+        "excerpt": "The Indian rupee hit a new record low against the US dollar, causing further pressure on domestic markets, as foreign investors pull out amid global market volatility.",
+        "image": "images/rupee.webp",
+        "category": "sharemarket"
+    },
+    {
+        "title": "IT Stocks See Gains as Rupee Falls",
+        "excerpt": "As the Indian rupee hits fresh lows against the dollar, IT stocks surged on the back of increased global competitiveness. TCS, Infosys, and HCL Tech led the pack.",
+        "image": "images/it.avif",
+        "category": "sharemarket"
+    },
+    {
+        "title": "Global Oil Prices Rise, Weighing Down Indian Energy Stocks",
+        "excerpt": "With global oil prices climbing due to escalating Middle East tensions, Indian energy stocks, including ONGC and Reliance, suffered losses in Monday's trade.",
+        "image": "images/oil.jpg",
+        "category": "sharemarket"
+    },
+    {
+        "title": "FPIs Turn Net Sellers as Market Volatility Rises",
+        "excerpt": "Foreign Portfolio Investors (FPIs) became net sellers in the Indian markets due to global economic concerns, pulling out over ₹3,000 crores in a single session.",
+        "image": "images/FPI.webp",
+        "category": "sharemarket"
+    },
+    {
+        "title": "Adani Group Stocks Slide as Regulatory Concerns Intensify",
+        "excerpt": "Shares of Adani Group companies fell sharply amid fresh regulatory scrutiny, as investors become increasingly cautious about potential risks.",
+        "image": "images/adani.jpg",
+        "category": "sharemarket"
+    },
+    {
+        "title": "Banking Stocks Fall as RBI Governor Hints at Policy Tightening",
+        "excerpt": "Banking sector stocks declined after the RBI Governor hinted at further tightening of monetary policy to curb inflation, which could impact loan growth and profitability.",
+        "image": "images/rbi.webp",
+        "category": "sharemarket"
+    },
+    {
+        "title": "Auto Stocks Rebound on Festive Demand Optimism",
+        "excerpt": "Auto stocks recovered from last week's losses, driven by expectations of higher sales during the upcoming festive season, with companies like Maruti Suzuki and Tata Motors leading the gains.",
+        "image": "images/auto.webp",
+        "category": "sharemarket"
+    },
+    {
+        "title": "Metal Stocks Under Pressure Amid Global Growth Fears",
+        "excerpt": "Metal stocks, including Tata Steel and JSW Steel, remained under pressure as concerns over slowing global growth and lower commodity prices weighed heavily on investor sentiment.",
+        "image": "images/metal.webp",
+        "category": "sharemarket"
+    },
+    {
+        "title": "Pharma Stocks Shine as Healthcare Demand Rises Globally",
+        "excerpt": "Pharma stocks like Dr. Reddy's and Cipla saw positive movement amid rising global healthcare demand, as investors turned to defensive sectors in times of market volatility.",
+        "image": "images/pharma.jpg",
+        "category": "sharemarket"
+    },
+    {
+        "title": "Power Stocks Decline as Regulatory Hurdles Mount",
+        "excerpt": "Power sector stocks, including NTPC and Tata Power, faced declines due to increasing regulatory hurdles and uncertainty in long-term projects.",
+        "image": "images/power.webp",
+        "category": "sharemarket"
+    },
+    {
+        "title": "FMCG Stocks Maintain Stability Amid Market Sell-off",
+        "excerpt": "FMCG companies such as HUL and ITC remained stable during the broader market sell-off, as these stocks are considered safer bets in times of economic downturn.",
+        "image": "images/fmcg.jpg",
+        "category": "sharemarket"
+    },
+    {
+        "title": "Realty Stocks Rally on Strong Q2 Results",
+        "excerpt": "Realty stocks like DLF and Godrej Properties saw gains after posting strong Q2 earnings, backed by rising property demand and lower inventory levels.",
+        "image": "images/realty.avif",
+        "category": "sharemarket"
+    },
+    {
+        "title": "Tech IPOs Gain Traction Despite Market Volatility",
+        "excerpt": "Several tech IPOs, including those of startup unicorns, continue to attract strong investor interest, even as market volatility remains high.",
+        "image": "images/tech.avif",
+        "category": "sharemarket"
+    },
+    {
+        "title": "Consumer Durables in Focus as Inflation Eases",
+        "excerpt": "The consumer durables sector witnessed gains as inflationary pressures began to ease, improving market sentiment and boosting household consumption prospects.",
+        "image": "images/durables.webp",
+        "category": "sharemarket"
+    }
+]
