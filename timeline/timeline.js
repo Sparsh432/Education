@@ -7,7 +7,7 @@ document.addEventListener('DOMContentLoaded', function () {
     const timelineContainer = document.getElementById('timeline-container');
 
     // Array of years for the timeline (adjust as necessary)
-    const years = Array.from({ length: 150 }, (_, i) => 2024 - i);
+    const years = Array.from({ length: 30 }, (_, i) => 2024 - i);
 
     // Fetch JSON Data for Events and Timeline
     async function loadTimelineData() {
